@@ -1,3 +1,5 @@
+# https://github.com/actions/starter-workflows/blob/main/pages/static.yml
+
 name: Deploy static content to Pages
 
 on:
