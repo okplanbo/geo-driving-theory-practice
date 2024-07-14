@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://okplanbo.github.io/geo-b1-exam
+      url: ${{ steps.step_id.outputs.url_output }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
