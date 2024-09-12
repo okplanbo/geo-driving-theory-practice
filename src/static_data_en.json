@@ -1,0 +1,1001 @@
+[
+  {
+    "id": 1,
+    "img": "img1",
+    "question": "Which vehicle's driver is obligated to yield when moving according to the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the truck"
+      },
+      {
+        "text": "The driver of the passenger car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "img2",
+    "question": "Is the driver of the red car obligated to yield to pedestrians when entering the road from an adjacent area?",
+    "answers": [
+      {
+        "text": "Obligated",
+        "correct": true
+      },
+      {
+        "text": "Not obligated"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "img3",
+    "question": "Which vehicle's driver is given priority when moving according to the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the blue car"
+      },
+      {
+        "text": "The driver of the white car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "img4",
+    "question": "What is the order for vehicles to pass the intersection when moving according to the arrow, if the ambulance has a flashing blue beacon and a siren?",
+    "answers": [
+      {
+        "text": "First, the ambulance should pass, then the passenger car, and finally the truck",
+        "correct": true
+      },
+      {
+        "text": "First, the ambulance should pass, then the truck, and finally the passenger car"
+      },
+      {
+        "text": "First, the passenger car should pass, then the ambulance, and finally the truck"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "img5",
+    "question": "What is the order for vehicles to pass the intersection when moving according to the arrow?",
+    "answers": [
+      {
+        "text": "First, the passenger car should pass, then the truck, and finally the bus"
+      },
+      {
+        "text": "First, the truck should pass, then the bus, and finally the passenger car"
+      },
+      {
+        "text": "First, the bus should pass, then the passenger car, and finally the truck",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "img": "img6",
+    "question": "What is the order for vehicles to pass the intersection when moving according to the arrow?",
+    "answers": [
+      {
+        "text": "First, the bus should pass, then the motorcycle, and finally the passenger car"
+      },
+      {
+        "text": "First, the passenger car should pass, then the bus, and finally the motorcycle",
+        "correct": true
+      },
+      {
+        "text": "First, the motorcycle should pass, then the bus, and finally the passenger car"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "For road safety, it is prohibited to drive a vehicle with tinted windows if:",
+    "answers": [
+      {
+        "text": "In violation of the rule established by the Ministry of Internal Affairs of Georgia",
+        "correct": true
+      },
+      {
+        "text": "In violation of the rule established by local government authorities"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "img": "img8",
+    "question": "The driver of a passenger car is allowed to make a U-turn:",
+    "answers": [
+      {
+        "text": "In direction A"
+      },
+      {
+        "text": "In direction B",
+        "correct": true
+      },
+      {
+        "text": "In both direction A and direction B"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "The restriction or temporary cessation of traffic on the road by the relevant authorities is carried out:",
+    "answers": [
+      {
+        "text": "Only in case of road malfunction, limited visibility conditions, natural phenomena, and natural disasters"
+      },
+      {
+        "text": "In case of any of the listed circumstances",
+        "correct": true
+      },
+      {
+        "text": "In case of an accident, disaster, or other mishap."
+      },
+      {
+        "text": "Only to ensure road safety, the life and health of individuals, and the protection of property."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "img": "img10",
+    "question": "Which vehicle's driver is obligated to yield at the intersection indicated by the arrows?",
+    "answers": [
+      {
+        "text": "The driver of the cross car",
+        "correct": true
+      },
+      {
+        "text": "The driver of the blue car"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "img": "img11",
+    "question": "Does the driver of the red car have the right to continue driving in the direction of the arrow if, after the green traffic light, when the yellow light comes on, they cannot stop at the 'Stop' line without sudden braking?",
+    "answers": [
+      {
+        "text": "Has the right",
+        "correct": true
+      },
+      {
+        "text": "Does not have the right"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "img": "img12",
+    "question": "Which drivers are prohibited from driving in the direction of the arrow at this traffic regulator's signal?",
+    "answers": [
+      {
+        "text": "Drivers of trams and passenger cars"
+      },
+      {
+        "text": "Drivers of buses and passenger cars"
+      },
+      {
+        "text": "Drivers of trams and buses",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "img": "img13",
+    "question": "What is the order for vehicles to pass the intersection when moving according to the arrow, if the emergency service vehicle has a flashing light and a siren?",
+    "answers": [
+      {
+        "text": "First, the emergency service vehicle should pass, then the passenger car and tractor, and finally the bus"
+      },
+      {
+        "text": "First, the bus should pass, then the tractor, then the emergency service vehicle, and finally the passenger car"
+      },
+      {
+        "text": "First, the emergency service vehicle should pass, then the bus, then the tractor, and finally the passenger car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "img": "img14",
+    "question": "What is the order for vehicles to pass the intersection when moving according to the arrow, if the emergency service vehicle has a flashing light and a siren?",
+    "answers": [
+      {
+        "text": "First, the emergency service vehicle should pass, then the passenger car, and finally the truck",
+        "correct": true
+      },
+      {
+        "text": "First, the emergency service vehicle should pass, then the truck, and finally the passenger car"
+      },
+      {
+        "text": "First, the passenger car should pass, then the emergency service vehicle, and finally the truck"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "img": "img15",
+    "question": "Which driver's vehicle will violate traffic rules when moving according to the arrow at this signal from the traffic regulator?",
+    "answers": [
+      {
+        "text": "The driver of the red passenger car"
+      },
+      {
+        "text": "The driver of the blue passenger car",
+        "correct": true
+      },
+      {
+        "text": "The driver of the white passenger car"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "img": "img16",
+    "question": "Which vehicle's driver is obligated to yield to pedestrians when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the driver of the truck"
+      },
+      {
+        "text": "Only the driver of the passenger car"
+      },
+      {
+        "text": "Only the driver of the motorcycle"
+      },
+      {
+        "text": "All three drivers of the vehicles",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "img": "img17",
+    "question": "In relation to which road user is the driver of the red car obligated to yield if the emergency service vehicle has its flashing light and siren on?",
+    "answers": [
+      {
+        "text": "In relation to both the pedestrian and the driver of the emergency vehicle",
+        "correct": true
+      },
+      {
+        "text": "Only in relation to the driver of the emergency vehicle"
+      },
+      {
+        "text": "Only in relation to the pedestrian"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "img": "img18",
+    "question": "Is the driver of the passenger car obligated to yield to the bus driver who is completing the crossing at the intersection?",
+    "answers": [
+      {
+        "text": "Obligated",
+        "correct": true
+      },
+      {
+        "text": "Not obligated"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "img": "img19",
+    "question": "Which vehicle's driver is obligated to yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the black car",
+        "correct": true
+      },
+      {
+        "text": "The driver of the red car"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Is it permissible to make changes to traffic organization in order to increase road capacity or for other purposes at the expense of reducing road safety?",
+    "answers": [
+      {
+        "text": "Not permissible",
+        "correct": true
+      },
+      {
+        "text": "Permissible"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "img": "img21",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the passenger car should pass, then the quad bike, and finally the bus"
+      },
+      {
+        "text": "First, the quad bike should pass, then the bus, and finally the passenger car",
+        "correct": true
+      },
+      {
+        "text": "First, the bus should pass, then the passenger car, and finally the quad bike"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "img": "img22",
+    "question": "The driver of the passenger car is prohibited from moving:",
+    "answers": [
+      {
+        "text": "In direction A",
+        "correct": true
+      },
+      {
+        "text": "In direction B"
+      },
+      {
+        "text": "In direction C"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "img": "img23",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the yellow car should pass, then the truck, and finally the passenger car"
+      },
+      {
+        "text": "First, the blue car should pass, then the truck, and finally the yellow car"
+      },
+      {
+        "text": "First, the yellow car should pass, then the blue car, and finally the truck",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Is the driver obligated to ensure that vehicles in his ownership cause minimal environmental damage?",
+    "answers": [
+      {
+        "text": "Not obligated"
+      },
+      {
+        "text": "Obligated",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Which of the activities listed below is prohibited without the permission, consent, or agreement of the relevant authority?",
+    "answers": [
+      {
+        "text": "Only the transportation of passengers by taxi (category №1) in the capital of Georgia"
+      },
+      {
+        "text": "Only regular passenger transportation on established routes (including within municipal boundaries)"
+      },
+      {
+        "text": "Only holding mass, sports, or other events on the roads"
+      },
+      {
+        "text": "Any activity listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "img": "img26",
+    "question": "Which vehicle's driver is prohibited from moving in the direction of the arrow at this traffic regulator's signal?",
+    "answers": [
+      {
+        "text": "The driver of the motorcycle"
+      },
+      {
+        "text": "The driver of the bus"
+      },
+      {
+        "text": "The driver of the passenger car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Which of the activities listed below is prohibited without the permission, consent, or agreement of the relevant authority?",
+    "answers": [
+      {
+        "text": "Only the modification of a mechanical vehicle"
+      },
+      {
+        "text": "Only the installation of special lighting and sound signals, as well as loudspeakers"
+      },
+      {
+        "text": "Only the movement of vehicles carrying dangerous goods"
+      },
+      {
+        "text": "Any action listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "img": "img28",
+    "question": "The ambulance has a flashing blue beacon and a siren. Which vehicles' drivers can continue moving in the direction of the arrow at this traffic regulator's signal?",
+    "answers": [
+      {
+        "text": "The drivers of the ambulance, the truck, and the red passenger car"
+      },
+      {
+        "text": "The drivers of the truck and the red passenger car",
+        "correct": true
+      },
+      {
+        "text": "The drivers of the ambulance, the truck, and the blue passenger car"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "img": "img29",
+    "question": "Which of the given identification signs represents the 'Distinguishing Sign of the State of Registration' for a vehicle registered in Georgia that is in international movement?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "img": "img30",
+    "question": "In which direction can the driver of the passenger car continue moving at this traffic regulator's signal?",
+    "answers": [
+      {
+        "text": "Only in directions A, B, and C"
+      },
+      {
+        "text": "Only in directions B and D"
+      },
+      {
+        "text": "Only in directions A, C, and D"
+      },
+      {
+        "text": "In directions A, B, C, and D",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "img": "img31",
+    "question": "Which vehicle drivers can continue moving in the direction of the arrow at this traffic regulator's signal?",
+    "answers": [
+      {
+        "text": "The drivers of the truck, yellow, and red cars"
+      },
+      {
+        "text": "The drivers of the yellow and blue cars",
+        "correct": true
+      },
+      {
+        "text": "The drivers of the yellow and red cars"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "According to Georgian legislation, a road user has the right to:",
+    "answers": [
+      {
+        "text": "Only move freely and without obstruction on the road"
+      },
+      {
+        "text": "Only appeal the actions of an authorized official in the field of road safety"
+      },
+      {
+        "text": "Both move freely and without obstruction on the road and appeal the actions of an authorized official in the field of road safety",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "img": "img33",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the passenger car should pass, then the tram, and finally the truck"
+      },
+      {
+        "text": "First, the tram should pass, then the truck, and finally the passenger car"
+      },
+      {
+        "text": "First, the tram should pass, then the passenger car, and finally the truck",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "img": "img34",
+    "question": "Which vehicle's driver must the driver of the passenger car yield to when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the motorcycle driver"
+      },
+      {
+        "text": "Only the bus driver",
+        "correct": true
+      },
+      {
+        "text": "Both the motorcycle and bus drivers"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "A road user has the right, according to Georgian legislation, to obtain information from authorized state and local authorities, as well as other authorized persons about:",
+    "answers": [
+      {
+        "text": "Only about the conditions of road safety."
+      },
+      {
+        "text": "Only about the reasons for the limitation or cessation of traffic control measures."
+      },
+      {
+        "text": "Only about the quality of products and services related to road safety."
+      },
+      {
+        "text": "All the information listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "img": "img36",
+    "question": "Which vehicle driver will not violate traffic rules when moving in the direction of the arrow at this traffic regulator's signal?",
+    "answers": [
+      {
+        "text": "Only the driver of the passenger car"
+      },
+      {
+        "text": "Only the drivers of the passenger car and the tram"
+      },
+      {
+        "text": "Only the driver of the passenger car and the second tram"
+      },
+      {
+        "text": "Only the drivers of the first and second trams",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "img": "img37",
+    "question": "Which vehicle drivers must the driver of the yellow passenger car yield to when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the drivers of the tram and the blue passenger car"
+      },
+      {
+        "text": "Only the drivers of the tram and the truck",
+        "correct": true
+      },
+      {
+        "text": "Only the drivers of the truck and the blue passenger car"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "img": "img38",
+    "question": "Which vehicle drivers must the driver of the passenger car yield to when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Only the tram driver"
+      },
+      {
+        "text": "To all vehicle drivers"
+      },
+      {
+        "text": "To none of the vehicle drivers",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "img": "img39",
+    "question": "Which vehicle drivers must the driver of the white passenger car yield to when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "To all vehicle drivers",
+        "correct": true
+      },
+      {
+        "text": "Only to the driver of the blue passenger car"
+      },
+      {
+        "text": "Only to the drivers of the bus and the motorcycle"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "img": "img40",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the yellow car should pass, then the red car, then tram A, and finally tram B"
+      },
+      {
+        "text": "First, the red car should pass, then the yellow car, then tram B, and finally tram A"
+      },
+      {
+        "text": "First, tram B should pass, then the yellow car, then tram A, and finally the red car"
+      },
+      {
+        "text": "First, tram A should pass, then tram B, then the yellow car, and finally the red car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "img": "img41",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow, if the ambulance has a flashing blue beacon and a siren?",
+    "answers": [
+      {
+        "text": "First, the ambulance, then the bus, and finally the passenger car"
+      },
+      {
+        "text": "First, the passenger car, then the ambulance, and finally the bus"
+      },
+      {
+        "text": "First, the ambulance, then the passenger car, and finally the bus",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "img": "img42",
+    "question": "Which vehicle driver will violate the traffic rules when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the yellow car"
+      },
+      {
+        "text": "The driver of the white car"
+      },
+      {
+        "text": "The driver of the red car",
+        "correct": true
+      },
+      {
+        "text": "The driver of the green car"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "img": "img43",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the passenger car, then the first tram and second tram, and finally the truck"
+      },
+      {
+        "text": "First, the first tram and second tram, then the passenger car, and finally the truck",
+        "correct": true
+      },
+      {
+        "text": "First, the truck, then the passenger car, and finally the first and second trams"
+      },
+      {
+        "text": "First, the first tram and second tram, then the truck, and finally the passenger car"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "img": "img44",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow, if the road entering from the right side of the intersection is unpaved?",
+    "answers": [
+      {
+        "text": "First, the truck, then the bus, then the motorcycle, and finally the passenger car"
+      },
+      {
+        "text": "First, the passenger car, then the motorcycle, then the truck, and finally the bus",
+        "correct": true
+      },
+      {
+        "text": "First, the motorcycle, then the bus, then the truck, and finally the passenger car"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Does a road user have the right to obstruct traffic or create a hazard by placing, dumping, or leaving objects on the road?",
+    "answers": [
+      {
+        "text": "Has the right"
+      },
+      {
+        "text": "Does not have the right",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "If a road user has obstructed traffic or created a hazard by scattering items on the road, they must immediately:",
+    "answers": [
+      {
+        "text": "Take the necessary steps to remove the obstruction, or if that is not immediately possible, ensure other road users are promptly warned about the hazard.",
+        "correct": true
+      },
+      {
+        "text": "Notify the municipal cleaning service and continue driving with extra caution."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "If a road user cannot immediately remove an obstruction or hazard they created, they must:",
+    "answers": [
+      {
+        "text": "Ensure other road users are promptly warned about the hazard.",
+        "correct": true
+      },
+      {
+        "text": "Continue driving with caution and are not obligated to warn other road users about the hazard."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "img": "img48",
+    "question": "Which road user must the driver of the white car yield to when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the motorcycle driver"
+      },
+      {
+        "text": "Only the pedestrian"
+      },
+      {
+        "text": "Both the motorcycle driver and the pedestrian",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "The driver is prohibited from operating a mechanical vehicle:",
+    "answers": [
+      {
+        "text": "Only if the driving rights have been suspended"
+      },
+      {
+        "text": "Only if the driving rights have been revoked or terminated"
+      },
+      {
+        "text": "Both if the driving rights have been suspended and if they have been revoked or terminated",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "img": "img50",
+    "question": "Which vehicle driver is prohibited from moving in the direction of the arrow at this traffic light signal if the road after the intersection is blocked by vehicles?",
+    "answers": [
+      {
+        "text": "Only the driver of the gray car",
+        "correct": true
+      },
+      {
+        "text": "Only the driver of the yellow car"
+      },
+      {
+        "text": "None of the vehicle drivers"
+      },
+      {
+        "text": "Both vehicle drivers"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "img": "img51",
+    "question": "Does the driver of the passenger car have the right to continue driving?",
+    "answers": [
+      {
+        "text": "Only in directions A, C, and D"
+      },
+      {
+        "text": "In directions A, B, C, and D"
+      },
+      {
+        "text": "Only in directions B and C"
+      },
+      {
+        "text": "Only in direction D",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "img": "img52",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the yellow car should pass, then the white car, and finally the green car",
+        "correct": true
+      },
+      {
+        "text": "First, the yellow car should pass, then the green car, and finally the white car"
+      },
+      {
+        "text": "First, the green car should pass, then the yellow car, and finally the white car"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "img": "img53",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the yellow car should pass, then the truck, and finally the red car",
+        "correct": true
+      },
+      {
+        "text": "First, the truck should pass, then the red car, and finally the yellow car"
+      },
+      {
+        "text": "First, the red car should pass, then the truck, and finally the yellow car"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "If there are children near the traffic light, what should the approaching driver anticipate?",
+    "answers": [
+      {
+        "text": "Only that children may step onto the road immediately after the traffic light changes from green to yellow"
+      },
+      {
+        "text": "Only that one of the children may be pushed onto the road by others in the group"
+      },
+      {
+        "text": "Only that children may cross the road before the traffic light gives them permission"
+      },
+      {
+        "text": "All of the above situations listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "img": "img55",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the blue car should pass, then the tram, and finally the green car"
+      },
+      {
+        "text": "First, the tram should pass, then the blue car, and finally the green car",
+        "correct": true
+      },
+      {
+        "text": "First, the tram and the green car should pass, and finally the blue car"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "img": "img56",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the passenger car should pass, then the first tram, and finally the second tram"
+      },
+      {
+        "text": "First, the second tram should pass, then the passenger car, and finally the first tram"
+      },
+      {
+        "text": "First, the first tram should pass, then the second tram, and finally the passenger car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "img": "img57",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow, if the traffic light is not working?",
+    "answers": [
+      {
+        "text": "First, the bus should pass, then the passenger car, then the truck, and finally the motorcycle"
+      },
+      {
+        "text": "First, the passenger and truck should pass, then the bus and motorcycle"
+      },
+      {
+        "text": "First, the bus and motorcycle should pass, then the passenger and truck",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "img": "img58",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow, if the traffic light is off?",
+    "answers": [
+      {
+        "text": "First, the bus should pass, then the passenger car, then the motorcycle, and finally the tram"
+      },
+      {
+        "text": "First, the tram should pass, then the passenger car, and finally the bus and motorcycle",
+        "correct": true
+      },
+      {
+        "text": "First, the passenger car should pass, then the bus, then the tram, and finally the truck"
+      },
+      {
+        "text": "First, the passenger car should pass, then the tram, and finally the bus and motorcycle"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "img": "img59",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the bus should pass, then the passenger car, then the motorcycle, and finally the tram"
+      },
+      {
+        "text": "First, the tram should pass, then the passenger car, and finally the bus and motorcycle"
+      },
+      {
+        "text": "First, the passenger car should pass, then the bus, then the tram, and finally the motorcycle"
+      },
+      {
+        "text": "First, the motorcycle should pass, then the bus, and finally the tram and passenger car",
+        "correct": true
+      }
+    ]
+  }
+]
