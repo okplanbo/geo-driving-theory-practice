@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 import {
   Box,
   Text,
@@ -6,12 +8,23 @@ import {
   RadioGroup,
   Stack,
   Checkbox,
-  Divider
+  Divider,
 } from "@chakra-ui/react";
 
-const QuestionCard = ({ number, testSize, question }) => {
+import { updateExcludedIds } from "./db";
+
+const QuestionCard = ({ number, testSize, question, excludedIds }) => {
+  const [isExcluded, setIsExcluded] = useState(false);
+
   const { id, img, question: questionText, answers } = question;
   const imageUrl = img ? `${img}.avif` : "standard.avif";
+
+  const handleCheckboxChange = async (e) => {
+    const checked = e.target.checked;
+    setIsExcluded(checked);
+    const updatedExcludedIds = checked ? [...excludedIds, id] : excludedIds.filter(excludedId => excludedId !== id);
+    await updateExcludedIds(updatedExcludedIds);
+  };
 
   return (
     <Box
@@ -29,14 +42,10 @@ const QuestionCard = ({ number, testSize, question }) => {
         <Text fontSize="sm">
           Question {number} of {testSize}
         </Text>
-        <Text fontSize="sm" fontWeight="bold">
-          Database ID: {id}
-        </Text>
+        <Text fontSize="sm">Database ID: {id}</Text>
       </Box>
       <Image src={imageUrl} alt="Question Image" mt="5" mb="5" />
-      <Text mb="5">
-        {questionText}
-      </Text>
+      <Text mb="5">{questionText}</Text>
       <RadioGroup mb="5">
         <Stack spacing={5}>
           {answers.map((answer, index) => (
@@ -47,7 +56,14 @@ const QuestionCard = ({ number, testSize, question }) => {
         </Stack>
       </RadioGroup>
       <Divider />
-      <Checkbox mt="5" alignSelf="end">Exclude this question from future tests</Checkbox>
+      <Checkbox
+        isChecked={isExcluded}
+        onChange={handleCheckboxChange}
+        mt="5"
+        alignSelf="end"
+      >
+        Exclude this question from future tests
+      </Checkbox>
     </Box>
   );
 };
