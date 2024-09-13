@@ -11,7 +11,10 @@ import "./App.css";
 const getRandomId = () => Math.floor(Math.random() * data.length);
 
 /* TBD:
- * error indication, green if correct answer + if wrong show which was correct
+ * remove paddings on narrow screens, make title smaller
+ * save questions to db to reuse them
+ * link to official questions
+ * test image on android devices
  * start, finish view, back/next/reset controls
  * table of all q with pagination and filters
  * i18n: UI, language switcher

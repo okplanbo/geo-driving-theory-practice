@@ -29,7 +29,8 @@ const QuestionCard = ({ number, testSize, question, excludedIds }) => {
     await updateExcludedIds(updatedExcludedIds);
   };
 
-  // const isCorrect = selectedAnswer === answers.isCorrect;
+  const correctAnswerText = answers.filter((answer) => answer.correct)[0].text;
+  const isCorrect = selectedAnswer === correctAnswerText;
 
   return (
     <Box
@@ -41,17 +42,17 @@ const QuestionCard = ({ number, testSize, question, excludedIds }) => {
       flexDirection="column"
       alignItems="flex-start"
       textAlign="start"
-      // borderColor={
-      //   selectedAnswer !== null
-      //     ? isCorrect
-      //       ? "green.400"
-      //       : "red.400"
-      //     : "gray.200"
-      // }
-      // borderStyle="solid"
+      borderColor={
+        selectedAnswer !== null
+          ? isCorrect
+            ? "green.400"
+            : "red.400"
+          : "gray.200"
+      }
+      borderStyle="solid"
     >
       <Box className="flex justify-between w-full">
-        <Text fontSize="sm">
+        <Text fontSize="sm" visibility={"hidden"}>
           Question {number} of {testSize}
         </Text>
         <Text fontSize="sm">Database ID: {id}</Text>
@@ -74,30 +75,29 @@ const QuestionCard = ({ number, testSize, question, excludedIds }) => {
       >
         <Stack spacing={5}>
           {answers.map((answer, index) => (
-            <Radio
-              key={index}
-              value={answer.text}
-              // borderStyle="solid"
-              // borderColor={
-              //   selectedAnswer !== null && !isCorrect
-              //     ? "red.400"
-              //     : undefined
-              // }
-            >
-              <p className="select-text">{answer.text}</p>
+            <Radio key={index} value={answer.text}>
+              <p className="select-text">
+                {answer.text} {answer.correct && selectedAnswer !== null ? "✓" : ""}
+              </p>
             </Radio>
           ))}
         </Stack>
       </RadioGroup>
       <Divider />
-      <Checkbox
-        isChecked={isExcluded}
-        onChange={handleCheckboxChange}
-        mt="5"
-        alignSelf="end"
-      >
-        Exclude this question from future tests
-      </Checkbox>
+      <Box className="flex flex-row w-full justify-between items-center h-12">
+        {selectedAnswer !== null ? (
+          <Text color={isCorrect ? "green.400" : "red.400"}>
+            {isCorrect ? "Correct!" : "Wrong!"}
+          </Text>
+        ) : null}
+        <Checkbox
+          isChecked={isExcluded}
+          onChange={handleCheckboxChange}
+          marginLeft="auto"
+        >
+          Exclude this question
+        </Checkbox>
+      </Box>
     </Box>
   );
 };
