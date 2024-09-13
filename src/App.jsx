@@ -10,12 +10,14 @@ import "./App.css";
 
 const getRandomId = () => Math.floor(Math.random() * data.length);
 
-/** TBD:
- *** language switcher
- *** start, finish view, table with pagination
- *** i18n for UI
- *** ts support?
- *** font consistency
+/* TBD:
+ * error indication, green if correct answer + if wrong show which was correct
+ * start, finish view, back/next/reset controls
+ * table of all q with pagination and filters
+ * i18n: UI, language switcher
+ * font consistency for i18n
+ * offline mode
+ * ts support?
  */
 
 function App() {
@@ -40,7 +42,7 @@ function App() {
   return (
     <>
       <h1 className="text-3xl font-bold">B/B1 theory exam practice</h1>
-      <div className="card max-w-4xl">
+      <div className="max-w-4xl p-6">
         {questions.length ? (
           <ChakraProvider>
             {questions.slice(0, 30).map((question, index) => (
@@ -57,11 +59,11 @@ function App() {
           "loading"
         )}
       </div>
-      <div className="mt-auto flex flex-row self-end h-full gap-4 justify-center font-light">
-          <div>Questions: {data.length}</div>
-          <div>Active: {data.length - excludedIds.length}</div>
-          <div>Excluded: {excludedIds.length}</div>
-        </div>
+      <div className="mt-auto flex flex-row self-end h-full gap-4 justify-center text-neutral-400 text-sm">
+        <span>Questions: {data.length}</span>
+        <span>Active: {data.length - excludedIds.length}</span>
+        <span>Excluded: {excludedIds.length}</span>
+      </div>
     </>
   );
 }

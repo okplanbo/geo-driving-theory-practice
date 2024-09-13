@@ -997,5 +997,979 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 60,
+    "img": "img60",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the red passenger car should pass, then the truck, and finally the green passenger car"
+      },
+      {
+        "text": "First, the truck should pass, then the green passenger car, and finally the red passenger car",
+        "correct": true
+      },
+      {
+        "text": "First, the green passenger car should pass, then the red passenger car, and finally the truck"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "The amount of harmful substances in vehicle exhaust will decrease if the following are used:",
+    "answers": [
+      {
+        "text": "Only a technically sound vehicle"
+      },
+      {
+        "text": "Only high-quality fuel"
+      },
+      {
+        "text": "Only unleaded (lead-free) fuel"
+      },
+      {
+        "text": "Both a technically sound vehicle, high-quality fuel, and unleaded (lead-free) fuel",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "img": "img62",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the yellow car should pass, then the motorcycle, and finally the red car",
+        "correct": true
+      },
+      {
+        "text": "First, the yellow car should pass, then the red car, and finally the motorcycle"
+      },
+      {
+        "text": "First, the motorcycle should pass, then the yellow car, and finally the red car"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "img": "img63",
+    "question": "Which vehicle driver is given the right of way when moving in the direction of the arrow, if the road signs are covered with snow?",
+    "answers": [
+      {
+        "text": "The driver of the white car"
+      },
+      {
+        "text": "The driver of the red car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "img": "img64",
+    "question": "Which vehicle driver must yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the white car",
+        "correct": true
+      },
+      {
+        "text": "The driver of the gray car"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "img": "img65",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the bus should pass, then the passenger car, and finally the truck"
+      },
+      {
+        "text": "First, the truck should pass, then the passenger car, and finally the bus"
+      },
+      {
+        "text": "First, the bus should pass, then the truck, and finally the passenger car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "img": "img66",
+    "question": "Which vehicle driver must yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the yellow car"
+      },
+      {
+        "text": "The driver of the white car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "img": "img67",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the yellow car should pass, then the blue car, and finally the truck"
+      },
+      {
+        "text": "First, the truck should pass, then the blue car, and finally the yellow car"
+      },
+      {
+        "text": "First, the blue car should pass, then the truck, and finally the yellow car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "When using the rearview mirror of a passenger car, the driver should consider:",
+    "answers": [
+      {
+        "text": "Only that the mirror should be adjusted according to the driver's height"
+      },
+      {
+        "text": "Only that in a convex mirror, objects appear farther away than they actually are"
+      },
+      {
+        "text": "Only that the mirror has blind spots, which prevent full visibility and observation of overtaking vehicles"
+      },
+      {
+        "text": "All of the above situations listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "img": "img69",
+    "question": "Which vehicle driver is given priority when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the passenger car"
+      },
+      {
+        "text": "The driver of the tram",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "img": "img70",
+    "question": "Which vehicle driver must the tractor driver yield to when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the passenger car driver"
+      },
+      {
+        "text": "Only the herder",
+        "correct": true
+      },
+      {
+        "text": "Both the passenger car driver and the herder"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "img": "img71",
+    "question": "Which vehicle driver must yield when moving in the direction of the arrow, if the passenger car is exiting from a gas station?",
+    "answers": [
+      {
+        "text": "The driver of the passenger car",
+        "correct": true
+      },
+      {
+        "text": "The driver of the moped"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "img": "img72",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the passenger car should pass, then the truck, and finally the motorcycle"
+      },
+      {
+        "text": "First, the truck should pass, then the motorcycle, and finally the passenger car",
+        "correct": true
+      },
+      {
+        "text": "First, the motorcycle should pass, then the passenger car, and finally the truck"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "img": "img73",
+    "question": "Which vehicle driver must yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The passenger car driver"
+      },
+      {
+        "text": "The tram driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "img": "img74",
+    "question": "Which vehicle driver must yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The passenger car driver",
+        "correct": true
+      },
+      {
+        "text": "The tram driver"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "img": "img75",
+    "question": "Which vehicle driver must yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The passenger car driver"
+      },
+      {
+        "text": "The tram driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "img": "img76",
+    "question": "Which vehicle driver will pass the intersection first when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The passenger car driver",
+        "correct": true
+      },
+      {
+        "text": "The tram and motorcycle drivers"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "img": "img77",
+    "question": "Which vehicle driver must yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The tram driver"
+      },
+      {
+        "text": "The passenger car driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "img": "img78",
+    "question": "Does the driver of the blue car have the right to continue driving in the direction of the arrow at this traffic light signal?",
+    "answers": [
+      {
+        "text": "Has the right",
+        "correct": true
+      },
+      {
+        "text": "Does not have the right"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "img": "img79",
+    "question": "Which vehicle driver must the passenger car driver yield to when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the bus driver"
+      },
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Both the truck driver and the bus driver",
+        "correct": true
+      },
+      {
+        "text": "None of the vehicle drivers"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "img": "img80",
+    "question": "Which vehicle driver must the blue car driver yield to when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the green passenger car driver"
+      },
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Both the passenger car driver and the truck driver",
+        "correct": true
+      },
+      {
+        "text": "None of the vehicle drivers"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "img": "img81",
+    "question": "Which vehicle driver must yield when moving in the direction of the arrow at this traffic light signal?",
+    "answers": [
+      {
+        "text": "The driver of the white car"
+      },
+      {
+        "text": "The driver of the green car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "img": "img82",
+    "question": "Which vehicle driver must yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the yellow car"
+      },
+      {
+        "text": "The driver of the blue car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "img": "img83",
+    "question": "Which vehicle driver must the white car driver yield to when moving in the direction of the arrow if the traffic light is flashing yellow?",
+    "answers": [
+      {
+        "text": "Only the tram driver"
+      },
+      {
+        "text": "Only the red car driver",
+        "correct": true
+      },
+      {
+        "text": "Both the tram driver and the red car driver"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "img": "img84",
+    "question": "Which vehicle driver must the red passenger car driver yield to when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the motorcycle driver",
+        "correct": true
+      },
+      {
+        "text": "Only the blue car driver"
+      },
+      {
+        "text": "Both the motorcycle driver and the blue car driver"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "img": "img85",
+    "question": "Which vehicle driver must the green passenger car driver yield to when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Only the black passenger car driver"
+      },
+      {
+        "text": "Both the truck driver and the black passenger car driver"
+      },
+      {
+        "text": "None of the vehicle drivers",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "img": "img86",
+    "question": "Which vehicle driver must yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the white car"
+      },
+      {
+        "text": "The driver of the blue car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Is the driver obligated to ensure that their vehicle does not create an obstacle for other priority road users?",
+    "answers": [
+      {
+        "text": "Not obligated"
+      },
+      {
+        "text": "Obligated",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Is the driver required to undergo a sobriety test at the request of an authorized official from the Ministry of Internal Affairs of Georgia if there are reasonable grounds to suspect the driver is under the influence of alcohol, drugs, or psychotropic substances?",
+    "answers": [
+      {
+        "text": "Obligated",
+        "correct": true
+      },
+      {
+        "text": "Not obligated"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "In Georgia, the driver is required to have a certified translation of the vehicle registration documents and driver's license if the information is:",
+    "answers": [
+      {
+        "text": "Not written in Georgian but written in Latin letters"
+      },
+      {
+        "text": "Not written in Latin letters but written in Georgian letters"
+      },
+      {
+        "text": "Not written in either Georgian or Latin letters",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "img": "img90",
+    "question": "Which vehicle driver must yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the red car"
+      },
+      {
+        "text": "The driver of the white car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "img": "img91",
+    "question": "Which vehicle driver must yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the white car"
+      },
+      {
+        "text": "The driver of the red car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "If the owner is absent when a vehicle crosses the state border or enters a country outside Georgian jurisdiction, is the driver required to have documentation proving the right to own, use, or dispose of the vehicle?",
+    "answers": [
+      {
+        "text": "Obligated",
+        "correct": true
+      },
+      {
+        "text": "Not obligated"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "img": "img93",
+    "question": "What is the order for vehicles to pass the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First, the gray car should pass, then the yellow car, and finally the red car"
+      },
+      {
+        "text": "First, the yellow car should pass, then the gray car, and finally the red car"
+      },
+      {
+        "text": "First, the gray car should pass, then the red car, and finally the yellow car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "img": "img94",
+    "question": "Which vehicle driver must the white passenger car driver yield to when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the motorcycle driver"
+      },
+      {
+        "text": "Only the tram driver"
+      },
+      {
+        "text": "Both the motorcycle driver and the tram driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "img": "img95",
+    "question": "Which vehicle driver will violate traffic rules if the bus is moving along an established route?",
+    "answers": [
+      {
+        "text": "The passenger car driver",
+        "correct": true
+      },
+      {
+        "text": "The bus driver"
+      },
+      {
+        "text": "Neither driver"
+      },
+      {
+        "text": "Both drivers"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "img": "img96",
+    "question": "In this situation, which vehicle driver has the right of way if their paths cross at this traffic signal?",
+    "answers": [
+      {
+        "text": "The truck driver",
+        "correct": true
+      },
+      {
+        "text": "The passenger car driver"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "img": "img97",
+    "question": "Which car driver has the right to continue driving in the direction of the arrow at this traffic regulator's signal?",
+    "answers": [
+      {
+        "text": "The driver of the white car",
+        "correct": true
+      },
+      {
+        "text": "The driver of the red car"
+      },
+      {
+        "text": "Neither driver"
+      },
+      {
+        "text": "Both drivers"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "img": "img98",
+    "question": "Which vehicle driver must yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the passenger car"
+      },
+      {
+        "text": "The bus driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "img": "img99",
+    "question": "The passenger car driver is allowed to continue driving:",
+    "answers": [
+      {
+        "text": "In direction A"
+      },
+      {
+        "text": "In direction B",
+        "correct": true
+      },
+      {
+        "text": "In both directions A and B"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "img": "img100",
+    "question": "The passenger car driver is allowed to continue driving:",
+    "answers": [
+      {
+        "text": "Only in direction A"
+      },
+      {
+        "text": "Only in direction B"
+      },
+      {
+        "text": "In both directions A and B",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "img": "img101",
+    "question": "At this reversible traffic signal, the blue car driver must:",
+    "answers": [
+      {
+        "text": "Move to the left lane"
+      },
+      {
+        "text": "Continue straight"
+      },
+      {
+        "text": "Move to the right lane",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "img": "img102",
+    "question": "Is the passenger car driver allowed to enter the reversible lane at this reversible traffic signal?",
+    "answers": [
+      {
+        "text": "Allowed"
+      },
+      {
+        "text": "Not allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "img": "img103",
+    "question": "In which direction can the red car driver continue driving at this traffic light signal?",
+    "answers": [
+      {
+        "text": "Only forward and left"
+      },
+      {
+        "text": "Only right"
+      },
+      {
+        "text": "Only straight and right",
+        "correct": true
+      },
+      {
+        "text": "In any direction"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "img": "img104",
+    "question": "In which direction can the blue car driver continue driving at this traffic light signal?",
+    "answers": [
+      {
+        "text": "Only forward and left"
+      },
+      {
+        "text": "Only right"
+      },
+      {
+        "text": "Only straight and right"
+      },
+      {
+        "text": "Only forward, left, and U-turn",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "img": "img105",
+    "question": "Is the passenger car driver obligated to yield to pedestrians when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Obligated",
+        "correct": true
+      },
+      {
+        "text": "Not obligated"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "img": "img106",
+    "question": "Is the passenger car driver allowed to continue driving in the direction of the arrow if the traffic light is flashing yellow?",
+    "answers": [
+      {
+        "text": "Allowed",
+        "correct": true
+      },
+      {
+        "text": "Not allowed"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "img": "img107",
+    "question": "Is the driver allowed to continue driving in the direction of the arrow if, after the green flashing light, during the yellow light, they cannot stop at the stop line without hard braking?",
+    "answers": [
+      {
+        "text": "Allowed",
+        "correct": true
+      },
+      {
+        "text": "Not allowed"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "img": "img108",
+    "question": "Is the passenger car driver allowed to continue driving in the direction of the arrow at this traffic light signal?",
+    "answers": [
+      {
+        "text": "Allowed"
+      },
+      {
+        "text": "Not allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "img": "img109",
+    "question": "If the traffic light is flashing yellow:",
+    "answers": [
+      {
+        "text": "The driver must stop at the 'Stop' line"
+      },
+      {
+        "text": "The driver must stop at the traffic light"
+      },
+      {
+        "text": "The driver may continue driving with extra caution",
+        "correct": true
+      },
+      {
+        "text": "The driver must stop no closer than 10 meters from the nearest rail"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "img": "img110",
+    "question": "In which direction can the red car driver continue driving at this traffic light signal?",
+    "answers": [
+      {
+        "text": "Only straight and left"
+      },
+      {
+        "text": "Only straight and right"
+      },
+      {
+        "text": "Only left"
+      },
+      {
+        "text": "Only left and U-turn",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "img": "img111",
+    "question": "Is the passenger car driver allowed to continue driving at this traffic light signal?",
+    "answers": [
+      {
+        "text": "Not allowed"
+      },
+      {
+        "text": "Allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "question": "When the red and yellow lights are lit simultaneously at the traffic light:",
+    "answers": [
+      {
+        "text": "It prohibits movement and indicates that the green light will appear soon",
+        "correct": true
+      },
+      {
+        "text": "It allows movement and provides information about a danger on the road"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "question": "At a railway crossing, the sound signal given together with the red flashing light signal provides road users with additional information:",
+    "answers": [
+      {
+        "text": "About the prohibition of movement at the crossing",
+        "correct": true
+      },
+      {
+        "text": "About the right to continue moving at the crossing"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "question": "When moving a column of pack and riding animals, as well as carts on the road, they must be divided into groups of no more than:",
+    "answers": [
+      {
+        "text": "15 pack and riding animals and 10 carts"
+      },
+      {
+        "text": "10 pack and riding animals and 5 carts",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "img": "img115",
+    "question": "Which car driver is prohibited from moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the blue car"
+      },
+      {
+        "text": "The driver of the yellow car",
+        "correct": true
+      },
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "Neither driver"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "img": "img116",
+    "question": "In this situation, the driver is allowed to continue driving:",
+    "answers": [
+      {
+        "text": "In direction A"
+      },
+      {
+        "text": "In direction B"
+      },
+      {
+        "text": "In direction C"
+      },
+      {
+        "text": "In no direction",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "img": "img117",
+    "question": "Is the passenger car driver allowed to continue driving in the direction of the arrow at this traffic light signal?",
+    "answers": [
+      {
+        "text": "Allowed",
+        "correct": true
+      },
+      {
+        "text": "Not allowed"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "img": "img118",
+    "question": "In this situation, is the blue car driver required to stop at the traffic light signal located between the divider lanes when making a turn or U-turn in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Obligated",
+        "correct": true
+      },
+      {
+        "text": "Not obligated"
+      },
+      {
+        "text": "Not obligated, as long as it does not interfere with oncoming traffic"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "img": "img119",
+    "question": "In this situation, is the blue car driver required to stop at the traffic light signal located between the divider lanes when making a turn in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Obligated"
+      },
+      {
+        "text": "Not obligated",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "img": "img120",
+    "question": "In which direction can the passenger car driver continue driving at this traffic light signal?",
+    "answers": [
+      {
+        "text": "Only straight and left"
+      },
+      {
+        "text": "Only straight and right"
+      },
+      {
+        "text": "In all directions"
+      },
+      {
+        "text": "Only straight, left, and U-turn",
+        "correct": true
+      }
+    ]
   }
 ]
