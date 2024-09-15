@@ -12,8 +12,8 @@ const getRandomId = () => Math.floor(Math.random() * data.length);
 
 /* TBD:
  * remove paddings on narrow screens, make title smaller
- * save questions to db to reuse them
- * link to official questions
+ * load q separately and save them to db with versioning to reuse later
+ * link to official questions and to Kate's repo https://github.com/katebienko/drivingTestGeorgia
  * test image on android devices
  * start, finish view, back/next/reset controls
  * table of all q with pagination and filters
@@ -45,7 +45,7 @@ function App() {
   return (
     <>
       <h1 className="text-3xl font-bold">B/B1 theory exam practice</h1>
-      <div className="max-w-4xl p-6">
+      <div className="max-w-3xl p-6">
         {questions.length ? (
           <ChakraProvider>
             {questions.slice(0, 30).map((question, index) => (
