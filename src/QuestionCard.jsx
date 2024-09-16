@@ -34,10 +34,8 @@ const QuestionCard = ({ number, testSize, question, excludedIds }) => {
 
   return (
     <Box
-      borderWidth="0.125rem"
-      borderRadius="lg"
+      className="border-x-0 border-y-2 pt-2 md:border-2 md:rounded-lg md:p-6"
       overflow="hidden"
-      p="6"
       display="flex"
       flexDirection="column"
       alignItems="flex-start"
