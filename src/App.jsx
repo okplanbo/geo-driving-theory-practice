@@ -11,6 +11,7 @@ import "./App.css";
 const getRandomId = () => Math.floor(Math.random() * data.length);
 
 /* TBD:
+ * routing, refresh button
  * load q separately and save them to db with versioning to reuse later
  * link to official questions and to Kate's repo https://github.com/katebienko/drivingTestGeorgia
  * start, finish view, back/next/reset controls
@@ -18,7 +19,6 @@ const getRandomId = () => Math.floor(Math.random() * data.length);
  * i18n: UI, language switcher
  * font consistency for i18n
  * offline mode
- * ts support?
  */
 
 function App() {
