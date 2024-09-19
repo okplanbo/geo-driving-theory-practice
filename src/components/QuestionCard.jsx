@@ -11,7 +11,7 @@ import {
   Divider,
 } from "@chakra-ui/react";
 
-import { updateExcludedIds } from "./db";
+import { updateExcludedIds } from "../db";
 
 const QuestionCard = ({ number, testSize, question, excludedIds }) => {
   const [isExcluded, setIsExcluded] = useState(false);

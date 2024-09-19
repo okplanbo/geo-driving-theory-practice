@@ -1,20 +1,29 @@
 import { useEffect, useState } from "react";
-
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { ChakraProvider } from "@chakra-ui/react";
-import QuestionCard from "./QuestionCard";
 
 import { getExcludedIds } from "./db";
-
 import data from "./static_data_ru.json";
+
+import { Home } from "./pages/Home";
+import { ExcludedList } from "./pages/ExcludedList";
+import { About } from "./pages/About";
+
+import * as packageCfg from "../package.json";
+
 import "./App.css";
 
-const getRandomId = () => Math.floor(Math.random() * data.length);
+const appName = packageCfg.name;
 
 /* TBD:
- * husky
- * load q separately and save them to db with versioning to reuse later
+ * husky pre commit linter
  * link to official questions and to Kate's repo https://github.com/katebienko/drivingTestGeorgia
- * start, finish view, back/next/reset controls
+ * random, next, prev buttons. set id to url
+ * links to tickets in 'excluded' list and a small image
+ * no such ticket page or/and general 404 page
+ * load q separately and save them to db with versioning to reuse later
+ * start, finish view, back/next/reset controls for test set of 30
+ * 3 mistakes and fail
  * table of all q with pagination and filters
  * i18n: UI, language switcher
  * font consistency for i18n
@@ -23,49 +32,28 @@ const getRandomId = () => Math.floor(Math.random() * data.length);
 
 function App() {
   const [excludedIds, setExcludedIds] = useState([]);
-  const [questions, setQuestions] = useState([]);
 
   useEffect(() => {
     const loadExclusionStatus = async () => {
       const storedExcludedIds = await getExcludedIds();
       setExcludedIds(storedExcludedIds);
-
-      let id = getRandomId();
-
-      while (storedExcludedIds.includes(id)) {
-        id = getRandomId();
-      }
-      setQuestions([data[id]]);
     };
     loadExclusionStatus();
   }, []);
 
   return (
-    <>
-      <h1 className="font-bold text-xl md:text-3xl">B/B1 theory exam practice</h1>
-      <div className="max-w-3xl p-6">
-        {questions.length ? (
-          <ChakraProvider>
-            {questions.slice(0, 30).map((question, index) => (
-              <QuestionCard
-                key={question.id}
-                testSize={30}
-                number={index + 1}
-                question={question}
-                excludedIds={excludedIds}
-              />
-            ))}
-          </ChakraProvider>
-        ) : (
-          "loading"
-        )}
-      </div>
-      <div className="mt-auto flex flex-row self-end h-full gap-4 justify-center text-neutral-400 text-sm">
-        <span>Questions: {data.length}</span>
-        <span>Active: {data.length - excludedIds.length}</span>
-        <span>Excluded: {excludedIds.length}</span>
-      </div>
-    </>
+    <ChakraProvider>
+      <Router>
+        <Routes>
+          <Route
+            path={`${appName}/`}
+            element={<Home excludedIds={excludedIds} data={data} />}
+          />
+          <Route path={`${appName}/excluded`} element={<ExcludedList excludedIds={excludedIds} data={data} />} />
+          <Route path={`${appName}/about`} element={<About />} />
+        </Routes>
+      </Router>
+    </ChakraProvider>
   );
 }
 
