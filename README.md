@@ -2,6 +2,14 @@
 
 Handy app for practice B1 driving test questions before the exam
 
+## Basic commands:
+
+```
+pnpm run dev
+pnpm run lint
+pnpm run build
+```
+
 ## Built using:
 
 - React
@@ -11,3 +19,6 @@ Handy app for practice B1 driving test questions before the exam
 - Autoprefixer
 - Prettier
 - Chakra UI
+- GitHub Pages
+- Semantic release
+- pnpm
