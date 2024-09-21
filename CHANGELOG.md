@@ -1,3 +1,9 @@
+## [1.2.1](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.0...v1.2.1) (2024-09-21)
+
+### Bug Fixes
+
+- excluded questions links ([08696e2](https://github.com/okplanbo/geo-driving-theory-practice/commit/08696e2f5d6bd77aa49cee7e84f99003b02c2df8))
+
 # [1.2.0](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.1.0...v1.2.0) (2024-09-21)
 
 ### Bug Fixes
