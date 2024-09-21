@@ -27,7 +27,19 @@ export function ExcludedList({ excludedIds, data }) {
           ))}
         </ul>
       )}
-      {excludedIds.length === 0 && <p>No excluded questions yet.</p>}
+      {excludedIds.length === 0 && (
+        <>
+          <p className="mt-5">No excluded questions yet.</p>
+          <Link
+            my={2}
+            fontWeight="normal"
+            color="teal.500"
+            href={`/${appName}/`}
+          >
+            Back
+          </Link>
+        </>
+      )}
     </div>
   );
 }

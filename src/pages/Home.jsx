@@ -41,12 +41,16 @@ export function Home({
       {/* <Button>Previous</Button> */}
       {/* <Button>Next</Button> */}
       {/* </div> */}
-      <div className="mt-auto flex h-full flex-row justify-center gap-4 text-sm text-neutral-400">
+      <div className="mt-auto flex flex-row justify-center gap-4 text-sm text-neutral-400">
         <span>Questions: {data.length}</span>
         <span>Active: {data.length - excludedIds.length}</span>
-        <Link className="cursor-pointer font-normal" to="excluded">
-          Excluded: {excludedIds.length}
-        </Link>
+        {excludedIds.length ? (
+          <Link className="cursor-pointer font-normal" to="excluded">
+            Excluded: {excludedIds.length}
+          </Link>
+        ) : (
+          <>Excluded: {excludedIds.length}</>
+        )}
       </div>
     </>
   );
