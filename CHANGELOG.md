@@ -1,3 +1,9 @@
+# [1.2.0](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.1.0...v1.2.0) (2024-09-21)
+
+### Features
+
+- add randomize button and links to questions ([c2ecb47](https://github.com/okplanbo/geo-driving-theory-practice/commit/c2ecb47674c70eda31dcf29ce03807f654508abb))
+
 # [1.1.0](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.0.0...v1.1.0) (2024-09-21)
 
 ### Features
