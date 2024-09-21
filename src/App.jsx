@@ -16,9 +16,8 @@ import "./App.css";
 const appName = packageCfg.name;
 
 /* TBD:
- * husky pre commit linter
- * link to official questions and to Kate's repo https://github.com/katebienko/drivingTestGeorgia
  * random, next, prev buttons. set id to url
+ * 
  * links to tickets in 'excluded' list and a small image
  * no such ticket page or/and general 404 page
  * load q separately and save them to db with versioning to reuse later

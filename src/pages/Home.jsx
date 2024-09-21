@@ -19,6 +19,7 @@ export function Home({ excludedIds, data }) {
   useEffect(() => {
     let id = ticketParam ? Number(ticketParam) - 1 : getRandomId(excludedIds);
     setQuestion(data[id]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [ticketParam]);
 
   return (
