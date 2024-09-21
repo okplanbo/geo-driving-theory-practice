@@ -16,13 +16,14 @@ import "./App.css";
 const appName = packageCfg.name;
 
 /* TBD:
- * no such ticket page or/and general 404 page
+ * categories, original ids, finish translations
+ * i18n: UI, language switcher
  * load q separately and save them to db with versioning to reuse later
  * start, finish view, back/next/reset controls for test set of 30
  * 3 mistakes and fail
  * table of all q with pagination and filters
- * i18n: UI, language switcher
  * font consistency for i18n
+ * images to static storage
  * offline mode, pwa
  */
 

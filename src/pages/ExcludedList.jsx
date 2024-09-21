@@ -1,5 +1,9 @@
 import { Link } from "@chakra-ui/react";
 
+import * as packageCfg from "../../package.json";
+
+const appName = packageCfg.name;
+
 export function ExcludedList({ excludedIds, data }) {
   return (
     <div className="flex w-full flex-col items-center px-6">
@@ -15,7 +19,7 @@ export function ExcludedList({ excludedIds, data }) {
                 mx={2}
                 fontWeight="normal"
                 color="teal.500"
-                href={`/?q=${id}`}
+                href={`/${appName}/?q=${id}`}
               >
                 #{id} - {data[id - 1].question}
               </Link>
