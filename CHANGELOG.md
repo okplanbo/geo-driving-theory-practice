@@ -1,3 +1,9 @@
+## [1.2.2](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.1...v1.2.2) (2024-09-21)
+
+### Bug Fixes
+
+- styling on mobile ([a6a8c26](https://github.com/okplanbo/geo-driving-theory-practice/commit/a6a8c264ed1a5352b9ea912eb65ce11c715238e5))
+
 ## [1.2.1](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.0...v1.2.1) (2024-09-21)
 
 ### Bug Fixes
