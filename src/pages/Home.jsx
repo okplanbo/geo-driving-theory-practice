@@ -1,47 +1,50 @@
-import { useEffect, useState } from "react";
-import { useLocation } from "react-router-dom";
+import { Button, Tooltip } from "@chakra-ui/react";
 
 import QuestionCard from "./../components/QuestionCard";
 
-export function Home({ excludedIds, data }) {
-  const [question, setQuestion] = useState();
-  const location = useLocation();
-  const queryParams = new URLSearchParams(location.search);
-  const ticketParam = queryParams.get("ticket");
-
-  const getRandomId = (storedExcludedIds) => {
-    const activeIds = data.map((item) => {
-      return storedExcludedIds.includes(item.id) && item.id;
-    });
-    return Math.floor(Math.random() * activeIds.length);
-  };
-
-  useEffect(() => {
-    let id = ticketParam ? Number(ticketParam) - 1 : getRandomId(excludedIds);
-    setQuestion(data[id]);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [ticketParam]);
+export function Home({
+  excludedIds,
+  data,
+  currentQuestionNumber,
+  handleRandomize,
+  updateExcluded,
+}) {
+  const question = data[currentQuestionNumber - 1] || null;
 
   return (
     <>
-      <h1 className="font-bold text-xl md:text-3xl">
-        B/B1 theory exam practice
-      </h1>
+      <div className="flex flex-row items-baseline md:items-start">
+        <h1 className="mr-4 text-xl font-bold md:text-3xl">B,B1 theory test</h1>
+        <Tooltip
+          maxWidth={200}
+          label="Pick a new random question from the active ones"
+        >
+          <Button onClick={handleRandomize}>Randomize</Button>
+        </Tooltip>
+      </div>
       <div className="max-w-3xl p-6">
-        {question ? (
+        {question && (
           <QuestionCard
             key={question.id}
             testSize={30}
             // number={index + 1}
             question={question}
             excludedIds={excludedIds}
+            updateExcluded={updateExcluded}
           />
-        ) : null}
+        )}
+        {question === null && "Error! There is no such question"}
       </div>
-      <div className="mt-auto flex flex-row self-end h-full gap-4 justify-center text-neutral-400 text-sm">
+      {/* <div className="mb-6 mt-auto flex h-full flex-row justify-center gap-4 text-sm text-neutral-400"> */}
+      {/* <Button>Previous</Button> */}
+      {/* <Button>Next</Button> */}
+      {/* </div> */}
+      <div className="mt-auto flex h-full flex-row justify-center gap-4 text-sm text-neutral-400">
         <span>Questions: {data.length}</span>
         <span>Active: {data.length - excludedIds.length}</span>
-        <span>Excluded: {excludedIds.length}</span>
+        <a href="excluded" className="cursor-pointer font-normal">
+          Excluded: {excludedIds.length}
+        </a>
       </div>
     </>
   );

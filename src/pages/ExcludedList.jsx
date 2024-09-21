@@ -1,18 +1,29 @@
+import { Link } from "@chakra-ui/react";
+
 export function ExcludedList({ excludedIds, data }) {
   return (
-    <div>
-      <h2 className="font-bold text-xl">Excluded Questions</h2>
-      {excludedIds.length > 0 ? (
-        <ul>
+    <div className="flex w-full flex-col items-center px-6">
+      <h1 className="text-xl font-bold md:text-3xl">Excluded Questions</h1>
+      {excludedIds.length > 0 && (
+        <ul className="flex max-w-full flex-col items-start gap-2 overflow-hidden text-ellipsis pt-3 md:max-w-screen-md md:pt-6">
           {excludedIds.map((id) => (
-            <li key={id}>
-              #{id} {data[id].question}
+            <li
+              key={id}
+              className="max-w-full overflow-hidden text-ellipsis text-nowrap md:max-w-screen-md"
+            >
+              <Link
+                mx={2}
+                fontWeight="normal"
+                color="teal.500"
+                href={`/?q=${id}`}
+              >
+                #{id} - {data[id - 1].question}
+              </Link>
             </li>
           ))}
         </ul>
-      ) : (
-        <p>No excluded questions yet.</p>
       )}
+      {excludedIds.length === 0 && <p>No excluded questions yet.</p>}
     </div>
   );
 }

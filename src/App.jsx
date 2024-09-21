@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { ChakraProvider } from "@chakra-ui/react";
 
-import { getExcludedIds } from "./db";
+import { getExcludedFromDB, updateExcludedToDB } from "./db";
 import data from "./static_data_ru.json";
 
 import { Home } from "./pages/Home";
@@ -16,9 +16,6 @@ import "./App.css";
 const appName = packageCfg.name;
 
 /* TBD:
- * random, next, prev buttons. set id to url
- * 
- * links to tickets in 'excluded' list and a small image
  * no such ticket page or/and general 404 page
  * load q separately and save them to db with versioning to reuse later
  * start, finish view, back/next/reset controls for test set of 30
@@ -26,32 +23,73 @@ const appName = packageCfg.name;
  * table of all q with pagination and filters
  * i18n: UI, language switcher
  * font consistency for i18n
- * offline mode
+ * offline mode, pwa
  */
 
+const getRandomId = (storedExcludedIds) => {
+  const activeIds = data.map((item) => {
+    return storedExcludedIds.includes(item.id) && item.id;
+  });
+  return Math.floor(Math.random() * activeIds.length);
+};
+
 function App() {
-  const [excludedIds, setExcludedIds] = useState([]);
+  const [excludedIds, setExcludedIds] = useState();
+  const [currentQuestionNumber, setCurrentQuestionNumber] = useState();
+
+  const loadExclusionStatus = async () => {
+    const queryParams = new URLSearchParams(location.search);
+    const questionParam = queryParams.get("q");
+    const storedExcludedIds = await getExcludedFromDB();
+    setExcludedIds(storedExcludedIds);
+    setCurrentQuestionNumber(
+      questionParam ? Number(questionParam) : getRandomId(storedExcludedIds),
+    );
+  };
 
   useEffect(() => {
-    const loadExclusionStatus = async () => {
-      const storedExcludedIds = await getExcludedIds();
-      setExcludedIds(storedExcludedIds);
-    };
     loadExclusionStatus();
   }, []);
 
+  const handleRandomize = () => {
+    const queryParams = new URLSearchParams(location.search);
+    const questionNumber = getRandomId(excludedIds) + 1;
+    queryParams.set("q", questionNumber);
+    const newUrl = `${window.location.pathname}?${queryParams.toString()}`;
+    window.history.pushState({}, "", newUrl);
+    setCurrentQuestionNumber(questionNumber);
+  };
+
+  const updateExcluded = (newIds) => {
+    updateExcludedToDB(newIds);
+    setExcludedIds(newIds);
+  };
+
   return (
     <ChakraProvider>
-      <Router>
-        <Routes>
-          <Route
-            path={`${appName}/`}
-            element={<Home excludedIds={excludedIds} data={data} />}
-          />
-          <Route path={`${appName}/excluded`} element={<ExcludedList excludedIds={excludedIds} data={data} />} />
-          <Route path={`${appName}/about`} element={<About />} />
-        </Routes>
-      </Router>
+      {currentQuestionNumber && (
+        <Router>
+          <Routes>
+            <Route
+              path={`${appName}/`}
+              element={
+                <Home
+                  excludedIds={excludedIds}
+                  updateExcluded={updateExcluded} // yes, still refusing to use context api :>
+                  currentQuestionNumber={currentQuestionNumber}
+                  handleRandomize={handleRandomize}
+                  data={data}
+                />
+              }
+            />
+            <Route
+              path={`${appName}/excluded`}
+              element={<ExcludedList excludedIds={excludedIds} data={data} />}
+            />
+            <Route path={`${appName}/about`} element={<About />} />
+          </Routes>
+        </Router>
+      )}
     </ChakraProvider>
   );
 }

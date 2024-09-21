@@ -11,10 +11,16 @@ import {
   Divider,
 } from "@chakra-ui/react";
 
-import { updateExcludedIds } from "../db";
-
-const QuestionCard = ({ number, testSize, question, excludedIds }) => {
-  const [isExcluded, setIsExcluded] = useState(false);
+const QuestionCard = ({
+  number,
+  testSize,
+  question,
+  excludedIds,
+  updateExcluded,
+}) => {
+  const [isExcluded, setIsExcluded] = useState(
+    excludedIds.includes(question.id),
+  );
   const [selectedAnswer, setSelectedAnswer] = useState(null);
 
   const { id, img, question: questionText, answers } = question;
@@ -22,10 +28,10 @@ const QuestionCard = ({ number, testSize, question, excludedIds }) => {
   const handleCheckboxChange = async (e) => {
     const checked = e.target.checked;
     setIsExcluded(checked);
-    const updatedExcludedIds = checked
+    const newExcludedIds = checked
       ? [...excludedIds, id]
       : excludedIds.filter((excludedId) => excludedId !== id);
-    await updateExcludedIds(updatedExcludedIds);
+    updateExcluded(newExcludedIds);
   };
 
   const correctAnswerText = answers.filter((answer) => answer.correct)[0].text;
@@ -33,7 +39,7 @@ const QuestionCard = ({ number, testSize, question, excludedIds }) => {
 
   return (
     <Box
-      className="border-x-0 border-y-2 pt-2 md:border-2 md:rounded-lg md:p-6"
+      className="border-x-0 border-y-2 pt-2 md:rounded-lg md:border-2 md:p-6"
       overflow="hidden"
       display="flex"
       flexDirection="column"
@@ -48,7 +54,7 @@ const QuestionCard = ({ number, testSize, question, excludedIds }) => {
       }
       borderStyle="solid"
     >
-      <Box className="flex justify-between w-full mb-5">
+      <Box className="mb-5 flex w-full justify-between">
         <Text fontSize="sm" visibility={"hidden"}>
           Question {number} of {testSize}
         </Text>
@@ -85,7 +91,7 @@ const QuestionCard = ({ number, testSize, question, excludedIds }) => {
         </Stack>
       </RadioGroup>
       <Divider />
-      <Box className="flex flex-row w-full justify-between items-center h-12">
+      <Box className="flex h-12 w-full flex-row items-center justify-between">
         {selectedAnswer !== null ? (
           <Text color={isCorrect ? "green.400" : "red.400"}>
             {isCorrect ? "Correct!" : "Wrong!"}
