@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 import { Button, Tooltip } from "@chakra-ui/react";
 
 import QuestionCard from "./../components/QuestionCard";
@@ -42,9 +44,9 @@ export function Home({
       <div className="mt-auto flex h-full flex-row justify-center gap-4 text-sm text-neutral-400">
         <span>Questions: {data.length}</span>
         <span>Active: {data.length - excludedIds.length}</span>
-        <a href="excluded" className="cursor-pointer font-normal">
+        <Link className="cursor-pointer font-normal" to="excluded">
           Excluded: {excludedIds.length}
-        </a>
+        </Link>
       </div>
     </>
   );
