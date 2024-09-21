@@ -18,7 +18,6 @@ const QuestionCard = ({ number, testSize, question, excludedIds }) => {
   const [selectedAnswer, setSelectedAnswer] = useState(null);
 
   const { id, img, question: questionText, answers } = question;
-  const imageUrl = img ? `${img}.avif` : "standard.avif";
 
   const handleCheckboxChange = async (e) => {
     const checked = e.target.checked;
@@ -49,19 +48,22 @@ const QuestionCard = ({ number, testSize, question, excludedIds }) => {
       }
       borderStyle="solid"
     >
-      <Box className="flex justify-between w-full">
+      <Box className="flex justify-between w-full mb-5">
         <Text fontSize="sm" visibility={"hidden"}>
           Question {number} of {testSize}
         </Text>
         <Text fontSize="sm">Database ID: {id}</Text>
       </Box>
-      <Image
-        src={imageUrl}
-        alt="Question Image"
-        mt="5"
-        mb="5"
-        className="rounded-lg"
-      />
+      {img ? (
+        <Image
+          src={`${img}.avif`}
+          alt="Question Image"
+          mb="5"
+          className="rounded-lg"
+        />
+      ) : (
+        <Divider className="mb-5" />
+      )}
       <Text mb="5">{questionText}</Text>
       <RadioGroup
         mb="5"
@@ -75,7 +77,8 @@ const QuestionCard = ({ number, testSize, question, excludedIds }) => {
           {answers.map((answer, index) => (
             <Radio key={index} value={answer.text}>
               <p className="select-text">
-                {answer.text} {answer.correct && selectedAnswer !== null ? "✓" : ""}
+                {answer.text}{" "}
+                {answer.correct && selectedAnswer !== null ? "✓" : ""}
               </p>
             </Radio>
           ))}
