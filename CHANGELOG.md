@@ -1,3 +1,9 @@
+## [1.2.3](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.2...v1.2.3) (2024-09-22)
+
+### Bug Fixes
+
+- back button and styles ([a5e0464](https://github.com/okplanbo/geo-driving-theory-practice/commit/a5e0464a6954274dab110fee01b83f895c2147e1))
+
 ## [1.2.2](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.1...v1.2.2) (2024-09-21)
 
 ### Bug Fixes
