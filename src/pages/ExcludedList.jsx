@@ -1,4 +1,4 @@
-import { Link } from "@chakra-ui/react";
+import { Link, Button } from "@chakra-ui/react";
 
 import * as packageCfg from "../../package.json";
 
@@ -28,18 +28,11 @@ export function ExcludedList({ excludedIds, data }) {
         </ul>
       )}
       {excludedIds.length === 0 && (
-        <>
-          <p className="mt-5">No excluded questions yet.</p>
-          <Link
-            my={2}
-            fontWeight="normal"
-            color="teal.500"
-            href={`/${appName}/`}
-          >
-            Back
-          </Link>
-        </>
+        <p className="mt-5">No excluded questions yet.</p>
       )}
+      <Link my={6} fontWeight="normal" color="teal.500" href={`/${appName}/`}>
+        <Button>Back</Button>
+      </Link>
     </div>
   );
 }

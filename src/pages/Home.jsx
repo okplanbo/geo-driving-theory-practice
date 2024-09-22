@@ -37,11 +37,7 @@ export function Home({
         )}
         {question === null && "Error! There is no such question"}
       </div>
-      {/* <div className="mb-6 mt-auto flex h-full flex-row justify-center gap-4 text-sm text-neutral-400"> */}
-      {/* <Button>Previous</Button> */}
-      {/* <Button>Next</Button> */}
-      {/* </div> */}
-      <div className="mt-auto flex flex-row justify-center gap-4 text-sm text-neutral-400">
+      <div className="flex flex-row justify-center gap-4 text-sm text-neutral-400">
         <span>Questions: {data.length}</span>
         <span>Active: {data.length - excludedIds.length}</span>
         {excludedIds.length ? (

@@ -24,6 +24,7 @@ const appName = packageCfg.name;
  * table of all q with pagination and filters
  * font consistency for i18n
  * images to static storage
+ * dark mode
  * offline mode, pwa
  */
 
