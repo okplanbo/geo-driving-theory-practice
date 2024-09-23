@@ -1,3 +1,9 @@
+## [1.2.5](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.4...v1.2.5) (2024-09-23)
+
+### Bug Fixes
+
+- improve app init and put question number to url if init with randomize ([be6f1cb](https://github.com/okplanbo/geo-driving-theory-practice/commit/be6f1cb27169f862b18db4ef356c3c6b60d34f11))
+
 ## [1.2.4](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.3...v1.2.4) (2024-09-23)
 
 ### Bug Fixes
