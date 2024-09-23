@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import { ChakraProvider } from "@chakra-ui/react";
+import { ChakraProvider, Button } from "@chakra-ui/react";
 
 import { getExcludedFromDB, updateExcludedToDB } from "./db";
 import data from "./static_data_ru.json";
@@ -41,20 +41,24 @@ function App() {
   const [excludedIds, setExcludedIds] = useState();
   const [currentQuestionNumber, setCurrentQuestionNumber] = useState();
 
-  const loadExclusionStatus = async () => {
+  const initQuestion = async () => {
     const queryParams = new URLSearchParams(location.search);
     const questionParam = queryParams.get("q");
     const storedExcludedIds = await getExcludedFromDB();
+    const randomQuestionNumber = getRandomQuestionNumber(storedExcludedIds);
     setExcludedIds(storedExcludedIds);
     setCurrentQuestionNumber(
-      questionParam
-        ? Number(questionParam)
-        : getRandomQuestionNumber(storedExcludedIds),
+      questionParam ? Number(questionParam) : randomQuestionNumber,
     );
+    if (!questionParam) {
+      queryParams.set("q", randomQuestionNumber);
+      const newUrl = `${window.location.pathname}?${queryParams.toString()}`;
+      window.history.replaceState({}, "", newUrl);
+    }
   };
 
   useEffect(() => {
-    loadExclusionStatus();
+    initQuestion();
   }, []);
 
   const handleRandomize = () => {
@@ -73,7 +77,7 @@ function App() {
 
   return (
     <ChakraProvider>
-      {currentQuestionNumber && (
+      {Number.isInteger(currentQuestionNumber) ? (
         <Router>
           <Routes>
             <Route
@@ -95,6 +99,13 @@ function App() {
             <Route path={`${appName}/about`} element={<About />} />
           </Routes>
         </Router>
+      ) : (
+        <>
+          Error, check URL
+          <Button className="mt-4" onClick={handleRandomize}>
+            Randomize
+          </Button>
+        </>
       )}
     </ChakraProvider>
   );
