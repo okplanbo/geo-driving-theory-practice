@@ -1,3 +1,9 @@
+## [1.2.4](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.3...v1.2.4) (2024-09-23)
+
+### Bug Fixes
+
+- randomize function fix and refactor ([4097106](https://github.com/okplanbo/geo-driving-theory-practice/commit/409710668482ee83741f0682b118b0b648712a7f))
+
 ## [1.2.3](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.2...v1.2.3) (2024-09-22)
 
 ### Bug Fixes
