@@ -1,3 +1,9 @@
+## [1.2.6](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.5...v1.2.6) (2024-09-23)
+
+### Bug Fixes
+
+- updated styles, fixed html background color ([5eac1f8](https://github.com/okplanbo/geo-driving-theory-practice/commit/5eac1f89d021cd32b4a17ee0faad150cc1007992))
+
 ## [1.2.5](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.4...v1.2.5) (2024-09-23)
 
 ### Bug Fixes
