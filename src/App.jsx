@@ -16,9 +16,10 @@ import "./App.css";
 const appName = packageCfg.name;
 
 /* TBD:
- * categories, original ids, finish translations
- * i18n: UI, language switcher
+ * finish translations, i18n: UI, language switcher
  * load q separately and save them to db with versioning to reuse later
+ * categories, original ids
+ * import/export
  * start, finish view, back/next/reset controls for test set of 30
  * 3 mistakes and fail
  * table of all q with pagination and filters
@@ -28,11 +29,12 @@ const appName = packageCfg.name;
  * offline mode, pwa
  */
 
-const getRandomId = (storedExcludedIds) => {
-  const activeIds = data.map((item) => {
-    return storedExcludedIds.includes(item.id) && item.id;
+const getRandomQuestionNumber = (excludedIds) => {
+  const activeQuestions = data.filter((question) => {
+    return !excludedIds.includes(question.id);
   });
-  return Math.floor(Math.random() * activeIds.length);
+  const randomArrayId = Math.floor(Math.random() * activeQuestions.length);
+  return activeQuestions[randomArrayId].id;
 };
 
 function App() {
@@ -45,7 +47,9 @@ function App() {
     const storedExcludedIds = await getExcludedFromDB();
     setExcludedIds(storedExcludedIds);
     setCurrentQuestionNumber(
-      questionParam ? Number(questionParam) : getRandomId(storedExcludedIds),
+      questionParam
+        ? Number(questionParam)
+        : getRandomQuestionNumber(storedExcludedIds),
     );
   };
 
@@ -55,7 +59,7 @@ function App() {
 
   const handleRandomize = () => {
     const queryParams = new URLSearchParams(location.search);
-    const questionNumber = getRandomId(excludedIds) + 1;
+    const questionNumber = getRandomQuestionNumber(excludedIds);
     queryParams.set("q", questionNumber);
     const newUrl = `${window.location.pathname}?${queryParams.toString()}`;
     window.history.pushState({}, "", newUrl);
