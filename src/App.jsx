@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import { ChakraProvider, Button } from "@chakra-ui/react";
+import { ChakraProvider, Button, extendTheme } from "@chakra-ui/react";
 
 import { getExcludedFromDB, updateExcludedToDB } from "./db";
 import data from "./static_data_ru.json";
@@ -14,6 +14,22 @@ import * as packageCfg from "../package.json";
 import "./App.css";
 
 const appName = packageCfg.name;
+
+const theme = extendTheme({
+  styles: {
+    global: {
+      html: {
+        bg: "gray.50!important",
+      },
+      body: {
+        bg: {
+          md: "gray.50",
+          base: "white",
+        },
+      },
+    },
+  },
+});
 
 /* TBD:
  * finish translations, i18n: UI, language switcher
@@ -76,7 +92,7 @@ function App() {
   };
 
   return (
-    <ChakraProvider>
+    <ChakraProvider theme={theme}>
       {Number.isInteger(currentQuestionNumber) ? (
         <Router>
           <Routes>

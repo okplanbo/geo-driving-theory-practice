@@ -39,7 +39,7 @@ const QuestionCard = ({
 
   return (
     <Box
-      className="border-x-0 border-y-2 pt-2 md:rounded-lg md:border-2 md:p-6"
+      className="border-x-0 border-y-2 bg-white pt-2 md:rounded-lg md:border-2 md:p-6"
       overflow="hidden"
       display="flex"
       flexDirection="column"

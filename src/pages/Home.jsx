@@ -21,7 +21,9 @@ export function Home({
           maxWidth={200}
           label="Pick a new random question from the active ones"
         >
-          <Button onClick={handleRandomize}>Randomize</Button>
+          <Button colorScheme="teal" onClick={handleRandomize}>
+            Randomize
+          </Button>
         </Tooltip>
       </div>
       <div className="max-w-3xl p-6">
