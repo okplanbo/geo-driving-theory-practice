@@ -1971,5 +1971,665 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 121,
+    "img": "img121",
+    "question": "Is the driver of the passenger car obligated to yield to pedestrians when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Obligated",
+        "correct": true
+      },
+      {
+        "text": "Not obligated"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "question": "When moving groups of pack and riding animals, as well as carts on the road, the distance between groups to facilitate overtaking should be:",
+    "answers": [
+      {
+        "text": "20-40 meters"
+      },
+      {
+        "text": "40-60 meters"
+      },
+      {
+        "text": "60-80 meters"
+      },
+      {
+        "text": "80-100 meters",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "question": "Is the driver of a cart obligated, when exiting from an adjacent road or secondary road in an area with poor visibility, to lead the animals on a bridle?",
+    "answers": [
+      {
+        "text": "Not obligated"
+      },
+      {
+        "text": "Obligated",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "question": "Cattle crossing the road should generally occur:",
+    "answers": [
+      {
+        "text": "During nighttime"
+      },
+      {
+        "text": "During daytime",
+        "correct": true
+      },
+      {
+        "text": "Both during daytime and nighttime"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "img": "img125",
+    "question": "Which driver's vehicle is given the right of way when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Driver of the red car"
+      },
+      {
+        "text": "Driver of the light blue car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "question": "If the requirements of the traffic light signals conflict with the requirements of road signs determining right of way, road users should follow:",
+    "answers": [
+      {
+        "text": "The requirements of the traffic light signals",
+        "correct": true
+      },
+      {
+        "text": "The requirements of the road signs determining right of way"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "question": "If the requirements of the traffic light signals conflict with the requirements of road signs determining right of way, road users should follow:",
+    "answers": [
+      {
+        "text": "The requirements of the road signs determining right of way"
+      },
+      {
+        "text": "The requirements of the traffic light signals",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "question": "A traffic light, placed on the same post at the same height, with two alternately flashing red or yellow signals, is used:",
+    "answers": [
+      {
+        "text": "At railway crossings, approaches to movable bridges, at the approach of ships or ferries, as well as at exits of fire trucks and at locations where the road intersects with the path of low-flying aircraft",
+        "correct": true
+      },
+      {
+        "text": "On roads where the direction of traffic is reversed"
+      },
+      {
+        "text": "On specially designated lanes for public transport"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "question": "At a railway crossing, a post with two alternately flashing lights or one flashing yellow light means that drivers:",
+    "answers": [
+      {
+        "text": "Are prohibited from moving"
+      },
+      {
+        "text": "May continue driving but must exercise extreme caution",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "question": "If the traffic signals at a railway crossing are turned off:",
+    "answers": [
+      {
+        "text": "Movement is allowed only when no train (locomotive, handcar) is visible approaching the crossing",
+        "correct": true
+      },
+      {
+        "text": "Movement is prohibited"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "question": "A reversible traffic light with a red 'X' signal and a green arrow below it is used:",
+    "answers": [
+      {
+        "text": "To regulate the movement of public transport on a special lane"
+      },
+      {
+        "text": "To regulate the movement of vehicles on lanes where the direction of traffic is reversed",
+        "correct": true
+      },
+      {
+        "text": "In any case listed in this ticket"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "question": "The contour arrow(s) applied to the main green traffic signal indicates:",
+    "answers": [
+      {
+        "text": "Informs the driver about the existence of an additional section on the traffic light and indicates the directions determined by the signal of this additional section"
+      },
+      {
+        "text": "Informs the driver about the possible existence of an additional section on the traffic light and indicates other permitted directions different from the signal of this section",
+        "correct": true
+      },
+      {
+        "text": "All the answers listed in this ticket are correct"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "question": "'T'-shaped yellow lights can be used:",
+    "answers": [
+      {
+        "text": "To regulate traffic at a 'T'-shaped intersection"
+      },
+      {
+        "text": "To regulate the movement of public transport on a special lane",
+        "correct": true
+      },
+      {
+        "text": "To regulate the movement of wheel tractors"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "question": "When regulating traffic with a 'T'-shaped traffic light, the movement of public transport is allowed:",
+    "answers": [
+      {
+        "text": "If the lower and one or several upper signals are turned on simultaneously",
+        "correct": true
+      },
+      {
+        "text": "If only the three upper signals are turned on"
+      },
+      {
+        "text": "In any of the cases listed in this ticket"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "question": "When regulating traffic with a 'T'-shaped traffic light, the movement of public transport is prohibited:",
+    "answers": [
+      {
+        "text": "If the lower and one or several upper signals are turned on simultaneously"
+      },
+      {
+        "text": "If only the three upper signals are turned on",
+        "correct": true
+      },
+      {
+        "text": "In any of the cases listed in this ticket"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Is the driver allowed to continue moving if, when the yellow light is on, they cannot stop at the 'Stop' line without braking sharply?",
+    "answers": [
+      {
+        "text": "Allowed",
+        "correct": true
+      },
+      {
+        "text": "Not allowed"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "img": "img137",
+    "question": "Which driver will violate traffic rules if they proceed in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the white car"
+      },
+      {
+        "text": "The driver of the green car"
+      },
+      {
+        "text": "The driver of the black car",
+        "correct": true
+      },
+      {
+        "text": "None of the drivers"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Is it mandatory or not to divide cattle into groups with designated drivers when crossing a railway?",
+    "answers": [
+      {
+        "text": "Mandatory",
+        "correct": true
+      },
+      {
+        "text": "Not mandatory"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "img": "img139",
+    "question": "Which vehicle driver will violate traffic rules if proceeding in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the driver of the passenger car"
+      },
+      {
+        "text": "Only the driver of the truck",
+        "correct": true
+      },
+      {
+        "text": "Only the motorcycle driver"
+      },
+      {
+        "text": "None of the vehicle drivers"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "question": "The driver is prohibited from:",
+    "answers": [
+      {
+        "text": "Only leaving cattle unattended on the road"
+      },
+      {
+        "text": "Only herding cattle on asphalt or concrete roads when other roads are available"
+      },
+      {
+        "text": "Both leaving cattle unattended on the road and herding cattle on asphalt or concrete roads when other roads are available",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "img": "img141",
+    "question": "Which vehicle driver will violate traffic rules if proceeding in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the driver of the truck"
+      },
+      {
+        "text": "Only the driver of the passenger car"
+      },
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "None of the drivers",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "img": "img142",
+    "question": "Is the driver of the passenger car allowed to proceed at the intersection to the right on this signal from the traffic controller?",
+    "answers": [
+      {
+        "text": "Allowed"
+      },
+      {
+        "text": "Not allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "img": "img143",
+    "question": "In which direction is the driver of the white car allowed to proceed on this signal from the traffic controller?",
+    "answers": [
+      {
+        "text": "Only to the left"
+      },
+      {
+        "text": "Only to the left and in the opposite direction (U-turn)"
+      },
+      {
+        "text": "Only straight and to the right",
+        "correct": true
+      },
+      {
+        "text": "Only straight"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "img": "img144",
+    "question": "In which direction is the driver of the car allowed to proceed on this signal from the traffic controller?",
+    "answers": [
+      {
+        "text": "Only to the left"
+      },
+      {
+        "text": "Only to the left and in the opposite direction (U-turn)"
+      },
+      {
+        "text": "In all directions",
+        "correct": true
+      },
+      {
+        "text": "Only straight and to the right"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "img": "img145",
+    "question": "Which driver is allowed to proceed in the direction of the arrow on this signal from the traffic controller?",
+    "answers": [
+      {
+        "text": "Only the driver of the yellow car"
+      },
+      {
+        "text": "Only the driver of the white car"
+      },
+      {
+        "text": "Both drivers",
+        "correct": true
+      },
+      {
+        "text": "None of the drivers"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "img": "img146",
+    "question": "Who is allowed to proceed in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the car driver"
+      },
+      {
+        "text": "Only the motorcycle and car drivers",
+        "correct": true
+      },
+      {
+        "text": "Only the tram driver"
+      },
+      {
+        "text": "All drivers of vehicles"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "img": "img147",
+    "question": "Which driver is allowed to proceed in the direction of the arrow on this signal from the traffic controller if the emergency vehicle has flashing blue lights and sirens activated?",
+    "answers": [
+      {
+        "text": "Only the driver of the emergency vehicle"
+      },
+      {
+        "text": "Only the drivers of the truck and the red passenger car",
+        "correct": true
+      },
+      {
+        "text": "All drivers of vehicles"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "img": "img148",
+    "question": "Which driver is allowed to proceed on this signal from the traffic controller?",
+    "answers": [
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Only the passenger car driver"
+      },
+      {
+        "text": "None of the drivers",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "img": "img149",
+    "question": "Are pedestrians allowed to cross at the pedestrian crossing on this signal from the traffic controller?",
+    "answers": [
+      {
+        "text": "Allowed"
+      },
+      {
+        "text": "Not allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "img": "img150",
+    "question": "Which driver is obligated to yield when moving in the direction of the arrow on this signal from the traffic controller?",
+    "answers": [
+      {
+        "text": "The car driver",
+        "correct": true
+      },
+      {
+        "text": "The tram driver"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "question": "Passengers are prohibited from:",
+    "answers": [
+      {
+        "text": "Only distracting the driver while the vehicle is in motion"
+      },
+      {
+        "text": "Only interfering with the driver in controlling the vehicle"
+      },
+      {
+        "text": "Both distracting the driver and interfering with the driver in controlling the vehicle",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "img": "img152",
+    "question": "Who is allowed to proceed in the direction of the arrow on this signal from the traffic controller?",
+    "answers": [
+      {
+        "text": "The driver of the blue car",
+        "correct": true
+      },
+      {
+        "text": "The driver of the white car"
+      },
+      {
+        "text": "None of the drivers"
+      },
+      {
+        "text": "Both drivers"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "img": "img153",
+    "question": "In which direction is the driver of the car allowed to proceed on this signal from the traffic controller?",
+    "answers": [
+      {
+        "text": "Only straight and left"
+      },
+      {
+        "text": "Only right and right"
+      },
+      {
+        "text": "Only straight",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "img": "img154",
+    "question": "In which direction is the driver of the car allowed to proceed on this signal from the traffic controller?",
+    "answers": [
+      {
+        "text": "Only straight"
+      },
+      {
+        "text": "Only straight and right",
+        "correct": true
+      },
+      {
+        "text": "Only straight and left"
+      },
+      {
+        "text": "In any direction"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "question": "When moving on the roadway, the pedestrian:",
+    "answers": [
+      {
+        "text": "Should only exercise maximum caution"
+      },
+      {
+        "text": "Should only avoid unnecessary obstruction or hindrance to vehicle movement"
+      },
+      {
+        "text": "Should both exercise maximum caution and avoid unnecessary obstruction or hindrance to vehicle movement",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "img": "img156",
+    "question": "On this signal from the traffic controller, the passenger car driver is allowed to proceed:",
+    "answers": [
+      {
+        "text": "Only in directions A and C"
+      },
+      {
+        "text": "Only in directions B and D"
+      },
+      {
+        "text": "In all directions",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "img": "img157",
+    "question": "On this signal from the traffic controller, the passenger car driver is allowed to proceed:",
+    "answers": [
+      {
+        "text": "In no direction",
+        "correct": true
+      },
+      {
+        "text": "Only in directions A and D"
+      },
+      {
+        "text": "Only in directions B and C"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "img": "img158",
+    "question": "On this signal from the traffic controller, the passenger car driver is allowed to proceed:",
+    "answers": [
+      {
+        "text": "Only in directions A and C"
+      },
+      {
+        "text": "In no direction",
+        "correct": true
+      },
+      {
+        "text": "Only in directions B and D"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "question": "If the traffic controller issues a stop order to vehicles through loudspeaker equipment or gestures directed at the vehicle, the driver must stop:",
+    "answers": [
+      {
+        "text": "Immediately at the current location"
+      },
+      {
+        "text": "At a convenient place"
+      },
+      {
+        "text": "At the location specified by the traffic controller",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "question": "The traffic controller may give a signal:",
+    "answers": [
+      {
+        "text": "Only with a baton with white and black stripes or a red reflective disk"
+      },
+      {
+        "text": "Only with a hand or a disk displaying a road sign indicating 'no entry'"
+      },
+      {
+        "text": "Only with red or yellow flags or by moving a red light"
+      },
+      {
+        "text": "By any method listed in this ticket",
+        "correct": true
+      }
+    ]
   }
 ]
