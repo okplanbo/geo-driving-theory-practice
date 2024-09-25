@@ -2631,5 +2631,1645 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 161,
+    "question": "A signal additionally given by the traffic controller with a whistle:",
+    "answers": [
+      {
+        "text": "Prohibits movement"
+      },
+      {
+        "text": "Intended to attract the attention of road users",
+        "correct": true
+      },
+      {
+        "text": "Grants the right to proceed"
+      },
+      {
+        "text": "Warns of impending danger"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "question": "Besides an authorized official from the Ministry of Internal Affairs of Georgia, traffic regulation within the authority granted by law can also be performed by:",
+    "answers": [
+      {
+        "text": "Only an authorized official from the Ministry of Defense of Georgia."
+      },
+      {
+        "text": "Only members of an ambulance crew."
+      },
+      {
+        "text": "Only escorts of children's groups."
+      },
+      {
+        "text": "Any of the persons listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "question": "A red light signal from the traffic controller directed at road users means:",
+    "answers": [
+      {
+        "text": "Stop",
+        "correct": true
+      },
+      {
+        "text": "Speed up"
+      },
+      {
+        "text": "Approaching danger"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "question": "If the signals from the traffic controller conflict with the signals of the traffic light, road users must obey:",
+    "answers": [
+      {
+        "text": "The signal of the traffic controller",
+        "correct": true
+      },
+      {
+        "text": "The signal of the traffic light"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "img": "img165",
+    "question": "At what speed can the driver of a category B vehicle continue driving in a populated area within the zone of this road sign?",
+    "answers": [
+      {
+        "text": "No more than 40 km/h"
+      },
+      {
+        "text": "No less than 40 km/h and no more than 90 km/h"
+      },
+      {
+        "text": "No less than 40 km/h and no more than 60 km/h",
+        "correct": true
+      },
+      {
+        "text": "No less than 20 km/h and no more than 40 km/h"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "img": "img166",
+    "question": "Which driver violates traffic rules if all vehicles are moving at a speed of 100 km/h?",
+    "answers": [
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Only the driver of the green car"
+      },
+      {
+        "text": "Only the driver of the white minibus"
+      },
+      {
+        "text": "Only the drivers of the truck and the white minibus",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "img": "img167",
+    "question": "What is the maximum speed at which a category B vehicle is allowed to move on this section of the road?",
+    "answers": [
+      {
+        "text": "60 km/h"
+      },
+      {
+        "text": "80 km/h"
+      },
+      {
+        "text": "90 km/h"
+      },
+      {
+        "text": "110 km/h",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "img": "img168",
+    "question": "In a non-populated area, within the zone of this road sign, the driver of a category B vehicle is allowed to drive at no more than:",
+    "answers": [
+      {
+        "text": "60 km/h"
+      },
+      {
+        "text": "70 km/h"
+      },
+      {
+        "text": "90 km/h",
+        "correct": true
+      },
+      {
+        "text": "110 km/h"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "img": "img169",
+    "question": "What is the maximum speed at which the driver of a category B vehicle with a light trailer can continue after passing the sign indicating the end of the settlement?",
+    "answers": [
+      {
+        "text": "50 km/h"
+      },
+      {
+        "text": "80 km/h",
+        "correct": true
+      },
+      {
+        "text": "90 km/h"
+      },
+      {
+        "text": "110 km/h"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "img": "img170",
+    "question": "Which driver moving in the direction of the arrow violates traffic rules?",
+    "answers": [
+      {
+        "text": "Only the tractor driver."
+      },
+      {
+        "text": "Only the driver of the category CE vehicle."
+      },
+      {
+        "text": "Both the tractor driver and the driver of the category CE vehicle.",
+        "correct": true
+      },
+      {
+        "text": "Only the drivers of category CE and B vehicles."
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "img": "img171",
+    "question": "What is the maximum speed at which the driver of a category B1 vehicle is allowed to drive in a non-populated area on this section of the road?",
+    "answers": [
+      {
+        "text": "60 km/h"
+      },
+      {
+        "text": "80 km/h",
+        "correct": true
+      },
+      {
+        "text": "90 km/h"
+      },
+      {
+        "text": "110 km/h"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "img": "img172",
+    "question": "What is the maximum speed at which the driver of a category BE vehicle with a trailer is allowed to drive in a non-populated area on this section of the road?",
+    "answers": [
+      {
+        "text": "60 km/h"
+      },
+      {
+        "text": "70 km/h",
+        "correct": true
+      },
+      {
+        "text": "80 km/h"
+      },
+      {
+        "text": "90 km/h"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "img": "img173",
+    "question": "What is the maximum speed at which the driver of a category BE vehicle is allowed to drive on the highway?",
+    "answers": [
+      {
+        "text": "60 km/h"
+      },
+      {
+        "text": "70 km/h",
+        "correct": true
+      },
+      {
+        "text": "80 km/h"
+      },
+      {
+        "text": "90 km/h"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "img": "img174",
+    "question": "Which driver violates traffic rules if all vehicles are moving at a speed of 100 km/h?",
+    "answers": [
+      {
+        "text": "Only the driver of the passenger car"
+      },
+      {
+        "text": "Only the drivers of the passenger car and the truck"
+      },
+      {
+        "text": "Only the drivers of the passenger car and the bus"
+      },
+      {
+        "text": "Only the drivers of the truck and the bus",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "question": "In a non-populated area, under conditions of poor visibility or heavy traffic, pedestrians (except in cases of marching in formation), who are moving on the road (as close as possible to the edge of the road), should move:",
+    "answers": [
+      {
+        "text": "In a single file",
+        "correct": true
+      },
+      {
+        "text": "In two rows"
+      },
+      {
+        "text": "In three rows"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "img": "img176",
+    "question": "What is the maximum speed at which the driver of a towing category B vehicle is allowed to drive in a populated area on this section of the road?",
+    "answers": [
+      {
+        "text": "50 km/h",
+        "correct": true
+      },
+      {
+        "text": "60 km/h"
+      },
+      {
+        "text": "70 km/h"
+      },
+      {
+        "text": "90 km/h"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "img": "img177",
+    "question": "What is the maximum speed at which the driver of a category B vehicle is allowed to drive in a non-populated area on this section of the road?",
+    "answers": [
+      {
+        "text": "50 km/h"
+      },
+      {
+        "text": "60 km/h"
+      },
+      {
+        "text": "80 km/h"
+      },
+      {
+        "text": "90 km/h",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "question": "Which of the following road conditions must a driver consider when adjusting speed?",
+    "answers": [
+      {
+        "text": "Only terrain and traffic intensity"
+      },
+      {
+        "text": "Only weather conditions and limited or poor visibility"
+      },
+      {
+        "text": "Only the condition of the road and the vehicle"
+      },
+      {
+        "text": "All the road conditions listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "img": "img179",
+    "question": "Within the zone of this road sign, vehicles of category AM are allowed to drive at no more than:",
+    "answers": [
+      {
+        "text": "20 km/h"
+      },
+      {
+        "text": "50 km/h"
+      },
+      {
+        "text": "45 km/h",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "img": "img180",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Prohibits driving at a speed higher than indicated on the sign"
+      },
+      {
+        "text": "Indicates the end of the speed restriction zone",
+        "correct": true
+      },
+      {
+        "text": "Recommends a speed for driving on this section of the road"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "img": "img181",
+    "question": "Which of the given combinations of road signs will be installed in a non-populated area, at a distance of 150-300 meters from a railway crossing without a barrier, on the left side of the road?",
+    "answers": [
+      {
+        "text": "I",
+        "correct": true
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "img": "img182",
+    "question": "In the zone of this road sign, the movement of a category B vehicle without a trailer is permitted at no more than:",
+    "answers": [
+      {
+        "text": "110 km/h",
+        "correct": true
+      },
+      {
+        "text": "90 km/h"
+      },
+      {
+        "text": "70 km/h"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "question": "If there is no traffic light or the pedestrian traffic light is not working, the movement of vehicles is regulated by the traffic light for vehicles. A pedestrian should not enter the roadway:",
+    "answers": [
+      {
+        "text": "Until they ensure the distance of the approaching vehicle, determine its speed, and ensure the safety of crossing"
+      },
+      {
+        "text": "While the signals of the traffic light or the traffic controller allow vehicles to move",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "img": "img184",
+    "question": "Will the driver of the passenger car violate traffic rules by moving in the direction of the arrow if the driver of the yellow bus has already started overtaking?",
+    "answers": [
+      {
+        "text": "Will violate",
+        "correct": true
+      },
+      {
+        "text": "Will not violate"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "img": "img185",
+    "question": "Is overtaking prohibited for the driver of the white car in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "question": "At an intersection where there is no pedestrian crossing, the pedestrian should cross the road:",
+    "answers": [
+      {
+        "text": "Only by the shortest route to the intended destination"
+      },
+      {
+        "text": "Only along the sidewalk or the side of the road",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "img": "img187",
+    "question": "In this situation, is overtaking prohibited for the driver of the passenger car?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "img": "img188",
+    "question": "Is the driver of the passenger car allowed to continue in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Allowed"
+      },
+      {
+        "text": "Not allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "question": "If there is no pedestrian crossing or intersection within sight, crossing the road is permitted perpendicularly to the axis of the road where:",
+    "answers": [
+      {
+        "text": "The dividing line and the road are clearly visible from both sides"
+      },
+      {
+        "text": "There is no dividing line or barrier, and the road is clearly visible from both sides",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "img": "img190",
+    "question": "Is overtaking prohibited for the driver of the white passenger car in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "question": "Where there is no pedestrian crossing, a pedestrian should cross the roadway:",
+    "answers": [
+      {
+        "text": "Only after determining the distance of the approaching vehicle"
+      },
+      {
+        "text": "Only after determining the speed of the approaching vehicle"
+      },
+      {
+        "text": "Only after ensuring the safety of crossing"
+      },
+      {
+        "text": "After determining both the distance and speed of the approaching vehicle, and ensuring the safety of crossing",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "img": "img192",
+    "question": "Is overtaking prohibited for the driver of the gray passenger car in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "img": "img193",
+    "question": "Is the driver of the green passenger car allowed to overtake in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Allowed",
+        "correct": true
+      },
+      {
+        "text": "Not allowed"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "img": "img194",
+    "question": "Is the driver of the gray passenger car allowed to overtake in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Allowed"
+      },
+      {
+        "text": "Not allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "question": "Is the pedestrian allowed to slow down or stop after stepping onto the roadway, if this is not related to ensuring traffic safety?",
+    "answers": [
+      {
+        "text": "Allowed"
+      },
+      {
+        "text": "Not allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "img": "img196",
+    "question": "Is the driver of the red car allowed to overtake in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Allowed"
+      },
+      {
+        "text": "Not allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "img": "img197",
+    "question": "Is the driver of the white passenger car allowed to overtake in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Allowed"
+      },
+      {
+        "text": "Not allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "img": "img198",
+    "question": "Is overtaking prohibited for the driver of the red car in the direction of the arrow, if the tractor is moving at a speed of 30 km/h?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "img": "img199",
+    "question": "Which vehicle driver is prohibited from moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the driver of the green car"
+      },
+      {
+        "text": "Only the driver of the yellow car"
+      },
+      {
+        "text": "Both drivers",
+        "correct": true
+      },
+      {
+        "text": "Neither driver"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "img": "img200",
+    "question": "Which vehicle driver violates traffic rules by moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Only the passenger car driver"
+      },
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "Neither driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "img": "img201",
+    "question": "Which vehicle driver is prohibited from moving in the direction of the arrow if the middle lane of this road is used for movement in both directions?",
+    "answers": [
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Only the passenger car driver"
+      },
+      {
+        "text": "Both drivers",
+        "correct": true
+      },
+      {
+        "text": "Neither driver"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "img": "img202",
+    "question": "Will the driver of the passenger car violate traffic rules by moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Will violate",
+        "correct": true
+      },
+      {
+        "text": "Will not violate"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "question": "If a pedestrian does not have time to cross the road, they are allowed to stop:",
+    "answers": [
+      {
+        "text": "Only on a safety island"
+      },
+      {
+        "text": "Only on the dividing strip or line of opposite traffic flows"
+      },
+      {
+        "text": "Both on a safety island and on the dividing strip or line of opposite traffic flows",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "img": "img204",
+    "question": "Is overtaking prohibited for the driver of the passenger car in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "img": "img205",
+    "question": "Is overtaking prohibited for the driver of the passenger car in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "img": "img206",
+    "question": "Will the driver of the blue passenger car violate traffic rules by moving in the direction of the arrow if the distance to the end of the climb is 80 meters?",
+    "answers": [
+      {
+        "text": "Will violate"
+      },
+      {
+        "text": "Will not violate",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "img": "img207",
+    "question": "Is overtaking prohibited for the driver of the red car by crossing into the opposite lane?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "img": "img208",
+    "question": "Is overtaking prohibited for the driver of the green car in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "img": "img209",
+    "question": "Will the driver of the white car violate traffic rules by performing a maneuver in the direction of the arrow if a pedestrian has started crossing from the left side?",
+    "answers": [
+      {
+        "text": "Will violate",
+        "correct": true
+      },
+      {
+        "text": "Will not violate"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "img": "img210",
+    "question": "In this situation, is overtaking prohibited for the driver of the passenger car?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "img": "img211",
+    "question": "Is the driver of the white passenger car allowed to start overtaking if the bus driver has the left turn signal on and has started overtaking?",
+    "answers": [
+      {
+        "text": "Allowed"
+      },
+      {
+        "text": "Not allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "img": "img212",
+    "question": "Is the driver of the truck allowed to start overtaking if the driver of the passenger car has the left turn signal on and has started overtaking?",
+    "answers": [
+      {
+        "text": "Not allowed",
+        "correct": true
+      },
+      {
+        "text": "Allowed"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "img": "img213",
+    "question": "Is parking prohibited for the driver at the location indicated by the arrow?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "question": "While driving, which of the following indicates driver fatigue?",
+    "answers": [
+      {
+        "text": "Only heavy eyelids"
+      },
+      {
+        "text": "Only frequent yawning"
+      },
+      {
+        "text": "Only a decline in reaction"
+      },
+      {
+        "text": "Any of the circumstances listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "question": "Before overtaking, the driver must ensure:",
+    "answers": [
+      {
+        "text": "Only that none of the drivers following him has started overtaking"
+      },
+      {
+        "text": "Only that the driver of the vehicle ahead in the same lane has not signaled their intention to overtake another vehicle"
+      },
+      {
+        "text": "Only that the lane he intends to enter is clear for a sufficient distance, and that the relative speed of both vehicles allows for overtaking within a short period"
+      },
+      {
+        "text": "In all the circumstances listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "question": "Is overtaking on the right side allowed?",
+    "answers": [
+      {
+        "text": "Not allowed"
+      },
+      {
+        "text": "Allowed if the driver being overtaken has signaled a left turn and directed their vehicle to turn onto another road, enter an adjacent area, or stop on that side",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "question": "Is overtaking allowed for a vehicle approaching a pedestrian crossing, or a vehicle that has stopped directly before the crossing?",
+    "answers": [
+      {
+        "text": "Allowed if no pedestrian is moving on the crossing, and at a sufficiently reduced speed to ensure timely stopping if pedestrians are detected on the crossing",
+        "correct": true
+      },
+      {
+        "text": "Overtaking is prohibited at the pedestrian crossing and at least 100 meters before it"
+      },
+      {
+        "text": "Allowed only in a non-populated area, on a road where the maximum permitted speed is more than 60 km/h"
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "img": "img218",
+    "question": "This truck has a permitted load weight of more than 3.5 tons. Which vehicle driver is not prohibited from moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The moped driver"
+      },
+      {
+        "text": "The passenger car driver",
+        "correct": true
+      },
+      {
+        "text": "The truck driver"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "img": "img219",
+    "question": "Is the driver of the passenger car prohibited from moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "img": "img220",
+    "question": "Which driver moving in the direction of the arrow violates traffic rules?",
+    "answers": [
+      {
+        "text": "The driver of the red car"
+      },
+      {
+        "text": "The driver of the black car"
+      },
+      {
+        "text": "Both drivers",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "img": "img221",
+    "question": "Will the driver of the passenger car violate traffic rules by moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Will violate"
+      },
+      {
+        "text": "Will not violate",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "img": "img222",
+    "question": "Does the driver of the blue passenger car violate the overtaking rules if the driver of the red passenger car has started overtaking?",
+    "answers": [
+      {
+        "text": "Violates",
+        "correct": true
+      },
+      {
+        "text": "Does not violate"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "img": "img223",
+    "question": "Is overtaking prohibited for the driver of the passenger car in the direction of the arrow if the tractor is moving at 25 km/h?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "question": "From an elevated platform at a bus stop, exiting onto the roadway to board a vehicle is allowed:",
+    "answers": [
+      {
+        "text": "Only after the vehicle has stopped",
+        "correct": true
+      },
+      {
+        "text": "Immediately after the vehicle appears"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "img": "img225",
+    "question": "Which vehicle driver is prohibited from moving in the direction of the arrow if the tractor is moving at 25 km/h and the moped at 35 km/h?",
+    "answers": [
+      {
+        "text": "Only the driver of the blue passenger car"
+      },
+      {
+        "text": "Only the bus driver"
+      },
+      {
+        "text": "Both the bus driver and the driver of the blue passenger car"
+      },
+      {
+        "text": "Neither driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "img": "img226",
+    "question": "Will the driver of the passenger car violate traffic rules by moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Will violate",
+        "correct": true
+      },
+      {
+        "text": "Will not violate"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "question": "A driver who is allowed to enter areas designated for pedestrian movement in certain cases according to traffic rules must:",
+    "answers": [
+      {
+        "text": "Give a sound signal and drive at no more than 50 km/h."
+      },
+      {
+        "text": "Turn on low beam headlights and give a sound signal to alert pedestrians."
+      },
+      {
+        "text": "Exercise maximum caution and drive at a low speed to stop if necessary.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "img": "img228",
+    "question": "Which vehicle driver violates traffic rules if they are driving at 90 km/h?",
+    "answers": [
+      {
+        "text": "Only the ATV driver."
+      },
+      {
+        "text": "Only the passenger car driver."
+      },
+      {
+        "text": "Only the motorcycle driver."
+      },
+      {
+        "text": "Both the ATV and motorcycle drivers.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "img": "img229",
+    "question": "Is overtaking prohibited for the driver of the passenger car in the direction of the arrow if visibility is limited on this section of the road?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "img": "img230",
+    "question": "Is overtaking prohibited for the driver of the passenger car in the direction of the arrow if visibility is limited on this section of the road?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "img": "img231",
+    "question": "In this situation, which vehicle driver is prohibited from moving in the direction of the arrow if the towing motorcycle has started bypassing an obstacle?",
+    "answers": [
+      {
+        "text": "Both the towing and towed motorcycle drivers"
+      },
+      {
+        "text": "The passenger car driver"
+      },
+      {
+        "text": "Both the towing and towed motorcycle drivers, as well as the passenger car driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "img": "img232",
+    "question": "Which vehicle driver is obligated to yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The passenger car driver",
+        "correct": true
+      },
+      {
+        "text": "The truck driver"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "img": "img233",
+    "question": "In this situation, only the driver of the yellow bus is boarding or alighting passengers. Which vehicle driver does not violate the parking rules?",
+    "answers": [
+      {
+        "text": "Only the passenger car driver."
+      },
+      {
+        "text": "Only the driver of the yellow bus.",
+        "correct": true
+      },
+      {
+        "text": "Only the truck driver."
+      },
+      {
+        "text": "No driver."
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "question": "When a public transport vehicle has stopped or slowed down in front of an uncontrolled pedestrian crossing, drivers of other vehicles in adjacent lanes should continue:",
+    "answers": [
+      {
+        "text": "Without changing speed, as the pedestrian must not cross in front of the stopped vehicle without ensuring there is no approaching vehicle"
+      },
+      {
+        "text": "Only after making sure that there is no pedestrian in front of the stopped public transport vehicle",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "question": "While driving, the driver should consider that most often dangerous situations arise during overtaking due to:",
+    "answers": [
+      {
+        "text": "Only failure to maintain a safe distance"
+      },
+      {
+        "text": "Only insufficient attention to oncoming vehicles"
+      },
+      {
+        "text": "Both failure to maintain a safe distance and insufficient attention to oncoming vehicles",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "img": "img236",
+    "question": "Is the driver of the passenger car allowed to stop at the location indicated by the arrow for the purpose of picking up passengers?",
+    "answers": [
+      {
+        "text": "Allowed"
+      },
+      {
+        "text": "Not allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "img": "img237",
+    "question": "Which vehicle is parked in violation of parking rules if the white passenger car stopped first, then the motorcycle without a sidecar, and finally the motorcycle with a sidecar?",
+    "answers": [
+      {
+        "text": "The white passenger car"
+      },
+      {
+        "text": "The motorcycle without a sidecar"
+      },
+      {
+        "text": "The motorcycle with a sidecar",
+        "correct": true
+      },
+      {
+        "text": "None of the vehicles"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "img": "img238",
+    "question": "Which vehicle is parked in violation of parking rules if the driver of the red car stopped for an extended rest?",
+    "answers": [
+      {
+        "text": "The black car"
+      },
+      {
+        "text": "The red car.",
+        "correct": true
+      },
+      {
+        "text": "Both cars."
+      },
+      {
+        "text": "Neither car."
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "img": "img239",
+    "question": "Is the driver of the passenger car allowed to stop at the location indicated by the arrow to pick up passengers?",
+    "answers": [
+      {
+        "text": "Allowed"
+      },
+      {
+        "text": "Not allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "img": "img240",
+    "question": "Which vehicle driver will violate traffic rules on the bridge by stopping at the location indicated by the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the white car."
+      },
+      {
+        "text": "The driver of the red car.",
+        "correct": true
+      },
+      {
+        "text": "Both drivers."
+      },
+      {
+        "text": "Neither driver."
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "question": "Is the driver obligated to yield to the children crossing the road under the instruction of the escort of the children's group?",
+    "answers": [
+      {
+        "text": "Not obligated"
+      },
+      {
+        "text": "Obligated",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "img": "img242",
+    "question": "Which vehicle driver violates traffic rules by stopping at the location shown in the picture?",
+    "answers": [
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "Neither driver"
+      },
+      {
+        "text": "Only the driver of the green car"
+      },
+      {
+        "text": "Only the driver of the white car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "img": "img243",
+    "question": "Which driver stopped their car in compliance with traffic rules at the red traffic light?",
+    "answers": [
+      {
+        "text": "The driver of the white car"
+      },
+      {
+        "text": "The driver of the yellow car",
+        "correct": true
+      },
+      {
+        "text": "Neither driver"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "question": "The transport of groups of children on an unlit road in a populated or non-populated area is permitted:",
+    "answers": [
+      {
+        "text": "Only at night"
+      },
+      {
+        "text": "Only during daylight hours",
+        "correct": true
+      },
+      {
+        "text": "Both at night and during daylight hours"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "img": "img245",
+    "question": "Will the driver of the passenger car violate traffic rules by parking in the designated spot if it obstructs pedestrians?",
+    "answers": [
+      {
+        "text": "Will violate",
+        "correct": true
+      },
+      {
+        "text": "Will not violate"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "img": "img246",
+    "question": "Which car is parked in violation of parking rules?",
+    "answers": [
+      {
+        "text": "The passenger car"
+      },
+      {
+        "text": "The truck",
+        "correct": true
+      },
+      {
+        "text": "Both cars"
+      },
+      {
+        "text": "Neither car"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "question": "When transporting groups of children, the group must be divided into rows, with no more than:",
+    "answers": [
+      {
+        "text": "Two children",
+        "correct": true
+      },
+      {
+        "text": "Three children"
+      },
+      {
+        "text": "Four children"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "question": "Is it mandatory to use a special child seat or restraint when transporting a child under the age of three in the back seat, except when the child is seated on the lap of a passenger aged at least 16 years?",
+    "answers": [
+      {
+        "text": "Mandatory",
+        "correct": true
+      },
+      {
+        "text": "Not mandatory"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "question": "A driver involved in a traffic accident must:",
+    "answers": [
+      {
+        "text": "Only stop the vehicle immediately (without moving it)"
+      },
+      {
+        "text": "Only turn on the hazard lights"
+      },
+      {
+        "text": "Both stop the vehicle immediately (without moving it) and turn on the hazard lights",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "question": "A driver involved in a traffic accident must:",
+    "answers": [
+      {
+        "text": "Only take the necessary measures to ensure traffic safety at the accident scene"
+      },
+      {
+        "text": "Only avoid altering or destroying any traces that may help determine responsibility"
+      },
+      {
+        "text": "Only write down the names of witnesses"
+      },
+      {
+        "text": "Perform all the actions listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "img": "img251",
+    "question": "In case of a forced stop at the location shown in the picture, the driver must:",
+    "answers": [
+      {
+        "text": "Only turn on the hazard lights"
+      },
+      {
+        "text": "Only place a warning sign at a sufficient distance from the vehicle"
+      },
+      {
+        "text": "Turn on the hazard lights and place a warning sign at a sufficient distance from the vehicle",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "img": "img252",
+    "question": "Which vehicle is parked in violation of parking rules?",
+    "answers": [
+      {
+        "text": "The motorcycle"
+      },
+      {
+        "text": "The white car",
+        "correct": true
+      },
+      {
+        "text": "The green car"
+      },
+      {
+        "text": "All vehicles"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "img": "img253",
+    "question": "Is the driver of the passenger car allowed to stop at the location indicated by the arrow for the purpose of picking up passengers?",
+    "answers": [
+      {
+        "text": "Not allowed",
+        "correct": true
+      },
+      {
+        "text": "Allowed"
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "img": "img254",
+    "question": "Is it prohibited for the driver to park the truck at the marked location?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "img": "img255",
+    "question": "Will the driver of the passenger car violate traffic rules by stopping at the parking spot indicated by the arrow?",
+    "answers": [
+      {
+        "text": "Will violate"
+      },
+      {
+        "text": "Will not violate",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "img": "img256",
+    "question": "At the location shown in the picture, outside a populated area, if the car is stopped, the driver:",
+    "answers": [
+      {
+        "text": "Must turn on the hazard lights"
+      },
+      {
+        "text": "Must place a 'warning triangle' behind the vehicle"
+      },
+      {
+        "text": "Must turn on the hazard lights and place a 'warning triangle' behind the vehicle"
+      },
+      {
+        "text": "Is not required to turn on the hazard lights or place a 'warning triangle' behind the vehicle",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "img": "img257",
+    "question": "Which vehicle is parked in violation of parking rules?",
+    "answers": [
+      {
+        "text": "Only the motorcycle"
+      },
+      {
+        "text": "Only the passenger car"
+      },
+      {
+        "text": "Both vehicles",
+        "correct": true
+      },
+      {
+        "text": "Neither vehicle"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "img": "img258",
+    "question": "In a populated area, on a road with one lane for each direction, the driver of the passenger car is allowed to stop:",
+    "answers": [
+      {
+        "text": "Only in locations A and B."
+      },
+      {
+        "text": "Only in locations B and C."
+      },
+      {
+        "text": "Only in locations A and C."
+      },
+      {
+        "text": "In both locations A and C.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "question": "If the requirements of road signs and road markings are contradictory, the driver must comply with:",
+    "answers": [
+      {
+        "text": "The road signs",
+        "correct": true
+      },
+      {
+        "text": "The road markings"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "img": "img260",
+    "question": "Which driver does not violate traffic rules by stopping at the location shown in the picture?",
+    "answers": [
+      {
+        "text": "Only the driver of the passenger car",
+        "correct": true
+      },
+      {
+        "text": "Only the driver of the truck"
+      },
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "Neither driver"
+      }
+    ]
   }
 ]
