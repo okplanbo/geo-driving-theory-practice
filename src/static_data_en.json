@@ -4271,5 +4271,677 @@
         "text": "Neither driver"
       }
     ]
+  },
+  {
+    "id": 261,
+    "img": "img261",
+    "question": "Which car is parked in violation of parking rules in a non-populated area?",
+    "answers": [
+      {
+        "text": "Both cars"
+      },
+      {
+        "text": "Neither car"
+      },
+      {
+        "text": "The red car",
+        "correct": true
+      },
+      {
+        "text": "The green car"
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "question": "If the middle lane of a three-lane road with two-way traffic is used for movement in both directions, the same-direction lane is considered to be:",
+    "answers": [
+      {
+        "text": "The middle and right lane"
+      },
+      {
+        "text": "Only the lane on the right side",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "img": "img263",
+    "question": "Will the driver of the white car violate traffic rules by stopping at the location shown in the picture?",
+    "answers": [
+      {
+        "text": "Will violate",
+        "correct": true
+      },
+      {
+        "text": "Will not violate"
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "img": "img264",
+    "question": "Is the driver allowed to park at the location shown in the picture on even days between 19:00 and 21:00?",
+    "answers": [
+      {
+        "text": "Allowed",
+        "correct": true
+      },
+      {
+        "text": "Not allowed"
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "question": "What is the maximum speed allowed for the driver of a two-wheeled electric scooter in a populated or non-populated area?",
+    "answers": [
+      {
+        "text": "20 km/h",
+        "correct": true
+      },
+      {
+        "text": "30 km/h"
+      },
+      {
+        "text": "40 km/h"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "question": "Is it possible for the driver to stop signaling with their hand just before starting a turn if the turn signal indicator is missing or malfunctioning?",
+    "answers": [
+      {
+        "text": "Possible",
+        "correct": true
+      },
+      {
+        "text": "Not possible"
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "question": "A vehicle is considered forcibly stopped if:",
+    "answers": [
+      {
+        "text": "Movement is stopped due to a technical malfunction",
+        "correct": true
+      },
+      {
+        "text": "Movement is intentionally stopped for more than 5 minutes unless related to passenger boarding or unloading, or loading/unloading the vehicle"
+      },
+      {
+        "text": "Movement is deliberately stopped for up to 5 minutes"
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "question": "A vehicle is considered parked if:",
+    "answers": [
+      {
+        "text": "Movement is intentionally stopped for more than 5 minutes unless necessary for passenger boarding or unloading, or loading/unloading the vehicle",
+        "correct": true
+      },
+      {
+        "text": "Movement is deliberately stopped for up to 5 minutes"
+      },
+      {
+        "text": "Movement is stopped due to a technical malfunction"
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "question": "Stopping vehicles on the roadway is prohibited:",
+    "answers": [
+      {
+        "text": "Only on railway and tram tracks passing through or near the road if it may hinder tram or train movement"
+      },
+      {
+        "text": "Only in places where the vehicle obstructs traffic signals or road signs for other road users"
+      },
+      {
+        "text": "Only in an additional lane designated for slow-moving vehicles, marked by an appropriate road sign"
+      },
+      {
+        "text": "In all cases listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "img": "img270",
+    "question": "Which driver does the driver of the gray car have priority over when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the motorcycle driver"
+      },
+      {
+        "text": "Only the driver of the white car"
+      },
+      {
+        "text": "Both the motorcycle driver and the driver of the white car"
+      },
+      {
+        "text": "Neither driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "img": "img271",
+    "question": "Who has the right of way when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the blue car"
+      },
+      {
+        "text": "The driver of the red car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "img": "img272",
+    "question": "In this situation, during simultaneous lane changes by vehicles, right of way is given to:",
+    "answers": [
+      {
+        "text": "The driver of the passenger car",
+        "correct": true
+      },
+      {
+        "text": "The driver of the truck"
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "img": "img273",
+    "question": "To exit the road, the driver of the passenger car is allowed to move:",
+    "answers": [
+      {
+        "text": "Only in direction A"
+      },
+      {
+        "text": "Only in direction B",
+        "correct": true
+      },
+      {
+        "text": "In both directions A and B"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "img": "img274",
+    "question": "At the road exit, if there is an acceleration lane, the driver of the passenger car is allowed to move:",
+    "answers": [
+      {
+        "text": "Only in direction A"
+      },
+      {
+        "text": "Only in direction B",
+        "correct": true
+      },
+      {
+        "text": "In both directions A and B"
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "img": "img275",
+    "question": "Is the driver of the passenger car allowed to continue moving in the direction of the arrow if the tractor is moving at 25 km/h?",
+    "answers": [
+      {
+        "text": "Not allowed",
+        "correct": true
+      },
+      {
+        "text": "Allowed"
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "img": "img276",
+    "question": "The driver of the passenger car is allowed to move:",
+    "answers": [
+      {
+        "text": "In direction A"
+      },
+      {
+        "text": "In direction B"
+      },
+      {
+        "text": "In both directions A and B",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "img": "img277",
+    "question": "Is it prohibited for the driver to turn in the direction of the arrow if visibility is limited to 90 meters?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "img": "img278",
+    "question": "Which vehicle driver violates traffic rules by stopping on the bridge at the location indicated by the arrow for passenger boarding?",
+    "answers": [
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "Only the driver of the white car"
+      },
+      {
+        "text": "Only the driver of the green car"
+      },
+      {
+        "text": "Neither driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "img": "img279",
+    "question": "Which vehicle driver violates traffic rules if the passenger car is reversing in the direction of the arrow on the bridge for passenger boarding, while the motorcycle is turning in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The motorcycle driver"
+      },
+      {
+        "text": "The car driver"
+      },
+      {
+        "text": "Neither driver"
+      },
+      {
+        "text": "Both drivers",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "img": "img280",
+    "question": "In this situation, the car is allowed to turn:",
+    "answers": [
+      {
+        "text": "Only in direction A",
+        "correct": true
+      },
+      {
+        "text": "Only in direction B"
+      },
+      {
+        "text": "In both directions A and B"
+      },
+      {
+        "text": "Not allowed in either direction"
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "img": "img281",
+    "question": "In this situation, the driver who missed the turn, intending to take the right turn:",
+    "answers": [
+      {
+        "text": "Is allowed to turn the car in direction A"
+      },
+      {
+        "text": "Is allowed to reverse in direction B"
+      },
+      {
+        "text": "Is allowed to move in both directions A and B"
+      },
+      {
+        "text": "Movement is prohibited in both directions A and B",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "img": "img282",
+    "question": "In this situation, a U-turn is allowed:",
+    "answers": [
+      {
+        "text": "Only in direction A"
+      },
+      {
+        "text": "Only in direction B"
+      },
+      {
+        "text": "In both directions A and B"
+      },
+      {
+        "text": "Not allowed in either direction",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "img": "img283",
+    "question": "Which vehicle driver is prohibited from moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Only the passenger car driver",
+        "correct": true
+      },
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "Neither driver"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "img": "img284",
+    "question": "The driver of the red car missed the first turn. Is reversing into the turn in the direction of the arrow prohibited?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "img": "img285",
+    "question": "The driver of the passenger car missed the crossroad. Is reversing in the direction of the arrow prohibited?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "question": "Besides the legally defined maximum speed limit, the driver is prohibited from exceeding:",
+    "answers": [
+      {
+        "text": "Only the maximum design speed set for the vehicle"
+      },
+      {
+        "text": "Only the speed indicated on the 'Speed Limit' sign attached to the vehicle"
+      },
+      {
+        "text": "Only the maximum speed set by the road sign"
+      },
+      {
+        "text": "Both the maximum design speed set for the vehicle and the speed indicated on the 'Speed Limit' sign attached to the vehicle, as well as the speed indicated on the road sign",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "img": "img287",
+    "question": "The driver of the passenger car is allowed to move:",
+    "answers": [
+      {
+        "text": "Only to the left"
+      },
+      {
+        "text": "Only straight and to the right"
+      },
+      {
+        "text": "Only left and right"
+      },
+      {
+        "text": "Only straight, left, and in the opposite direction (U-turn)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "img": "img288",
+    "question": "The driver of the passenger car is allowed to move:",
+    "answers": [
+      {
+        "text": "Only to the right"
+      },
+      {
+        "text": "Only left and right"
+      },
+      {
+        "text": "Only straight and right",
+        "correct": true
+      },
+      {
+        "text": "Only straight, left, and in the opposite direction (U-turn)"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "img": "img289",
+    "question": "The driver missed the right turn. Is reversing into the turn in the direction of the arrow prohibited?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "question": "In the middle of the roadway of a two-way road with a tram track at the same level, the dividing sides of opposite traffic are considered:",
+    "answers": [
+      {
+        "text": "The imaginary middle line between the tram tracks moving in opposite directions",
+        "correct": true
+      },
+      {
+        "text": "The right tram track moving in the same direction"
+      },
+      {
+        "text": "The left tram track moving in the opposite direction"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "img": "img291",
+    "question": "The driver of the passenger car is allowed to move:",
+    "answers": [
+      {
+        "text": "Only in direction A"
+      },
+      {
+        "text": "Only in direction B"
+      },
+      {
+        "text": "In both directions A and B",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "img": "img292",
+    "question": "The driver of the passenger car is allowed to move:",
+    "answers": [
+      {
+        "text": "Only in direction A",
+        "correct": true
+      },
+      {
+        "text": "Only in direction B"
+      },
+      {
+        "text": "Only in direction C"
+      },
+      {
+        "text": "In no direction"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "img": "img293",
+    "question": "How many roadways does this road have?",
+    "answers": [
+      {
+        "text": "One",
+        "correct": true
+      },
+      {
+        "text": "Two"
+      },
+      {
+        "text": "Three"
+      },
+      {
+        "text": "Four"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "img": "img294",
+    "question": "How many roadways does this road have?",
+    "answers": [
+      {
+        "text": "One"
+      },
+      {
+        "text": "Two",
+        "correct": true
+      },
+      {
+        "text": "Four"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "question": "Is it prohibited for vehicles without rails to enter the tram track when the tram is moving in the opposite direction?",
+    "answers": [
+      {
+        "text": "Not prohibited if all lanes in the same direction are occupied"
+      },
+      {
+        "text": "Prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "question": "In which of the following places is a vehicle turn prohibited?",
+    "answers": [
+      {
+        "text": "Only on roads where visibility is less than 100 meters in one direction"
+      },
+      {
+        "text": "Only at a bus stop"
+      },
+      {
+        "text": "Only on highways"
+      },
+      {
+        "text": "In all of the places listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "question": "If the trajectories of moving vehicles intersect and the priority is not defined, drivers must yield to the vehicle approaching from:",
+    "answers": [
+      {
+        "text": "The right",
+        "correct": true
+      },
+      {
+        "text": "The left"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "question": "In which of the following places is reversing a vehicle prohibited?",
+    "answers": [
+      {
+        "text": "Only in a tunnel"
+      },
+      {
+        "text": "Only on highways"
+      },
+      {
+        "text": "Only at intersections"
+      },
+      {
+        "text": "In all of the places listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "question": "A driver who intends to reverse must ensure that:",
+    "answers": [
+      {
+        "text": "They can perform this maneuver without creating danger or interfering with other road users",
+        "correct": true
+      },
+      {
+        "text": "Other road users yield the right of way to them"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "question": "If a safety island, post, or equipment is located on the axis of the roadway of a two-way road, the driver must pass it:",
+    "answers": [
+      {
+        "text": "Only on the right side",
+        "correct": true
+      },
+      {
+        "text": "Only on the left side"
+      },
+      {
+        "text": "On either the right or left side"
+      }
+    ]
   }
 ]
