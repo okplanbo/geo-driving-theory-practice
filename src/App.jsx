@@ -34,14 +34,13 @@ const theme = extendTheme({
 /* TBD:
  * finish translations, i18n: UI, language switcher
  * load q separately and save them to db with versioning to reuse later
- * categories, original ids
+ * images to static storage in another repo
+ * context, back/next buttons, categories, original ids
  * import/export
- * start, finish view, back/next/reset controls for test set of 30
- * 3 mistakes and fail
  * table of all q with pagination and filters
- * font consistency for i18n
- * images to static storage
- * dark mode
+ * dark mode, font consistency for i18n
+ * 30 question training: start, finish view, 3 mistakes to fail
+ * back/next/reset controls
  * offline mode, pwa
  */
 
@@ -110,7 +109,13 @@ function App() {
             />
             <Route
               path={`${appName}/excluded`}
-              element={<ExcludedList excludedIds={excludedIds} data={data} />}
+              element={
+                <ExcludedList
+                  excludedIds={excludedIds}
+                  currentQuestionNumber={currentQuestionNumber}
+                  data={data}
+                />
+              }
             />
             <Route path={`${appName}/about`} element={<About />} />
           </Routes>
