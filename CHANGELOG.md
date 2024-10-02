@@ -1,3 +1,9 @@
+# [1.3.0](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.6...v1.3.0) (2024-10-02)
+
+### Features
+
+- another randomize button for mobile, keep previous question id when going back from excluded ([f5e9830](https://github.com/okplanbo/geo-driving-theory-practice/commit/f5e9830281c7f773ae3cd71952cf1e283b228de3))
+
 ## [1.2.6](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.5...v1.2.6) (2024-09-23)
 
 ### Bug Fixes
