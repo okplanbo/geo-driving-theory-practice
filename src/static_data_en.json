@@ -4943,5 +4943,649 @@
         "text": "On either the right or left side"
       }
     ]
+  },
+  {
+    "id": 301,
+    "question": "If there is a deceleration lane, the driver intending to turn must:",
+    "answers": [
+      {
+        "text": "Slow down in advance and make the turn without entering the deceleration lane"
+      },
+      {
+        "text": "Timely enter the deceleration lane and then reduce speed",
+        "correct": true
+      },
+      {
+        "text": "Stop on the deceleration lane before making the turn"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "img": "img302",
+    "question": "Is the driver of the passenger car required to turn on the right turn signal when moving in the direction of the arrow if no vehicle is following them?",
+    "answers": [
+      {
+        "text": "Obligated",
+        "correct": true
+      },
+      {
+        "text": "Not obligated"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "img": "img303",
+    "question": "Is the driver of the passenger car required to turn on the left turn signal when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Not obligated"
+      },
+      {
+        "text": "Obligated",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "img": "img304",
+    "question": "In which image is the left turn signal shown by the motorcyclist?",
+    "answers": [
+      {
+        "text": "I",
+        "correct": true
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "img": "img305",
+    "question": "In which image is the right turn signal shown by the motorcyclist?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "img": "img306",
+    "question": "In which image is the braking signal shown by the motorcyclist?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "img": "img307",
+    "question": "In which image is the braking signal shown by the driver of the passenger car?",
+    "answers": [
+      {
+        "text": "I",
+        "correct": true
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "img": "img308",
+    "question": "In which image is the right turn signal shown by the driver of the passenger car?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "img": "img309",
+    "question": "In which image is the left turn or U-turn signal shown by the driver of the passenger car?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "question": "The intention to perform a maneuver indicated by the turn signals or a hand signal:",
+    "answers": [
+      {
+        "text": "Grants priority."
+      },
+      {
+        "text": "Releases the driver from the need to take precautions."
+      },
+      {
+        "text": "Does not grant priority and does not release the driver from the need to take precautions.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "question": "The intention to perform a maneuver indicated by the turn signals must be given:",
+    "answers": [
+      {
+        "text": "At the start of the maneuver and continued until the maneuver is completed"
+      },
+      {
+        "text": "In advance, before starting the maneuver, and stopped immediately after it is completed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "img": "img312",
+    "question": "In this situation, the driver must stop:",
+    "answers": [
+      {
+        "text": "Alongside the traffic light"
+      },
+      {
+        "text": "Before the nearest rail, at a distance of no less than 10 meters"
+      },
+      {
+        "text": "At the Stop-line",
+        "correct": true
+      },
+      {
+        "text": "At a distance of no less than 5 meters from the nearest rail"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "img": "img313",
+    "question": "The half-barrier is down. The driver of the vehicle does not violate the traffic rules if:",
+    "answers": [
+      {
+        "text": "They stop at a distance of no less than 5 meters from the half-barrier.",
+        "correct": true
+      },
+      {
+        "text": "They bypass the barrier and cross the railroad."
+      },
+      {
+        "text": "They open the barrier themselves with precautions and continue driving."
+      },
+      {
+        "text": "All answers in this ticket are incorrect"
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "img": "img314",
+    "question": "In this situation, the driver of the vehicle must:",
+    "answers": [
+      {
+        "text": "Continue driving as the barrier is lifted"
+      },
+      {
+        "text": "Stop at the traffic light",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "img": "img315",
+    "question": "In this situation, which driver, having stopped at the railroad crossing, violates the traffic rules?",
+    "answers": [
+      {
+        "text": "Only the driver of the yellow car",
+        "correct": true
+      },
+      {
+        "text": "Only the driver of the white car"
+      },
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "Neither driver"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "img": "img316",
+    "question": "Is overtaking by the driver of the blue car prohibited in the direction of the arrow in this situation?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "img": "img317",
+    "question": "The traffic controller is standing with their back to the car, arms down. In this situation, the driver of the passenger car:",
+    "answers": [
+      {
+        "text": "Must slow down and stop."
+      },
+      {
+        "text": "Must stop at a distance of no less than 10 meters from the nearest rail."
+      },
+      {
+        "text": "Must stop at a distance of no less than 5 meters from the half-barrier."
+      },
+      {
+        "text": "Is allowed to continue driving.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "img": "img318",
+    "question": "The train is finishing its crossing of the railroad. The driver of the car is allowed to continue driving:",
+    "answers": [
+      {
+        "text": "Immediately after the train passes"
+      },
+      {
+        "text": "After the train passes and the flashing yellow light appears on the traffic light",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "img": "img319",
+    "question": "In this situation, the driver of the car must stop:",
+    "answers": [
+      {
+        "text": "At a distance of no less than 5 meters from the half-barrier"
+      },
+      {
+        "text": "At a distance of no less than 10 meters from the nearest rail"
+      },
+      {
+        "text": "At the traffic light",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "img": "img320",
+    "question": "In this situation, the driver of the car must stop:",
+    "answers": [
+      {
+        "text": "Directly at the barrier"
+      },
+      {
+        "text": "At the Stop-line",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "question": "On a road where there are at least two lanes for traffic in the same direction, is the driver allowed to remain in the lane occupied during the first overtaking if they need to begin a new overtaking immediately or soon after returning to their lane?",
+    "answers": [
+      {
+        "text": "Not allowed"
+      },
+      {
+        "text": "Allowed, if the driver ensures in advance that it does not obstruct a faster vehicle coming from behind",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "img": "img322",
+    "question": "In this situation, which vehicle's driver is prohibited from moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Drivers of both vehicles"
+      },
+      {
+        "text": "Neither driver"
+      },
+      {
+        "text": "Only the red car driver",
+        "correct": true
+      },
+      {
+        "text": "Only the blue car driver"
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "question": "Except when exiting from the left side of the road, a driver who realizes that the vehicle behind is attempting to overtake must:",
+    "answers": [
+      {
+        "text": "Move closer to the right edge of the road and increase speed"
+      },
+      {
+        "text": "Move to the far left side and reduce speed"
+      },
+      {
+        "text": "Move closer to the right edge of the road if possible and should not increase speed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "img": "img324",
+    "question": "In this situation, the driver must:",
+    "answers": [
+      {
+        "text": "Continue driving"
+      },
+      {
+        "text": "Stop at a distance of no less than 10 meters from the nearest rail"
+      },
+      {
+        "text": "Stop at the Stop-line",
+        "correct": true
+      },
+      {
+        "text": "Stop at the traffic light"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "img": "img325",
+    "question": "In this situation, the driver must:",
+    "answers": [
+      {
+        "text": "Continue driving"
+      },
+      {
+        "text": "Stop at the Stop-line",
+        "correct": true
+      },
+      {
+        "text": "Stop at a distance of no less than 10 meters from the nearest rail"
+      },
+      {
+        "text": "Stop at the traffic light"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "img": "img326",
+    "question": "In this situation, is it prohibited for the driver to reverse in the direction of the arrow and then execute a turn?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "img": "img327",
+    "question": "In this situation, under the yellow flashing light of the traffic signal:",
+    "answers": [
+      {
+        "text": "The driver must stop at the Stop-line and wait for the light to change"
+      },
+      {
+        "text": "The driver must stop at a distance of no less than 10 meters from the nearest rail"
+      },
+      {
+        "text": "The driver is allowed to continue driving with extra caution",
+        "correct": true
+      },
+      {
+        "text": "The driver must stop at the traffic light"
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "img": "img328",
+    "question": "In this situation, is overtaking prohibited for the driver in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "question": "In which of the following locations does the law allow the driver to use the lane that is most convenient for them?",
+    "answers": [
+      {
+        "text": "On any road in a populated area, if the driver is operating a slow-moving vehicle"
+      },
+      {
+        "text": "Outside populated areas and on roads in populated areas where driving at a speed of more than 80 km/h is permitted"
+      },
+      {
+        "text": "In a populated area, on a road where there are at least two lanes for traffic in the same direction, marked with longitudinal road markings",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "img": "img330",
+    "question": "In this situation, is overtaking prohibited for the driver in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "img": "img331",
+    "question": "In this situation, is overtaking prohibited for the driver of the white car in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "img": "img332",
+    "question": "In this situation, is overtaking prohibited for the driver of the blue car in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "img": "img333",
+    "question": "In this situation, is the driver allowed to proceed without stopping if the special blue flashing light and sirens are activated on an emergency vehicle?",
+    "answers": [
+      {
+        "text": "Not allowed",
+        "correct": true
+      },
+      {
+        "text": "Allowed"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "question": "Is it prohibited for the driver of a vehicle to obstruct an overtaking vehicle by increasing speed or taking other actions?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "question": "If a right-turn lane is separated from the roadway by an elevated safety island and there is no traffic light on the right side before the intersection, can the driver make the right turn at the traffic light at the intersection?",
+    "answers": [
+      {
+        "text": "After the light permits driving"
+      },
+      {
+        "text": "Regardless of the traffic light, yielding to all vehicles coming from other directions",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "img": "img336",
+    "question": "Is the driver of the red car allowed to enter the railroad crossing if there is a traffic jam after the crossing?",
+    "answers": [
+      {
+        "text": "Not allowed",
+        "correct": true
+      },
+      {
+        "text": "Allowed"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "question": "When approaching a railroad crossing or driving over one, the driver of a vehicle:",
+    "answers": [
+      {
+        "text": "Must proceed at a moderate speed, and when crossing railroad tracks, the driver must use only the crossing and yield to the train (locomotive, handcar)",
+        "correct": true
+      },
+      {
+        "text": "Must quickly pass through the crossing, and if another vehicle is stopped before the crossing, bypass it by crossing into the opposite lane"
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "question": "At a railroad crossing, it is prohibited:",
+    "answers": [
+      {
+        "text": "Only to bypass a vehicle standing before the crossing by entering the opposite lane"
+      },
+      {
+        "text": "Only to open the barrier or half-barrier yourself"
+      },
+      {
+        "text": "Only to transport agricultural, construction, and other machinery and equipment in a non-transportable form that may damage the crossing and obstruct traffic"
+      },
+      {
+        "text": "To perform any of the actions listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "question": "At a railroad crossing, in case of a forced stop of a vehicle, the general alarm signal corresponds to:",
+    "answers": [
+      {
+        "text": "Two long and two short sound signals"
+      },
+      {
+        "text": "Three long and one short sound signal"
+      },
+      {
+        "text": "One long and three short sound signals",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "question": "Which of the following road users are not prohibited from using highways, including entrance and exit ramps?",
+    "answers": [
+      {
+        "text": "Moped drivers"
+      },
+      {
+        "text": "Pedestrians"
+      },
+      {
+        "text": "Electric scooter drivers"
+      },
+      {
+        "text": "Truck drivers",
+        "correct": true
+      }
+    ]
   }
 ]
