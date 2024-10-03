@@ -5587,5 +5587,654 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 341,
+    "question": "On a highway, including at entrances and exits, the following is not prohibited:",
+    "answers": [
+      {
+        "text": "U-turns or reversing the vehicle"
+      },
+      {
+        "text": "Crossing the central dividing line and connecting both carriageways"
+      },
+      {
+        "text": "Driving a vehicle designed for passenger transport with a maximum permitted weight of no more than 3.5 tons beyond the second lane",
+        "correct": true
+      },
+      {
+        "text": "Learner driving"
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "question": "Is parking vehicles on the roadway or on tram and railroad tracks passing through or near the road prohibited if it may hinder the movement of trams or trains?",
+    "answers": [
+      {
+        "text": "Not prohibited"
+      },
+      {
+        "text": "Prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "question": "Demonstrations, car rallies, promotional races, automotive competitions, and technical tests of vehicles or prototypes with their body on highways are allowed:",
+    "answers": [
+      {
+        "text": "By decision of the organizers of such processes or by decision of public leadership"
+      },
+      {
+        "text": "By decision of the executive authorities or local self-government bodies",
+        "correct": true
+      },
+      {
+        "text": "By decision of those involved in such processes"
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "img": "img344",
+    "question": "To exit onto a highway, the driver of a passenger car has the right to move:",
+    "answers": [
+      {
+        "text": "In direction A"
+      },
+      {
+        "text": "In direction B",
+        "correct": true
+      },
+      {
+        "text": "In both directions A and B"
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "img": "img345",
+    "question": "To exit onto a highway, the driver of a passenger car has the right to move:",
+    "answers": [
+      {
+        "text": "Only in direction A"
+      },
+      {
+        "text": "Only in direction B",
+        "correct": true
+      },
+      {
+        "text": "In both directions A and B"
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "img": "img346",
+    "question": "When moving in the direction of the arrow, the priority belongs to:",
+    "answers": [
+      {
+        "text": "The driver of the passenger car"
+      },
+      {
+        "text": "The driver of the motorcycle",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "img": "img347",
+    "question": "Which driver violates traffic rules when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the driver of the truck"
+      },
+      {
+        "text": "Both drivers",
+        "correct": true
+      },
+      {
+        "text": "Only the driver of the passenger car"
+      },
+      {
+        "text": "Neither driver"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "img": "img348",
+    "question": "In this situation, which vehicle is allowed to move in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the driver of the quad bike",
+        "correct": true
+      },
+      {
+        "text": "Only the driver of the truck"
+      },
+      {
+        "text": "Only the driver of the tractor"
+      },
+      {
+        "text": "All vehicles"
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "img": "img349",
+    "question": "Does the driver of the passenger car violate traffic rules if forced to stop on the highway at the location shown?",
+    "answers": [
+      {
+        "text": "Does not violate"
+      },
+      {
+        "text": "Violates",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "img": "img350",
+    "question": "In this situation, which vehicle is allowed to move in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Only the moped driver"
+      },
+      {
+        "text": "Only the passenger car driver",
+        "correct": true
+      },
+      {
+        "text": "All vehicles"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "img": "img351",
+    "question": "The driver of a truck is performing road maintenance work. Which driver is prohibited from moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Only the passenger car driver"
+      },
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "Neither driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "img": "img352",
+    "question": "In this situation, does the driver of the passenger car violate the rules for a forced stop?",
+    "answers": [
+      {
+        "text": "Does not violate",
+        "correct": true
+      },
+      {
+        "text": "Violates"
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "img": "img353",
+    "question": "A broken-down car is being towed on the highway using homemade equipment (rope). The driver of the towing vehicle is allowed to move:",
+    "answers": [
+      {
+        "text": "In direction A"
+      },
+      {
+        "text": "In direction B",
+        "correct": true
+      },
+      {
+        "text": "In both directions A and B"
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "img": "img354",
+    "question": "In a populated area, when a bus starts leaving a bus stop, the driver of the passenger car must:",
+    "answers": [
+      {
+        "text": "Continue driving without changing speed"
+      },
+      {
+        "text": "Slow down and stop if necessary",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "question": "It is prohibited to stop vehicles on the roadway near a dangerous curve and at the top of a crest where road visibility in at least one direction is:",
+    "answers": [
+      {
+        "text": "Less than 100 meters",
+        "correct": true
+      },
+      {
+        "text": "More than 100 meters but less than 150 meters"
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "img": "img356",
+    "question": "In a non-populated area, which vehicle driver must yield the right of way when moving in the direction of the arrow if the bus driver starts leaving the bus stop?",
+    "answers": [
+      {
+        "text": "The driver of the passenger car"
+      },
+      {
+        "text": "The bus driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "img": "img357",
+    "question": "Is the driver prohibited from making a U-turn in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "img": "img358",
+    "question": "Is the driver allowed to turn the vehicle in the direction of the arrow if the tunnel is marked with road sign 1.32 (Tunnel)?",
+    "answers": [
+      {
+        "text": "Allowed if the tunnel is in a populated area."
+      },
+      {
+        "text": "Allowed if the tunnel is in a non-populated area."
+      },
+      {
+        "text": "Not allowed.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "question": "Before leaving the vehicle, the driver must ensure:",
+    "answers": [
+      {
+        "text": "Only that all necessary precautions have been taken to prevent a traffic accident."
+      },
+      {
+        "text": "Only that all necessary measures have been taken to prevent the unauthorized use of the vehicle."
+      },
+      {
+        "text": "That all necessary precautions have been taken to prevent a traffic accident, and that all measures have been taken to prevent unauthorized use of the vehicle.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "img": "img360",
+    "question": "In this situation, does the driver violate the requirements for a forced stop if it is impossible to immediately remove the damaged vehicle from the road?",
+    "answers": [
+      {
+        "text": "Does not violate"
+      },
+      {
+        "text": "Violates",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "question": "Is the driver obligated to ensure that passengers board and disembark only after the vehicle has come to a complete stop, and only begin moving after the doors are closed, without opening them before a full stop?",
+    "answers": [
+      {
+        "text": "Not obligated"
+      },
+      {
+        "text": "Obligated",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "question": "Is the transportation of passengers prohibited if the number of passengers exceeds the vehicle's technical specifications (excluding children under 12 years old)?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "img": "img363",
+    "question": "Which tram driver must yield to the driver of the passenger car when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the driver of the first tram"
+      },
+      {
+        "text": "Only the driver of the second tram"
+      },
+      {
+        "text": "Both tram drivers",
+        "correct": true
+      },
+      {
+        "text": "Neither tram driver"
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "img": "img364",
+    "question": "Which vehicle is parked in violation of parking regulations?",
+    "answers": [
+      {
+        "text": "Only the truck"
+      },
+      {
+        "text": "Only the passenger car"
+      },
+      {
+        "text": "Both vehicles",
+        "correct": true
+      },
+      {
+        "text": "Neither vehicle"
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "img": "img365",
+    "question": "Does the driver of the passenger car have the right to stop on the road shown in the image, located in a populated area, for the purpose of picking up passengers?",
+    "answers": [
+      {
+        "text": "No right",
+        "correct": true
+      },
+      {
+        "text": "Has the right"
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "img": "img366",
+    "question": "Which vehicle driver may continue driving in the direction of the arrow at this traffic signal?",
+    "answers": [
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "Neither driver"
+      },
+      {
+        "text": "Only the tram driver"
+      },
+      {
+        "text": "Only the passenger car driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "img": "img367",
+    "question": "In this situation, which driver has the right of way if the driver of the yellow car begins to move after dropping off passengers and the driver of the black car stops to pick up passengers?",
+    "answers": [
+      {
+        "text": "The driver of the yellow car"
+      },
+      {
+        "text": "The driver of the black car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "img": "img368",
+    "question": "Does the driver of the passenger car have the right to continue driving in the direction of the arrow if there is no passenger boarding or disembarking at the tram stop?",
+    "answers": [
+      {
+        "text": "Has the right",
+        "correct": true
+      },
+      {
+        "text": "No right"
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "img": "img369",
+    "question": "In this situation, does the driver of the passenger car have the right to continue without stopping?",
+    "answers": [
+      {
+        "text": "Has the right"
+      },
+      {
+        "text": "No right",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "img": "img370",
+    "question": "In this situation, which vehicle is prohibited from driving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the driver of the blue car"
+      },
+      {
+        "text": "Only the driver of the red car"
+      },
+      {
+        "text": "Both drivers",
+        "correct": true
+      },
+      {
+        "text": "Neither driver"
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "img": "img371",
+    "question": "The driver of the passenger car intends to turn right at the intersection. Does he violate traffic rules if:",
+    "answers": [
+      {
+        "text": "Overtakes the bus, moves to the right lane, and then turns right"
+      },
+      {
+        "text": "Overtakes the bus and turns right from the second lane"
+      },
+      {
+        "text": "Lets the bus pass, moves to the right lane, and then turns right",
+        "correct": true
+      },
+      {
+        "text": "Lets the bus pass and turns right from the second lane"
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "img": "img372",
+    "question": "The driver of the passenger car is allowed to move:",
+    "answers": [
+      {
+        "text": "Only in directions A and C"
+      },
+      {
+        "text": "Only in directions B and C"
+      },
+      {
+        "text": "Only in directions A and B",
+        "correct": true
+      },
+      {
+        "text": "Only in direction A"
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "img": "img373",
+    "question": "Can the driver of the passenger car stop in the populated area shown in the image for the purpose of picking up passengers?",
+    "answers": [
+      {
+        "text": "No right",
+        "correct": true
+      },
+      {
+        "text": "Has the right"
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "img": "img374",
+    "question": "The driver of the passenger vehicle is allowed to move:",
+    "answers": [
+      {
+        "text": "Only straight and right"
+      },
+      {
+        "text": "Only straight and left"
+      },
+      {
+        "text": "Only left and U-turn"
+      },
+      {
+        "text": "Only straight, left, and U-turn",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "img": "img375",
+    "question": "Which parked vehicle is given priority when starting to move in the direction of the arrow, if the bus driver starts moving from the marked bus stop in a populated area?",
+    "answers": [
+      {
+        "text": "The driver of the passenger car."
+      },
+      {
+        "text": "The bus driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "img": "img376",
+    "question": "Which vehicle is given priority when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the black car"
+      },
+      {
+        "text": "The driver of the white car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "question": "Is the driver allowed to stop or park the vehicle in a tunnel marked with a road sign, in the event of danger, where there are no marked places for special stops?",
+    "answers": [
+      {
+        "text": "Not allowed"
+      },
+      {
+        "text": "Allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "question": "Is it permissible to leave the vehicle with the engine running during a long-term stop in a tunnel marked with a road sign?",
+    "answers": [
+      {
+        "text": "Permissible"
+      },
+      {
+        "text": "Not permissible",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "img": "img379",
+    "question": "Which of these symbols is the emergency stop sign?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "question": "To assess the condition of a victim in a traffic accident, the first step is to:",
+    "answers": [
+      {
+        "text": "Only open the airways and check breathing"
+      },
+      {
+        "text": "Only check consciousness"
+      },
+      {
+        "text": "Only check the carotid artery pulse"
+      },
+      {
+        "text": "Open the airways, check breathing, check consciousness, and check the carotid artery pulse",
+        "correct": true
+      }
+    ]
   }
 ]

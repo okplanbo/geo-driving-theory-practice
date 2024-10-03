@@ -1,5 +1,7 @@
 import { useState } from "react";
 
+import { CheckCircleIcon } from "@chakra-ui/icons";
+
 import {
   Box,
   Text,
@@ -83,8 +85,10 @@ const QuestionCard = ({
           {answers.map((answer, index) => (
             <Radio key={index} value={answer.text}>
               <p className="select-text">
-                {answer.text}{" "}
-                {answer.correct && selectedAnswer !== null ? "✓" : ""}
+                {answer.text}
+                {answer.correct && selectedAnswer !== null ? (
+                  <CheckCircleIcon marginLeft={2} color="green.600" />
+                ) : null}
               </p>
             </Radio>
           ))}
