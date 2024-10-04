@@ -84,12 +84,14 @@ const QuestionCard = ({
         <Stack spacing={5}>
           {answers.map((answer, index) => (
             <Radio key={index} value={answer.text}>
-              <p className="select-text">
-                {answer.text}
-                {answer.correct && selectedAnswer !== null ? (
-                  <CheckCircleIcon marginLeft={2} color="green.600" />
-                ) : null}
-              </p>
+              <span className="select-text">{answer.text}</span>
+              {answer.correct && selectedAnswer !== null ? (
+                <CheckCircleIcon
+                  marginBottom={1}
+                  marginLeft={2}
+                  color="green.600"
+                />
+              ) : null}
             </Radio>
           ))}
         </Stack>
