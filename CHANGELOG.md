@@ -1,3 +1,9 @@
+# [1.4.0](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.3.0...v1.4.0) (2024-10-05)
+
+### Features
+
+- update view on back and forward browser actions ([369755b](https://github.com/okplanbo/geo-driving-theory-practice/commit/369755ba9954e0eff2356c519c0767772ee294f5))
+
 # [1.3.0](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.2.6...v1.3.0) (2024-10-02)
 
 ### Features
