@@ -6236,5 +6236,344 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 381,
+    "question": "Is stopping vehicles prohibited within 15 meters of places designated for the stop of public transport vehicles and taxis, or in the absence of such places, from signs indicating public transport and taxi stops if it obstructs the movement of public transport vehicles?",
+    "answers": [
+      {
+        "text": "Closer than 15 meters",
+        "correct": true
+      },
+      {
+        "text": "Closer than 25 meters"
+      },
+      {
+        "text": "Closer than 30 meters"
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "question": "In the event of a second-degree burn (damage to the skin tissue, red tint, blistering, and severe pain), as a result of a traffic accident, what should be done as part of first aid?",
+    "answers": [
+      {
+        "text": "Wash the burn area with cold water, treat with iodine solution, apply a sterile bandage and wrap it with gauze."
+      },
+      {
+        "text": "Open the blisters, clean the area, apply a sterile bandage, and offer water."
+      },
+      {
+        "text": "Do not open the blisters, do not remove clothing remnants, apply a sterile bandage, avoid wrapping it, apply ice or a cold compress, provide pain relief (if no allergy), and offer water.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "question": "Is it prohibited to stop vehicles under bridges, overpasses, and highways where there are no specially designated areas for stopping?",
+    "answers": [
+      {
+        "text": "Only prohibited for vehicles with a maximum allowable mass of more than 3.5 tons."
+      },
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "img": "img384",
+    "question": "Who must the driver of the passenger car yield to when driving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only pedestrians"
+      },
+      {
+        "text": "Only the cyclist"
+      },
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Both pedestrians, cyclists, and the truck driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "img": "img385",
+    "question": "In what order should vehicles proceed through the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First the moped, then the tram, and finally the car."
+      },
+      {
+        "text": "First the tram, then the moped, and finally the car.",
+        "correct": true
+      },
+      {
+        "text": "First the tram, then the car, and finally the moped."
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "question": "If the victim of a traffic accident has no breathing and no carotid artery pulse, what first aid should be provided?",
+    "answers": [
+      {
+        "text": "Only artificial respiration"
+      },
+      {
+        "text": "Only indirect heart massage"
+      },
+      {
+        "text": "Both artificial respiration and indirect heart massage",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "img": "img387",
+    "question": "In which direction indicated by the arrows will the moped driver violate traffic rules?",
+    "answers": [
+      {
+        "text": "Direction A"
+      },
+      {
+        "text": "Both direction A and B"
+      },
+      {
+        "text": "Direction B",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "img": "img388",
+    "question": "Which vehicle is prohibited from driving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the cyclist"
+      },
+      {
+        "text": "Only the moped driver",
+        "correct": true
+      },
+      {
+        "text": "Both the cyclist and moped driver"
+      },
+      {
+        "text": "Neither"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "img": "img389",
+    "question": "Is the moped driver prohibited from driving in the direction of the arrow at a speed of 40 km/h?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "img": "img390",
+    "question": "Which vehicle is prohibited from driving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Neither vehicle"
+      },
+      {
+        "text": "Only the car driver"
+      },
+      {
+        "text": "Both the car driver and the moped driver"
+      },
+      {
+        "text": "Only the moped driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "img": "img391",
+    "question": "Which vehicle driver will violate traffic rules when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the car driver"
+      },
+      {
+        "text": "Only the motorcycle drivers"
+      },
+      {
+        "text": "Neither vehicle driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "img": "img392",
+    "question": "In what order should the vehicles proceed through the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First the cyclist, then the white car, and finally the green car."
+      },
+      {
+        "text": "First the green car, then the cyclist, and finally the white car."
+      },
+      {
+        "text": "First the white car, followed by the green car, and finally the cyclist.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "img": "img393",
+    "question": "In what order should the vehicles proceed through the intersection when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "First the green car, then the red car, and finally the cyclist."
+      },
+      {
+        "text": "First the cyclist, then the green car, and finally the red car.",
+        "correct": true
+      },
+      {
+        "text": "First the red car, then the cyclist, and finally the green car."
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "img": "img394",
+    "question": "Do pedestrians in a residential zone have the right to obstruct the movement of the white car without reason?",
+    "answers": [
+      {
+        "text": "Yes, because pedestrians have priority in residential areas over other road users."
+      },
+      {
+        "text": "No, they do not have the right.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "img": "img395",
+    "question": "What is the maximum speed the car driver may travel in a residential area?",
+    "answers": [
+      {
+        "text": "20 km/h",
+        "correct": true
+      },
+      {
+        "text": "40 km/h"
+      },
+      {
+        "text": "60 km/h"
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "img": "img396",
+    "question": "Which driver must yield when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The car driver",
+        "correct": true
+      },
+      {
+        "text": "The bus driver"
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "img": "img397",
+    "question": "Who must the car driver yield to when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only pedestrians"
+      },
+      {
+        "text": "Only the cyclist"
+      },
+      {
+        "text": "Only the moped driver"
+      },
+      {
+        "text": "Pedestrians, cyclists, and moped drivers",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "question": "At what age is it permitted to ride a bicycle or electric scooter on roads?",
+    "answers": [
+      {
+        "text": "12 years old"
+      },
+      {
+        "text": "14 years old",
+        "correct": true
+      },
+      {
+        "text": "16 years old"
+      },
+      {
+        "text": "18 years old"
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "question": "At what age is it permitted to operate a moped on roads?",
+    "answers": [
+      {
+        "text": "12 years old"
+      },
+      {
+        "text": "14 years old"
+      },
+      {
+        "text": "16 years old",
+        "correct": true
+      },
+      {
+        "text": "18 years old"
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "question": "Is it prohibited to travel in columns on bicycles or electric scooters?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
   }
 ]
