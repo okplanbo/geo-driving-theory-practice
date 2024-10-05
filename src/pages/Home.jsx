@@ -1,8 +1,13 @@
 import { Link } from "react-router-dom";
 
+import { createBrowserHistory } from "history";
+
 import { Button, Tooltip } from "@chakra-ui/react";
 
 import QuestionCard from "./../components/QuestionCard";
+import { useEffect } from "react";
+
+const history = createBrowserHistory();
 
 export function Home({
   excludedIds,
@@ -10,8 +15,17 @@ export function Home({
   currentQuestionNumber,
   handleRandomize,
   updateExcluded,
+  navigateHandler,
 }) {
   const question = data[currentQuestionNumber - 1] || null;
+
+  useEffect(() => {
+    history.listen((update) => {
+      if (["PUSH", "POP"].includes(update.action)) {
+        navigateHandler();
+      }
+    });
+  }, []);
 
   return (
     <>

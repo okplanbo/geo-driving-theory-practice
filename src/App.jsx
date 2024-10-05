@@ -76,6 +76,10 @@ function App() {
     initQuestion();
   }, []);
 
+  const navigateHandler = () => {
+    initQuestion();
+  };
+
   const handleRandomize = () => {
     const queryParams = new URLSearchParams(location.search);
     const questionNumber = getRandomQuestionNumber(excludedIds);
@@ -100,6 +104,7 @@ function App() {
               element={
                 <Home
                   excludedIds={excludedIds}
+                  navigateHandler={navigateHandler}
                   updateExcluded={updateExcluded} // yes, still refusing to use context api :>
                   currentQuestionNumber={currentQuestionNumber}
                   handleRandomize={handleRandomize}
