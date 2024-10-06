@@ -6575,5 +6575,324 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 401,
+    "question": "To facilitate overtaking, what should the distance be between groups of bicycles or mopeds when driving on the roadway?",
+    "answers": [
+      {
+        "text": "40-60 meters"
+      },
+      {
+        "text": "60-80 meters"
+      },
+      {
+        "text": "80-100 meters",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "question": "In the absence of a bicycle lane, a bike path, or a roadside, if movement on the road is difficult and does not obstruct pedestrian movement, who has the right to move on the sidewalk?",
+    "answers": [
+      {
+        "text": "The cyclist",
+        "correct": true
+      },
+      {
+        "text": "The moped rider"
+      },
+      {
+        "text": "Both the cyclist and moped rider"
+      },
+      {
+        "text": "Neither the cyclist nor the moped rider"
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "question": "Is it prohibited for a car to overtake a moped at a regulated intersection without crossing into oncoming traffic?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "question": "Is it prohibited for a car to overtake a motorcycle with a sidecar at a regulated intersection without crossing into oncoming traffic?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "question": "Which of the following activities is not prohibited in pedestrian and residential zones?",
+    "answers": [
+      {
+        "text": "Through traffic of vehicles"
+      },
+      {
+        "text": "Driving lessons"
+      },
+      {
+        "text": "Parking with the engine running"
+      },
+      {
+        "text": "Operating a car with a design speed exceeding 120 km/h",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 406,
+    "question": "In pedestrian and residential zones, who has priority over other road users?",
+    "answers": [
+      {
+        "text": "Drivers"
+      },
+      {
+        "text": "Pedestrians",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "question": "The door of a stationary vehicle should not be open on the side of the roadway, bike lane, or bike path for more than:",
+    "answers": [
+      {
+        "text": "5 minutes"
+      },
+      {
+        "text": "15 minutes"
+      },
+      {
+        "text": "Only as long as needed for boarding and disembarking passengers.",
+        "correct": true
+      },
+      {
+        "text": "20 minutes"
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "question": "Does a moped, bicycle, motorcycle, or electric scooter rider have the right to move in such a way that none of the wheels of the vehicle touch the road surface?",
+    "answers": [
+      {
+        "text": "No",
+        "correct": true
+      },
+      {
+        "text": "Yes"
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "img": "img409",
+    "question": "Does the driver of the towing vehicle have the right to continue driving in the direction of the arrow if the towing is done with makeshift equipment (a rope)?",
+    "answers": [
+      {
+        "text": "Yes"
+      },
+      {
+        "text": "No",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "img": "img410",
+    "question": "What is the maximum speed a truck driver can continue moving if towing is carried out using a rigid hitch?",
+    "answers": [
+      {
+        "text": "50 km/h",
+        "correct": true
+      },
+      {
+        "text": "60 km/h"
+      },
+      {
+        "text": "80 km/h"
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "img": "img411",
+    "question": "Does the driver of the towing vehicle, moving in the direction of the arrow, violate the towing requirements for motor vehicles?",
+    "answers": [
+      {
+        "text": "Yes",
+        "correct": true
+      },
+      {
+        "text": "No"
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "question": "If the victim of a traffic accident has no breathing but has a carotid artery pulse, what should be performed as part of first aid?",
+    "answers": [
+      {
+        "text": "Only artificial respiration",
+        "correct": true
+      },
+      {
+        "text": "Only chest compressions"
+      },
+      {
+        "text": "Both artificial respiration and chest compressions"
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "img": "img413",
+    "question": "Which driver is prohibited from driving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the yellow car driver"
+      },
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Only the towing vehicle driver",
+        "correct": true
+      },
+      {
+        "text": "No driver"
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "img": "img414",
+    "question": "Which driver is allowed to continue driving in the direction of the arrow if the truck has an actual mass of 7 tons?",
+    "answers": [
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Only the red car driver",
+        "correct": true
+      },
+      {
+        "text": "No driver"
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "img": "img415",
+    "question": "Which driver violates traffic rules if the tractor is moving at a speed of 50 km/h and the truck overtakes?",
+    "answers": [
+      {
+        "text": "Only the tractor driver"
+      },
+      {
+        "text": "Only the truck driver"
+      },
+      {
+        "text": "Both the tractor and truck drivers",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 416,
+    "img": "img416",
+    "question": "Is it permissible to tow a car with a faulty steering mechanism in the manner shown?",
+    "answers": [
+      {
+        "text": "Permissible"
+      },
+      {
+        "text": "Not permissible",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "img": "img417",
+    "question": "Is it permissible to tow a car with a faulty steering mechanism in the manner shown?",
+    "answers": [
+      {
+        "text": "Permissible",
+        "correct": true
+      },
+      {
+        "text": "Not permissible"
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "img": "img418",
+    "question": "Which driver will violate traffic rules when moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The driver of the towing tractor-trailer.",
+        "correct": true
+      },
+      {
+        "text": "The driver of the red car."
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "img": "img419",
+    "question": "How many traffic rules are violated in this situation if the towed vehicle with a flexible hitch is moving at a speed of 50 km/h, and the distance between them is 5 meters?",
+    "answers": [
+      {
+        "text": "Two"
+      },
+      {
+        "text": "Three"
+      },
+      {
+        "text": "Four",
+        "correct": true
+      },
+      {
+        "text": "Five"
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "img": "img420",
+    "question": "In this situation, does the driver of the towing vehicle have the right to continue moving in the following direction?",
+    "answers": [
+      {
+        "text": "In direction A"
+      },
+      {
+        "text": "In direction B"
+      },
+      {
+        "text": "In both direction A and direction B",
+        "correct": true
+      }
+    ]
   }
 ]

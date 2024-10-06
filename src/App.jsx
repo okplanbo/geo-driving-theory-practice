@@ -33,14 +33,17 @@ const theme = extendTheme({
 
 /* TBD:
  * finish translations, i18n: UI, language switcher
- * load q separately and save them to db with versioning to reuse later
  * images to static storage in another repo
+ * move project to new domain
+ * explain button, parse teoria for expaining text
  * context, back/next buttons, categories, original ids
  * import/export
+ * load q separately and save them to db with versioning to reuse later
  * table of all q with pagination and filters
  * dark mode, font consistency for i18n
  * 30 question training: start, finish view, 3 mistakes to fail
  * back/next/reset controls
+ * backend via firebase
  * offline mode, pwa
  */
 
