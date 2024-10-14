@@ -3259,7 +3259,7 @@
   {
     "id": 198,
     "img": "img198",
-    "question": "Is overtaking prohibited for the driver of the red car in the direction of the arrow, if the tractor is moving at a speed of 30 km/h?",
+    "question": "Is overtaking prohibited for the driver of the passenger car in the direction of the arrow, if the tractor is moving at a speed of 30 km/h?",
     "answers": [
       {
         "text": "Prohibited",
@@ -6892,6 +6892,1073 @@
       {
         "text": "In both direction A and direction B",
         "correct": true
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "img": "img421",
+    "question": "In this situation, is it prohibited for the towing vehicle driver to continue driving in the direction of the arrow if the road is icy?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "question": "Is it permissible for a motor vehicle with a trailer to tow another vehicle?",
+    "answers": [
+      {
+        "text": "Permissible"
+      },
+      {
+        "text": "Not permissible",
+        "correct": true
+      },
+      {
+        "text": "Permissible only if the maximum permissible mass of the trailer is less than 750 kg"
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "question": "How can a motor vehicle be towed?",
+    "answers": [
+      {
+        "text": "Only with a rigid tow"
+      },
+      {
+        "text": "Only with a flexible tow"
+      },
+      {
+        "text": "Only with partial loading"
+      },
+      {
+        "text": "Both rigid, flexible, and partial loading are allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "question": "Is it mandatory to have a driver in the towed vehicle when rigid towing, if the tow mechanism ensures the towed vehicle follows the path of the towing vehicle?",
+    "answers": [
+      {
+        "text": "Mandatory"
+      },
+      {
+        "text": "Not mandatory",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "question": "Is it mandatory to have a driver in the towed vehicle when flexible towing?",
+    "answers": [
+      {
+        "text": "Mandatory",
+        "correct": true
+      },
+      {
+        "text": "Not mandatory"
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "question": "When towing with partial loading, it is prohibited to have passengers:",
+    "answers": [
+      {
+        "text": "Only in the towing vehicle"
+      },
+      {
+        "text": "Only in the cargo area of the towed vehicle"
+      },
+      {
+        "text": "Both in the towing vehicle and in the cargo area of the towed vehicle",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "question": "When towing with a flexible connection, the distance between the towing and towed vehicles must be:",
+    "answers": [
+      {
+        "text": "2-4 meters"
+      },
+      {
+        "text": "4-6 meters",
+        "correct": true
+      },
+      {
+        "text": "6-8 meters"
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "question": "Is towing prohibited for a vehicle with two trailers?",
+    "answers": [
+      {
+        "text": "Not prohibited."
+      },
+      {
+        "text": "Prohibited.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "question": "If the mass of a motor vehicle with a non-functioning brake system is less than the actual mass of the towing vehicle, is it permissible to tow it?",
+    "answers": [
+      {
+        "text": "Only with a flexible tow"
+      },
+      {
+        "text": "Only with a rigid tow"
+      },
+      {
+        "text": "Only with partial loading"
+      },
+      {
+        "text": "Both with a rigid tow and partial loading",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "question": "Which of the following actions is not allowed?",
+    "answers": [
+      {
+        "text": "Towing with a motorcycle without a sidecar, or towing such a motorcycle"
+      },
+      {
+        "text": "Flexible towing on icy roads"
+      },
+      {
+        "text": "None of the answers listed here are allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "question": "At any time of the day, the towing vehicle must have its:",
+    "answers": [
+      {
+        "text": "Parking lights"
+      },
+      {
+        "text": "Low-beam headlights",
+        "correct": true
+      },
+      {
+        "text": "Fog lights"
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "question": "If the hazard lights are missing or malfunctioning, what should be placed on the rear of the towing vehicle?",
+    "answers": [
+      {
+        "text": "An emergency stop sign",
+        "correct": true
+      },
+      {
+        "text": "A sign limiting the maximum speed"
+      },
+      {
+        "text": "A sign indicating other hazards"
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "question": "What is the minimum number of warning devices (flags) that must be attached to the flexible connection when towing with a flexible tow?",
+    "answers": [
+      {
+        "text": "Two",
+        "correct": true
+      },
+      {
+        "text": "Three"
+      },
+      {
+        "text": "Four"
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "question": "Is it allowed to transport passengers in such a way that it interferes with driving or restricts the driver's view?",
+    "answers": [
+      {
+        "text": "Not allowed",
+        "correct": true
+      },
+      {
+        "text": "Allowed, only with the driver's permission"
+      },
+      {
+        "text": "Allowed only in non-residential areas on secondary roads, provided the vehicle does not exceed 40 km/h"
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "question": "Passenger transport is not prohibited:",
+    "answers": [
+      {
+        "text": "Outside the cabins or compartments of tractors and other self-propelled vehicles"
+      },
+      {
+        "text": "In a trailer attached to a truck, as well as a vacation trailer"
+      },
+      {
+        "text": "In the cargo bed of a motorcycle"
+      },
+      {
+        "text": "In a towing bus",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 436,
+    "question": "Is it prohibited to transport passengers in a vehicle whose actual mass exceeds the maximum permissible mass?",
+    "answers": [
+      {
+        "text": "Not prohibited"
+      },
+      {
+        "text": "Prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 437,
+    "question": "Cargo on a vehicle must be positioned so that it is secured when transported and:",
+    "answers": [
+      {
+        "text": "Only does not endanger other road users, does not damage public, private, or state property, does not drag or fall onto the road."
+      },
+      {
+        "text": "Only does not limit visibility or the driver’s field of view, does not affect vehicle stability, and does not impede control."
+      },
+      {
+        "text": "Only does not cover lights, stop signals, turn indicators, reflective equipment, the registration number, and signals given by hand."
+      },
+      {
+        "text": "All conditions listed in this ticket must be met",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "question": "Is it prohibited for a road user to litter or otherwise pollute the road surface or its adjacent parts?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Prohibited only if this creates a danger to other road users"
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 439,
+    "question": "A load must be marked with an oversized load sign if it extends beyond the vehicle's dimensions by more than:",
+    "answers": [
+      {
+        "text": "1.0 meter",
+        "correct": true
+      },
+      {
+        "text": "1.5 meters"
+      },
+      {
+        "text": "2.0 meters"
+      }
+    ]
+  },
+  {
+    "id": 440,
+    "question": "A load must be marked with an oversized load sign if it extends beyond the outer edge of the vehicle’s lights by more than:",
+    "answers": [
+      {
+        "text": "0.6 meters"
+      },
+      {
+        "text": "0.5 meters"
+      },
+      {
+        "text": "0.4 meters",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 441,
+    "question": "At night or in low visibility conditions, if the load extends beyond the vehicle by more than one meter at the front or rear, or more than 0.4 meters on the side from the outer edge of the vehicle's lights, it must additionally be marked with:",
+    "answers": [
+      {
+        "text": "Only at the front – with a white light or reflector"
+      },
+      {
+        "text": "Only at the rear – with a red light or reflector"
+      },
+      {
+        "text": "Both at the front – with a white light or reflector, and at the rear – with a red light or reflector",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 442,
+    "question": "If there is a suspicion of neck or spinal injury after a traffic accident, and the victim's life is in danger, how should the victim be transported by dragging (by one person)?",
+    "answers": [
+      {
+        "text": "In a sitting position, the victim should have their shoulders supported from behind, the lower jaw and neck should be stabilized, and then the victim should be dragged backwards.",
+        "correct": true
+      },
+      {
+        "text": "In a sitting position, the rescuer should stand between the victim's legs, place hands under the shoulders from behind, lock them together, lift using legs, and drag backwards."
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "img": "img443",
+    "question": "In this situation, how many traffic rules will the driver of the towing truck violate if they move at a speed of 60 km/h in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "None"
+      },
+      {
+        "text": "One"
+      },
+      {
+        "text": "Two",
+        "correct": true
+      },
+      {
+        "text": "Three"
+      }
+    ]
+  },
+  {
+    "id": 444,
+    "question": "If the victim has an abdominal wound as a result of a traffic accident, how should they be transported?",
+    "answers": [
+      {
+        "text": "Lying on their side with knees bent"
+      },
+      {
+        "text": "In a semi-sitting position with legs extended"
+      },
+      {
+        "text": "Lying on their back with knees bent",
+        "correct": true
+      },
+      {
+        "text": "In a sitting position"
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "question": "If the victim is unconscious after a traffic accident, how should first aid be administered?",
+    "answers": [
+      {
+        "text": "Lying on their side with knees bent"
+      },
+      {
+        "text": "Lying on their back, with a pillow under their head, and smelling ammonia"
+      },
+      {
+        "text": "Lying on their back, legs elevated, give them ammonia to smell, and massage the temples with cologne (or any alcohol-based liquid)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 446,
+    "question": "If the victim has a concussion from a traffic accident, how should they be transported?",
+    "answers": [
+      {
+        "text": "Lying on their back, with pillows under the neck and spine"
+      },
+      {
+        "text": "Lying on their side",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "question": "If the victim has a chest wound as a result of a traffic accident, how should they be transported?",
+    "answers": [
+      {
+        "text": "Lying face down"
+      },
+      {
+        "text": "Lying on their back"
+      },
+      {
+        "text": "Lying on the healthy side or in a semi-sitting position",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "question": "If one arm is injured in a traffic accident, how should the jacket or shirt be removed from the victim?",
+    "answers": [
+      {
+        "text": "First from the healthy arm, then from the injured arm",
+        "correct": true
+      },
+      {
+        "text": "First from the injured arm, then from the healthy arm"
+      },
+      {
+        "text": "Simultaneously from both arms"
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "question": "How should first aid be administered to a victim in traumatic shock after a traffic accident?",
+    "answers": [
+      {
+        "text": "Give a painkiller, lay them on their back, and place a tightly rolled bandage or clothing under their head"
+      },
+      {
+        "text": "Remove their clothing, give a painkiller, and place cold compresses (cloth, pad) on their forehead"
+      },
+      {
+        "text": "If necessary, stop bleeding, cover them warmly, and if there is no suspicion of internal organ damage in the abdomen, give them warm water to drink",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "question": "What are the characteristics of arterial bleeding resulting from a traffic accident?",
+    "answers": [
+      {
+        "text": "Clothing is soaked with bright red blood, which flows from the wound in pulsating streams",
+        "correct": true
+      },
+      {
+        "text": "Clothing is quickly soaked with bright red blood, which flows from the wound in a slow stream"
+      },
+      {
+        "text": "Clothing is soaked with blood only at the wound site, which flows from the wound in a slow stream"
+      }
+    ]
+  },
+  {
+    "id": 451,
+    "img": "img451",
+    "question": "Which of these road signs warn of an approaching railway crossing with a barrier?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "img": "img452",
+    "question": "Which of these road signs is repeated in non-residential areas?",
+    "answers": [
+      {
+        "text": "Only I and II"
+      },
+      {
+        "text": "Only I and III",
+        "correct": true
+      },
+      {
+        "text": "All"
+      },
+      {
+        "text": "Only II and IV"
+      }
+    ]
+  },
+  {
+    "id": 453,
+    "img": "img453",
+    "question": "Which of these road signs is repeated in non-residential areas?",
+    "answers": [
+      {
+        "text": "Only I and II"
+      },
+      {
+        "text": "Only II and III",
+        "correct": true
+      },
+      {
+        "text": "All"
+      },
+      {
+        "text": "Only II and IV"
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "img": "img454",
+    "question": "Which road sign warns of an approaching railway crossing without a barrier?",
+    "answers": [
+      {
+        "text": "Only I"
+      },
+      {
+        "text": "Only II"
+      },
+      {
+        "text": "Only III",
+        "correct": true
+      },
+      {
+        "text": "Only III and IV"
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "img": "img455",
+    "question": "Which of these road signs warns drivers of an approaching railway crossing without a barrier and with two or more tracks?",
+    "answers": [
+      {
+        "text": "Only I and II"
+      },
+      {
+        "text": "All"
+      },
+      {
+        "text": "Only II and III"
+      },
+      {
+        "text": "Only IV",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 456,
+    "img": "img456",
+    "question": "These road signs 8.1.1 (distance to object) without a board are placed in non-residential areas before the start of a hazardous section at a distance of?",
+    "answers": [
+      {
+        "text": "50-100 meters"
+      },
+      {
+        "text": "100-150 meters"
+      },
+      {
+        "text": "150-300 meters",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 457,
+    "img": "img457",
+    "question": "These road signs are repeated in non-residential areas before the start of a hazardous section at a minimum distance of?",
+    "answers": [
+      {
+        "text": "150 meters"
+      },
+      {
+        "text": "100 meters"
+      },
+      {
+        "text": "50 meters",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "img": "img458",
+    "question": "Can these road signs 8.1.1 (distance to object) without a board be placed immediately before a rise or descent (or both) if they follow each other?",
+    "answers": [
+      {
+        "text": "No"
+      },
+      {
+        "text": "Yes",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "img": "img459",
+    "question": "Which of these road signs is placed in non-residential areas at a distance of 150-300 meters before a railway crossing with a barrier on the right side of the road?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "img": "img460",
+    "question": "Which of these road signs indicates an intersection with roads of equal importance?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "img": "img461",
+    "question": "Which of these road signs warns the driver of an approaching drawbridge or ferry crossing?",
+    "answers": [
+      {
+        "text": "Only I and II"
+      },
+      {
+        "text": "Only II and III"
+      },
+      {
+        "text": "Only III",
+        "correct": true
+      },
+      {
+        "text": "Only IV"
+      }
+    ]
+  },
+  {
+    "id": 462,
+    "img": "img462",
+    "question": "Which of these road signs indicates a dangerous road bend with a small radius or limited visibility?",
+    "answers": [
+      {
+        "text": "Only I"
+      },
+      {
+        "text": "Only II"
+      },
+      {
+        "text": "Only III",
+        "correct": true
+      },
+      {
+        "text": "Only IV"
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "img": "img463",
+    "question": "Which of these road signs warns of a steep descent?",
+    "answers": [
+      {
+        "text": "Only I"
+      },
+      {
+        "text": "Only II"
+      },
+      {
+        "text": "Only III",
+        "correct": true
+      },
+      {
+        "text": "Only IV"
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "img": "img464",
+    "question": "Which of these road signs indicates an icy section of the road where the tire's grip coefficient with the road surface is less than 0.4?",
+    "answers": [
+      {
+        "text": "Only I"
+      },
+      {
+        "text": "Only II"
+      },
+      {
+        "text": "Only III",
+        "correct": true
+      },
+      {
+        "text": "Only IV"
+      }
+    ]
+  },
+  {
+    "id": 465,
+    "img": "img465",
+    "question": "Which of these road signs indicates a damaged road section?",
+    "answers": [
+      {
+        "text": "Only II and III"
+      },
+      {
+        "text": "Only III",
+        "correct": true
+      },
+      {
+        "text": "Only I"
+      },
+      {
+        "text": "Only I and IV"
+      }
+    ]
+  },
+  {
+    "id": 466,
+    "img": "img466",
+    "question": "Which of these road signs indicates a section of the road where gravel, stones, or similar debris can be thrown up by the wheels of vehicles?",
+    "answers": [
+      {
+        "text": "Only I and III"
+      },
+      {
+        "text": "Only IV",
+        "correct": true
+      },
+      {
+        "text": "Only II"
+      },
+      {
+        "text": "Only II and IV"
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "img": "img467",
+    "question": "Which of these road signs indicates a section of the road where the road width narrows on both sides?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 468,
+    "img": "img468",
+    "question": "Which of these road signs indicates a section of the road where the road width narrows on the right side?",
+    "answers": [
+      {
+        "text": "I",
+        "correct": true
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 469,
+    "img": "img469",
+    "question": "Which of these road signs indicates the beginning of a two-way traffic section after a one-way traffic section?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 470,
+    "img": "img470",
+    "question": "Which of these road signs warns of an approaching pedestrian crossing marked by signs (5.19.1 or 5.19.2) or road markings (1.14.1-1.14.3)?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 471,
+    "img": "img471",
+    "question": "Which of these road signs warns of the presence of a children's institution near the road section where there is a high probability of children appearing on the road?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 472,
+    "img": "img472",
+    "question": "Which of these road signs warns of the approach to a bike path intersection marked by sign 4.4?",
+    "answers": [
+      {
+        "text": "I",
+        "correct": true
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 473,
+    "img": "img473",
+    "question": "Which of these road signs indicates a road section unprotected from avalanches, landslides, or rockfalls?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 474,
+    "img": "img474",
+    "question": "Which of these road signs indicates a road section where strong crosswinds may occur?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "img": "img475",
+    "question": "Which of these road signs indicates a road section near an airport where planes or helicopters fly at low altitude?",
+    "answers": [
+      {
+        "text": "I",
+        "correct": true
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 476,
+    "img": "img476",
+    "question": "Which of these road signs indicates a temporarily blocked road section?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "img": "img477",
+    "question": "Which of these road signs indicates a road section where a type of danger not specified by other warning signs may occur?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 478,
+    "img": "img478",
+    "question": "Which of these road signs indicates a detour route on roads with small-radius curves with limited visibility, or during road construction?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 479,
+    "img": "img479",
+    "question": "Which of these road signs indicates a detour route at a T-intersection or road junction, or during road construction?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "img": "img480",
+    "question": "Which of these road signs indicates a priority road for drivers at an uncontrolled intersection?",
+    "answers": [
+      {
+        "text": "I",
+        "correct": true
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
       }
     ]
   }
