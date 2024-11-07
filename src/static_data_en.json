@@ -7961,5 +7961,1503 @@
         "text": "IV"
       }
     ]
+  },
+  {
+    "id": 481,
+    "img": "img481",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Indicates a road where the driver has the right of way at an uncontrolled intersection",
+        "correct": true
+      },
+      {
+        "text": "Prohibits vehicles carrying hazardous goods"
+      },
+      {
+        "text": "Indicates a road where the driver must yield to vehicles on the intersecting road"
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "img": "img482",
+    "question": "Which of these road signs indicates the end of the section of road where it loses its main road status?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 483,
+    "img": "img483",
+    "question": "This road sign indicates:",
+    "answers": [
+      {
+        "text": "A road where the driver has the right of way at an uncontrolled intersection"
+      },
+      {
+        "text": "A section of road where the driver has priority over oncoming vehicles"
+      },
+      {
+        "text": "The end of the section of road where it loses its main road status",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 484,
+    "img": "img484",
+    "question": "Which of these road signs indicates an intersection where the driver must yield?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 485,
+    "img": "img485",
+    "question": "Which of these road signs indicates a junction where the driver must yield?",
+    "answers": [
+      {
+        "text": "Only II and IV"
+      },
+      {
+        "text": "Only I and III",
+        "correct": true
+      },
+      {
+        "text": "Only II"
+      },
+      {
+        "text": "Only III"
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "img": "img486",
+    "question": "Which of these road signs indicates a junction where the driver must yield?",
+    "answers": [
+      {
+        "text": "Only I and III"
+      },
+      {
+        "text": "Only I and IV"
+      },
+      {
+        "text": "All of them",
+        "correct": true
+      },
+      {
+        "text": "None of them"
+      }
+    ]
+  },
+  {
+    "id": 487,
+    "img": "img487",
+    "question": "Which of these road signs requires the driver to yield to vehicles on the intersecting road?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 488,
+    "img": "img488",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Prohibits entry to a narrow section of road"
+      },
+      {
+        "text": "Prohibits all types of vehicles from entering the road"
+      },
+      {
+        "text": "Requires the driver to yield to vehicles on the intersecting road",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 489,
+    "img": "img489",
+    "question": "Which of these road signs prohibits the driver from continuing without stopping at the Stop line?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "img": "img490",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Prohibits entry for all vehicles in this direction"
+      },
+      {
+        "text": "Prohibits the movement of any vehicle"
+      },
+      {
+        "text": "Prohibits the driver from continuing without stopping and requires yielding to vehicles on the intersecting road",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 491,
+    "img": "img491",
+    "question": "Which of these road signs prohibits the driver from entering a narrow section of road if it obstructs opposing traffic?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 492,
+    "img": "img492",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Indicates the start of a section where the direction of traffic may change on one or more lanes"
+      },
+      {
+        "text": "Indicates a road where traffic moves in one direction"
+      },
+      {
+        "text": "Prohibits the driver from entering a narrow section of road if it obstructs opposing traffic",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 493,
+    "img": "img493",
+    "question": "Which of these road signs gives the driver priority over oncoming traffic on a narrow road?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 494,
+    "img": "img494",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Gives the driver priority over oncoming traffic on a narrow road",
+        "correct": true
+      },
+      {
+        "text": "Requires the driver to yield to vehicles on the intersecting road"
+      },
+      {
+        "text": "Prohibits the driver from entering a narrow section of road if it obstructs opposing traffic"
+      }
+    ]
+  },
+  {
+    "id": 495,
+    "img": "img495",
+    "question": "Which of these road signs in its zone gives the driver priority at an uncontrolled intersection?",
+    "answers": [
+      {
+        "text": "Only II and IV",
+        "correct": true
+      },
+      {
+        "text": "Only I and III"
+      },
+      {
+        "text": "None of them"
+      },
+      {
+        "text": "All of them"
+      }
+    ]
+  },
+  {
+    "id": 496,
+    "img": "img496",
+    "question": "Which of these road signs is placed directly before the start of a narrow road section?",
+    "answers": [
+      {
+        "text": "II and III"
+      },
+      {
+        "text": "I and IV",
+        "correct": true
+      },
+      {
+        "text": "I"
+      },
+      {
+        "text": "I and II"
+      }
+    ]
+  },
+  {
+    "id": 497,
+    "img": "img497",
+    "question": "If there is no other necessity, these road signs are placed before the start of a dangerous section in non-urban areas at a distance of:",
+    "answers": [
+      {
+        "text": "50-100 meters"
+      },
+      {
+        "text": "100-150 meters"
+      },
+      {
+        "text": "150-300 meters",
+        "correct": true
+      },
+      {
+        "text": "300-400 meters"
+      }
+    ]
+  },
+  {
+    "id": 498,
+    "img": "img498",
+    "question": "If there is no other necessity, these road signs are placed before the start of a dangerous section in urban areas at a distance of:",
+    "answers": [
+      {
+        "text": "50-100 meters",
+        "correct": true
+      },
+      {
+        "text": "100-150 meters"
+      },
+      {
+        "text": "150-300 meters"
+      }
+    ]
+  },
+  {
+    "id": 499,
+    "img": "img499",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Prohibits the driver from continuing without stopping"
+      },
+      {
+        "text": "Prohibits the entry of all vehicles in this direction",
+        "correct": true
+      },
+      {
+        "text": "Prohibits the stopping and parking of vehicles"
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "img": "img500",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Prohibits the driver from continuing without stopping"
+      },
+      {
+        "text": "Prohibits the stopping and parking of vehicles"
+      },
+      {
+        "text": "Prohibits the movement of all types of vehicles",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 501,
+    "img": "img501",
+    "question": "Which of these road signs prohibits the movement of all types of mechanical vehicles in its zone?",
+    "answers": [
+      {
+        "text": "Only I and III"
+      },
+      {
+        "text": "Only II and IV",
+        "correct": true
+      },
+      {
+        "text": "Only II"
+      },
+      {
+        "text": "Only III"
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "img": "img502",
+    "question": "Which of these road signs prohibits the movement of all types of motorcycles in its zone?",
+    "answers": [
+      {
+        "text": "Only I and IV"
+      },
+      {
+        "text": "Only II and III",
+        "correct": true
+      },
+      {
+        "text": "Only III"
+      },
+      {
+        "text": "Only IV"
+      }
+    ]
+  },
+  {
+    "id": 503,
+    "img": "img503",
+    "question": "Which of these road signs prohibits the movement of tractors and self-propelled machines in its zone?",
+    "answers": [
+      {
+        "text": "Only I and III",
+        "correct": true
+      },
+      {
+        "text": "Only II and IV"
+      },
+      {
+        "text": "Only III"
+      },
+      {
+        "text": "Only I"
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "img": "img504",
+    "question": "Which of these road signs prohibits the movement of all types of trucks with trailers and tractors with trailers, as well as towing mechanical vehicles?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "img": "img505",
+    "question": "Which of these road signs prohibits the movement of tractors with trailers in its zone?",
+    "answers": [
+      {
+        "text": "Only I and III"
+      },
+      {
+        "text": "Only II and III"
+      },
+      {
+        "text": "In the zone of all signs",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 506,
+    "img": "img506",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Indicates a section of the road near an animal crossing area where livestock may appear on the road"
+      },
+      {
+        "text": "Prohibits the movement of horse-drawn vehicles, pack and riding animals, and livestock herding",
+        "correct": true
+      },
+      {
+        "text": "Indicates a road designated for the movement of pack animals"
+      }
+    ]
+  },
+  {
+    "id": 507,
+    "img": "img507",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Prohibits the movement of all types of motorcycles"
+      },
+      {
+        "text": "Prohibits the movement of bicycles and mopeds",
+        "correct": true
+      },
+      {
+        "text": "Prohibits the movement of all types of vehicles"
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "img": "img508",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Warns of the possible appearance of children on the road"
+      },
+      {
+        "text": "Prohibits pedestrian movement",
+        "correct": true
+      },
+      {
+        "text": "Indicates the end of a residential zone"
+      }
+    ]
+  },
+  {
+    "id": 509,
+    "img": "img509",
+    "question": "Which of these road signs prohibits the movement of vehicles whose height (with or without load) exceeds the value indicated on the sign?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "img": "img510",
+    "question": "This road sign prohibits:",
+    "answers": [
+      {
+        "text": "The movement of vehicles whose width exceeds the value indicated on the sign"
+      },
+      {
+        "text": "The movement of vehicles whose height (with or without load) exceeds the value indicated on the sign",
+        "correct": true
+      },
+      {
+        "text": "The movement of vehicles at a distance less than the value indicated on the sign"
+      }
+    ]
+  },
+  {
+    "id": 511,
+    "img": "img511",
+    "question": "Which of these road signs prohibits the movement of vehicles whose width (with or without load) exceeds the value indicated on the sign?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 512,
+    "img": "img512",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Prohibits the movement of vehicles whose height (with or without load) exceeds the value indicated on the sign"
+      },
+      {
+        "text": "Prohibits the movement of vehicles whose width (with or without load) exceeds the value indicated on the sign",
+        "correct": true
+      },
+      {
+        "text": "Indicates the area of action of road signs"
+      }
+    ]
+  },
+  {
+    "id": 513,
+    "img": "img513",
+    "question": "Which of these road signs prohibits the movement of vehicles without stopping at a customs checkpoint (customs control zone at the Georgian border)?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 514,
+    "img": "img514",
+    "question": "Which of these road signs prohibits further movement of all vehicles due to a traffic accident or other danger?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 515,
+    "img": "img515",
+    "question": "Which of these road signs prohibits passing a checkpoint (near a police or quarantine post, border or restricted area, toll road exits, etc.) without stopping?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 516,
+    "img": "img516",
+    "question": "Which of these road signs prohibits turning right at the nearest intersection?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 517,
+    "img": "img517",
+    "question": "Which of these road signs prohibits turning left at the nearest intersection?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 518,
+    "img": "img518",
+    "question": "Which of these road signs prohibits a U-turn at the nearest intersection?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 519,
+    "img": "img519",
+    "question": "Which of these road signs prohibits overtaking any vehicle (except those moving at less than 30 km/h)?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 520,
+    "img": "img520",
+    "question": "Which of these road signs prohibits driving at a speed (km/h) greater than indicated on the sign?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 521,
+    "img": "img521",
+    "question": "Which of these road signs prohibits the use of the sound signal, except when it is used to prevent a traffic accident?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "img": "img522",
+    "question": "Which of these road signs marks the end of the zone where overtaking is prohibited (3.20)?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "img": "img523",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Prohibits driving at a speed (km/h) higher than the value indicated on the sign"
+      },
+      {
+        "text": "Indicates the end of the minimum speed restriction zone"
+      },
+      {
+        "text": "Marks the end of the zone for road sign 3.24 (Maximum Speed Limit)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 524,
+    "img": "img524",
+    "question": "Which of these road signs prohibits the parking or stopping of vehicles?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 525,
+    "img": "img525",
+    "question": "This road sign prohibits:",
+    "answers": [
+      {
+        "text": "Both parking and stopping of vehicles"
+      },
+      {
+        "text": "The movement of vehicles in the indicated direction"
+      },
+      {
+        "text": "Vehicle parking",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 526,
+    "img": "img526",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Indicates the absence of a centerline on the road"
+      },
+      {
+        "text": "Marks the end of a one-way road"
+      },
+      {
+        "text": "Prohibits vehicle parking on odd-numbered days of the month",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 527,
+    "img": "img527",
+    "question": "Which of these road signs prohibits vehicle parking on even-numbered days of the month?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 528,
+    "img": "img528",
+    "question": "Which of these road signs prohibits the movement of vehicles carrying dangerous goods, as per the law requiring a specific identification sign?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "img": "img529",
+    "question": "Which of these road signs prohibits the movement of vehicles carrying explosive and flammable materials, as per the law requiring a specific identification sign?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 530,
+    "img": "img530",
+    "question": "Which of these road signs does not apply to public transport vehicles?",
+    "answers": [
+      {
+        "text": "Only II"
+      },
+      {
+        "text": "Only I and III",
+        "correct": true
+      },
+      {
+        "text": "Only I and IV"
+      },
+      {
+        "text": "Only III"
+      }
+    ]
+  },
+  {
+    "id": 531,
+    "img": "img531",
+    "question": "Which of these road signs does not apply to public transport vehicles?",
+    "answers": [
+      {
+        "text": "Only II"
+      },
+      {
+        "text": "Only I and III"
+      },
+      {
+        "text": "Only II and IV",
+        "correct": true
+      },
+      {
+        "text": "Only III"
+      }
+    ]
+  },
+  {
+    "id": 532,
+    "img": "img532",
+    "question": "Which of these road signs does not apply to public transport vehicles?",
+    "answers": [
+      {
+        "text": "Only I and III",
+        "correct": true
+      },
+      {
+        "text": "Only II and IV"
+      },
+      {
+        "text": "Only II and III"
+      },
+      {
+        "text": "Only I and IV"
+      }
+    ]
+  },
+  {
+    "id": 533,
+    "img": "img533",
+    "question": "Which of these road signs does not apply to public transport vehicles?",
+    "answers": [
+      {
+        "text": "Only I, II, and IV",
+        "correct": true
+      },
+      {
+        "text": "Only I and IV"
+      },
+      {
+        "text": "Only II and III"
+      },
+      {
+        "text": "Only III and IV"
+      }
+    ]
+  },
+  {
+    "id": 534,
+    "img": "img534",
+    "question": "Which of these road signs does not apply to vehicles servicing an enterprise located within the zone of the sign?",
+    "answers": [
+      {
+        "text": "Only I and II"
+      },
+      {
+        "text": "Only I and IV"
+      },
+      {
+        "text": "Only II and III"
+      },
+      {
+        "text": "Only II and IV",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 535,
+    "img": "img535",
+    "question": "Which of these road signs does not apply to vehicles servicing an enterprise located within the zone of the sign?",
+    "answers": [
+      {
+        "text": "Only I, II, and III"
+      },
+      {
+        "text": "Only I, II, and IV",
+        "correct": true
+      },
+      {
+        "text": "Only II, III, and IV"
+      },
+      {
+        "text": "All"
+      }
+    ]
+  },
+  {
+    "id": 536,
+    "img": "img536",
+    "question": "Which of these road signs does not apply to vehicles owned or operated by residents or employees within the zone of the sign?",
+    "answers": [
+      {
+        "text": "Only I and II"
+      },
+      {
+        "text": "Only I and III"
+      },
+      {
+        "text": "Only III and IV"
+      },
+      {
+        "text": "All of the listed signs",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 537,
+    "img": "img537",
+    "question": "Which of these road signs does not apply to vehicles owned or operated by residents or employees within the zone of the sign?",
+    "answers": [
+      {
+        "text": "Only I and II"
+      },
+      {
+        "text": "Only I and III"
+      },
+      {
+        "text": "Only II and IV"
+      },
+      {
+        "text": "Only III and IV",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 538,
+    "img": "img538",
+    "question": "Which of these road signs does not apply to vehicles operated by or transporting individuals with clearly visible or significantly limited mobility?",
+    "answers": [
+      {
+        "text": "Only I, III, and IV",
+        "correct": true
+      },
+      {
+        "text": "Only I, II, and III"
+      },
+      {
+        "text": "Only I, II, and IV"
+      },
+      {
+        "text": "Only II, III, and IV"
+      }
+    ]
+  },
+  {
+    "id": 539,
+    "img": "img539",
+    "question": "Which of these road signs applies to the intersection where the sign is placed?",
+    "answers": [
+      {
+        "text": "Only I, III, and IV"
+      },
+      {
+        "text": "Only II"
+      },
+      {
+        "text": "Only I and IV",
+        "correct": true
+      },
+      {
+        "text": "Only III"
+      }
+    ]
+  },
+  {
+    "id": 540,
+    "img": "img540",
+    "question": "Which of these road signs applies to the intersection where the sign is placed?",
+    "answers": [
+      {
+        "text": "Only I"
+      },
+      {
+        "text": "Only I, III, and IV",
+        "correct": true
+      },
+      {
+        "text": "Only II"
+      },
+      {
+        "text": "All"
+      }
+    ]
+  },
+  {
+    "id": 541,
+    "img": "img541",
+    "question": "The effect of these road signs applies:",
+    "answers": [
+      {
+        "text": "On the side of the road where they are placed",
+        "correct": true
+      },
+      {
+        "text": "At the intersection of the roads where the sign is placed"
+      }
+    ]
+  },
+  {
+    "id": 542,
+    "img": "img542",
+    "question": "Which of these road signs applies from the installation location to the nearest intersection following it, or in a populated area, to the end of the area if there is no intersection?",
+    "answers": [
+      {
+        "text": "Only I"
+      },
+      {
+        "text": "Only II and III"
+      },
+      {
+        "text": "Only I, II, and IV",
+        "correct": true
+      },
+      {
+        "text": "All of the listed road signs"
+      }
+    ]
+  },
+  {
+    "id": 543,
+    "img": "img543",
+    "question": "Which of these road signs indicates a highway where the regulations for highway traffic apply?",
+    "answers": [
+      {
+        "text": "Only II."
+      },
+      {
+        "text": "Only I.",
+        "correct": true
+      },
+      {
+        "text": "Only IV."
+      },
+      {
+        "text": "Only III."
+      }
+    ]
+  },
+  {
+    "id": 544,
+    "img": "img544",
+    "question": "This road sign indicates:",
+    "answers": [
+      {
+        "text": "Prohibited directions on specified lanes"
+      },
+      {
+        "text": "End of road designated as a highway",
+        "correct": true
+      },
+      {
+        "text": "End of a reversible lane section"
+      }
+    ]
+  },
+  {
+    "id": 545,
+    "img": "img545",
+    "question": "Which of these road signs indicates a road intended only for car and motorcycle traffic?",
+    "answers": [
+      {
+        "text": "I",
+        "correct": true
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 546,
+    "img": "img546",
+    "question": "This road sign indicates:",
+    "answers": [
+      {
+        "text": "End of a reversible lane section"
+      },
+      {
+        "text": "End of a lane designated for cars"
+      },
+      {
+        "text": "End of an automobile road",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 547,
+    "img": "img547",
+    "question": "This road sign indicates:",
+    "answers": [
+      {
+        "text": "Permitted direction on the lane"
+      },
+      {
+        "text": "Beginning of a deceleration lane at intersections"
+      },
+      {
+        "text": "A road or lane where all traffic flows in one direction",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 548,
+    "img": "img548",
+    "question": "This road sign indicates:",
+    "answers": [
+      {
+        "text": "End of a parking restriction zone"
+      },
+      {
+        "text": "End of a bus lane"
+      },
+      {
+        "text": "End of a one-way road or lane",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 549,
+    "img": "img549",
+    "question": "These road signs:",
+    "answers": [
+      {
+        "text": "Indicate entry to a one-way road or lane",
+        "correct": true
+      },
+      {
+        "text": "Mark the start of a traffic lane"
+      },
+      {
+        "text": "Indicate a lane designated for buses"
+      }
+    ]
+  },
+  {
+    "id": 550,
+    "img": "img550",
+    "question": "Which of these road signs indicates the start of a section with reversible traffic?",
+    "answers": [
+      {
+        "text": "I",
+        "correct": true
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 551,
+    "img": "img551",
+    "question": "This road sign indicates:",
+    "answers": [
+      {
+        "text": "A two-way road"
+      },
+      {
+        "text": "A regulated parking area"
+      },
+      {
+        "text": "Start of a reversible traffic section",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 552,
+    "img": "img552",
+    "question": "This road sign indicates:",
+    "answers": [
+      {
+        "text": "Exit to a merging lane"
+      },
+      {
+        "text": "Exit to a two-way road"
+      },
+      {
+        "text": "Exit to a reversible traffic section",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 553,
+    "img": "img553",
+    "question": "This road sign indicates:",
+    "answers": [
+      {
+        "text": "End of a residential area"
+      },
+      {
+        "text": "End of a bus lane",
+        "correct": true
+      },
+      {
+        "text": "End of an overtaking restriction zone"
+      }
+    ]
+  },
+  {
+    "id": 554,
+    "img": "img554",
+    "question": "Which of these road signs indicates entry to a bus lane?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 555,
+    "img": "img555",
+    "question": "The effect of road signs placed on a traffic lane applies:",
+    "answers": [
+      {
+        "text": "Only to the lane on which it stands",
+        "correct": true
+      },
+      {
+        "text": "To the entire width of the road"
+      }
+    ]
+  },
+  {
+    "id": 556,
+    "img": "img556",
+    "question": "This road sign indicates:",
+    "answers": [
+      {
+        "text": "Only the number of traffic lanes"
+      },
+      {
+        "text": "Only the traffic regime on the lanes"
+      },
+      {
+        "text": "Both the number of lanes and the traffic regime on them",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 557,
+    "img": "img557",
+    "question": "This road sign indicates:",
+    "answers": [
+      {
+        "text": "A dangerous shoulder"
+      },
+      {
+        "text": "An artificial bump",
+        "correct": true
+      },
+      {
+        "text": "An uneven road"
+      }
+    ]
+  },
+  {
+    "id": 558,
+    "img": "img558",
+    "question": "This road sign indicates:",
+    "answers": [
+      {
+        "text": "End of a residential area",
+        "correct": true
+      },
+      {
+        "text": "End of a populated area"
+      },
+      {
+        "text": "End of a pedestrian path"
+      }
+    ]
+  },
+  {
+    "id": 559,
+    "img": "img559",
+    "question": "Which of these road signs indicates the end of a populated area where specific traffic rules do not apply?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 560,
+    "img": "img560",
+    "question": "Which of these road signs indicates an area where parking is regulated?",
+    "answers": [
+      {
+        "text": "Only II and IV"
+      },
+      {
+        "text": "Only IV"
+      },
+      {
+        "text": "Only I and II",
+        "correct": true
+      },
+      {
+        "text": "Only III"
+      }
+    ]
   }
 ]
