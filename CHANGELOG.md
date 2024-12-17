@@ -1,3 +1,9 @@
+# [1.5.0](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.4.0...v1.5.0) (2024-12-17)
+
+### Features
+
+- error screen logic update, styles, text edits ([fb9ace7](https://github.com/okplanbo/geo-driving-theory-practice/commit/fb9ace76842f49896be8078eb03b20575dce56e0))
+
 # [1.4.0](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.3.0...v1.4.0) (2024-10-05)
 
 ### Features
