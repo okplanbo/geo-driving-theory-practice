@@ -1,4 +1,4 @@
-import { name } from './package.json'
+import { name } from "./package.json";
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react-swc";
 
@@ -6,4 +6,5 @@ import react from "@vitejs/plugin-react-swc";
 export default defineConfig({
   base: `/${name}/`,
   plugins: [react()],
+  server: { port: 5174 },
 });

@@ -58,16 +58,24 @@ const getRandomQuestionNumber = (excludedIds) => {
 function App() {
   const [excludedIds, setExcludedIds] = useState();
   const [currentQuestionNumber, setCurrentQuestionNumber] = useState();
+  const [isNumberCorrect, setIsNumberCorrect] = useState();
 
   const initQuestion = async () => {
     const queryParams = new URLSearchParams(location.search);
     const questionParam = queryParams.get("q");
+    const numericParam = Number(questionParam);
+
     const storedExcludedIds = await getExcludedFromDB();
     const randomQuestionNumber = getRandomQuestionNumber(storedExcludedIds);
+
+    setIsNumberCorrect(
+      !isNaN(numericParam) && numericParam > 0 && numericParam < 1084,
+    );
     setExcludedIds(storedExcludedIds);
     setCurrentQuestionNumber(
       questionParam ? Number(questionParam) : randomQuestionNumber,
     );
+
     if (!questionParam) {
       queryParams.set("q", randomQuestionNumber);
       const newUrl = `${window.location.pathname}?${queryParams.toString()}`;
@@ -90,6 +98,7 @@ function App() {
     const newUrl = `${window.location.pathname}?${queryParams.toString()}`;
     window.history.pushState({}, "", newUrl);
     setCurrentQuestionNumber(questionNumber);
+    setIsNumberCorrect(true);
   };
 
   const updateExcluded = (newIds) => {
@@ -99,7 +108,7 @@ function App() {
 
   return (
     <ChakraProvider theme={theme}>
-      {Number.isInteger(currentQuestionNumber) ? (
+      {isNumberCorrect !== undefined && isNumberCorrect && (
         <Router>
           <Routes>
             <Route
@@ -128,11 +137,12 @@ function App() {
             <Route path={`${appName}/about`} element={<About />} />
           </Routes>
         </Router>
-      ) : (
+      )}
+      {isNumberCorrect !== undefined && !isNumberCorrect && (
         <>
-          Error, check URL
+          Error! Bad question Id. Please check URL or..
           <Button className="mt-4" onClick={handleRandomize}>
-            Randomize
+            Randomize!
           </Button>
         </>
       )}

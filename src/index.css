@@ -17,6 +17,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+noscript {
+  margin: 1rem auto;
+  font-size: larger;
+}
+
 a {
   font-weight: 500;
   color: #646cff;
