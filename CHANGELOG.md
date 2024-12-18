@@ -1,3 +1,9 @@
+# [1.6.0](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.5.0...v1.6.0) (2024-12-18)
+
+### Features
+
+- next button, corrections, translations ([63d34fd](https://github.com/okplanbo/geo-driving-theory-practice/commit/63d34fde5cb8687f38c30d479100e968d727d218))
+
 # [1.5.0](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.4.0...v1.5.0) (2024-12-17)
 
 ### Features
