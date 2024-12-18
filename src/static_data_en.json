@@ -9459,5 +9459,663 @@
         "text": "Only III"
       }
     ]
+  },
+  {
+    "id": 561,
+    "img": "img561",
+    "question": "In this situation, which vehicle driver is prohibited from moving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Driver of the car",
+        "correct": true
+      },
+      {
+        "text": "Driver of the truck"
+      },
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "Neither driver"
+      }
+    ]
+  },
+  {
+    "id": 562,
+    "img": "img562",
+    "question": "In this situation, which vehicle driver is allowed to make a U-turn in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Neither"
+      },
+      {
+        "text": "Prohibited for both drivers"
+      },
+      {
+        "text": "Only the driver of the red car",
+        "correct": true
+      },
+      {
+        "text": "Only the driver of the green car"
+      }
+    ]
+  },
+  {
+    "id": 563,
+    "img": "img563",
+    "question": "Which of the drivers moving in the direction of the arrow is violating traffic rules?",
+    "answers": [
+      {
+        "text": "Only the motorcyclist"
+      },
+      {
+        "text": "Only the driver of the yellow car"
+      },
+      {
+        "text": "Only the driver of the black car",
+        "correct": true
+      },
+      {
+        "text": "None of the drivers"
+      }
+    ]
+  },
+  {
+    "id": 564,
+    "question": "Is it prohibited to wash vehicles in the sea, lake, reservoir, river, or other surface water bodies, as well as on their shores within 10 meters of the water?",
+    "answers": [
+      {
+        "text": "Not prohibited in both urban and non-urban areas"
+      },
+      {
+        "text": "Prohibited in urban areas but allowed in non-urban areas for passenger cars only"
+      },
+      {
+        "text": "Prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 565,
+    "question": "Is it permissible to drive a vehicle that emits substances polluting the environment?",
+    "answers": [
+      {
+        "text": "Permissible"
+      },
+      {
+        "text": "Permissible only if the law does not require the vehicle to undergo a roadworthiness test"
+      },
+      {
+        "text": "Not permissible",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 566,
+    "question": "Is it prohibited to open a vehicle's door before it has come to a complete stop?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      },
+      {
+        "text": "Not prohibited only if the vehicle is moving at low speed"
+      }
+    ]
+  },
+  {
+    "id": 567,
+    "question": "Is a driver required to be aware of factors that may affect their actions (e.g., fatigue, insomnia, taking medication, alcohol consumption, etc.)?",
+    "answers": [
+      {
+        "text": "Not required"
+      },
+      {
+        "text": "Only required for drivers of motor vehicles"
+      },
+      {
+        "text": "Required, regardless of the type of vehicle being driven",
+        "correct": true
+      },
+      {
+        "text": "Required only for bus or truck drivers who regularly transport passengers or cargo"
+      }
+    ]
+  },
+  {
+    "id": 568,
+    "question": "Is it permissible for road users to exercise their rights if doing so restricts or violates the rights of other road users?",
+    "answers": [
+      {
+        "text": "Permissible"
+      },
+      {
+        "text": "Not permissible",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 569,
+    "question": "On roads, drivers are allowed to herd livestock starting at:",
+    "answers": [
+      {
+        "text": "12 years old"
+      },
+      {
+        "text": "14 years old"
+      },
+      {
+        "text": "16 years old",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 570,
+    "question": "A herder is prohibited from:",
+    "answers": [
+      {
+        "text": "Driving more than 5 pack animals on the road at the same time"
+      },
+      {
+        "text": "Driving livestock across railway tracks, except in designated areas",
+        "correct": true
+      },
+      {
+        "text": "Simultaneously driving a flock or herd"
+      }
+    ]
+  },
+  {
+    "id": 571,
+    "question": "Waiting for public transport is allowed:",
+    "answers": [
+      {
+        "text": "On the roadway"
+      },
+      {
+        "text": "Only on the sidewalk or shoulder"
+      },
+      {
+        "text": "Only on a raised platform compared to the roadway, or if absent, on the sidewalk or shoulder",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 572,
+    "question": "In case of an injury in a road traffic accident, the characteristics of venous bleeding are:",
+    "answers": [
+      {
+        "text": "Clothing soaked with bright red blood, which flows pulsating from the wound"
+      },
+      {
+        "text": "Clothing slowly soaked with dark blood, which flows weakly from the wound",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 573,
+    "question": "Is it permissible for a passenger to board a vehicle from the roadway side?",
+    "answers": [
+      {
+        "text": "Not permissible"
+      },
+      {
+        "text": "Permissible if boarding from the sidewalk or shoulder is not possible and it does not obstruct other road users",
+        "correct": true
+      },
+      {
+        "text": "Permissible only in non-urban areas"
+      }
+    ]
+  },
+  {
+    "id": 574,
+    "question": "Transporting children in a vehicle is allowed:",
+    "answers": [
+      {
+        "text": "Only in a standing position"
+      },
+      {
+        "text": "In a seated position if the vehicle design includes seats, or standing if it does not"
+      },
+      {
+        "text": "Only in a seated position",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 575,
+    "question": "What should a driver do upon noticing a child on or near the road?",
+    "answers": [
+      {
+        "text": "Stop the vehicle and turn on the hazard lights"
+      },
+      {
+        "text": "Exercise extreme caution and drive at a speed that allows avoiding danger and stopping without sudden braking if necessary",
+        "correct": true
+      },
+      {
+        "text": "Increase speed to quickly pass the designated road section"
+      }
+    ]
+  },
+  {
+    "id": 576,
+    "question": "Upon seeing a stopped bus with a 'Children on Board' sign on the road, the driver must:",
+    "answers": [
+      {
+        "text": "Sound the horn and pass without stopping"
+      },
+      {
+        "text": "Stop the vehicle and wait until the bus resumes its movement"
+      },
+      {
+        "text": "Exercise extreme caution and drive at a speed that allows avoiding danger and stopping without sudden braking if necessary",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 577,
+    "question": "Is a driver required to yield to a blind pedestrian carrying a white cane crossing the roadway?",
+    "answers": [
+      {
+        "text": "Required in all cases",
+        "correct": true
+      },
+      {
+        "text": "Required only if the blind pedestrian is at a regulated pedestrian crossing"
+      },
+      {
+        "text": "Not required"
+      }
+    ]
+  },
+  {
+    "id": 578,
+    "question": "In what case must a driver yield to a blind pedestrian accompanied by a guide dog?",
+    "answers": [
+      {
+        "text": "Required in all cases",
+        "correct": true
+      },
+      {
+        "text": "Required only if the blind pedestrian is at a regulated pedestrian crossing"
+      },
+      {
+        "text": "Required only if the blind pedestrian is at an unregulated pedestrian crossing"
+      }
+    ]
+  },
+  {
+    "id": 579,
+    "question": "A driver of a motor vehicle is not required to use a seatbelt in the following cases:",
+    "answers": [
+      {
+        "text": "When driving in an urban area"
+      },
+      {
+        "text": "When driving an emergency service vehicle"
+      },
+      {
+        "text": "If the driver is a person with disabilities"
+      },
+      {
+        "text": "If the vehicle's design does not include seatbelts",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 580,
+    "question": "Which of the following factors does not affect a driver's actions?",
+    "answers": [
+      {
+        "text": "Insomnia"
+      },
+      {
+        "text": "Fatigue"
+      },
+      {
+        "text": "Alcohol consumption"
+      },
+      {
+        "text": "None of the listed answers is correct.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 581,
+    "question": "When driving past a stationary vehicle with its external lighting on or with an open door, the driver must:",
+    "answers": [
+      {
+        "text": "Sound the horn and increase speed"
+      },
+      {
+        "text": "Exercise special caution to avoid danger in case pedestrians or children suddenly appear on the road",
+        "correct": true
+      },
+      {
+        "text": "Reduce speed and turn on the hazard lights to avoid danger if the stationary vehicle suddenly moves"
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "question": "Is a driver of a motor vehicle required to exercise special caution towards cyclists?",
+    "answers": [
+      {
+        "text": "Required",
+        "correct": true
+      },
+      {
+        "text": "Not required"
+      }
+    ]
+  },
+  {
+    "id": 583,
+    "question": "Is it permissible for a driver to use a mobile communication device while driving?",
+    "answers": [
+      {
+        "text": "Not permissible under any circumstances"
+      },
+      {
+        "text": "Permissible if using the hands-free function and both hands are free for driving",
+        "correct": true
+      },
+      {
+        "text": "Permissible if one hand is free for driving"
+      }
+    ]
+  },
+  {
+    "id": 584,
+    "question": "A three-wheeled moped driver must drive so that:",
+    "answers": [
+      {
+        "text": "All wheels are in contact with the road surface",
+        "correct": true
+      },
+      {
+        "text": "At least one wheel is in contact with the road surface"
+      },
+      {
+        "text": "At least two wheels are in contact with the road surface"
+      }
+    ]
+  },
+  {
+    "id": 585,
+    "question": "The driver is prohibited from driving a vehicle:",
+    "answers": [
+      {
+        "text": "Only if the sound signal is defective"
+      },
+      {
+        "text": "Only if the steering mechanism is defective",
+        "correct": true
+      },
+      {
+        "text": "Only if the fog lights are defective"
+      },
+      {
+        "text": "In any of the cases mentioned in this ticket"
+      }
+    ]
+  },
+  {
+    "id": 586,
+    "question": "During fog, rain, or snow, driving a motor vehicle is prohibited if:",
+    "answers": [
+      {
+        "text": "There are no fog lights"
+      },
+      {
+        "text": "There is no emergency stop sign"
+      },
+      {
+        "text": "The driver's windshield wiper is not working",
+        "correct": true
+      },
+      {
+        "text": "In any of the cases mentioned in this ticket"
+      }
+    ]
+  },
+  {
+    "id": 587,
+    "question": "At night, if both low beam and high beam headlights fail on a motor vehicle, the driver is prohibited from:",
+    "answers": [
+      {
+        "text": "Driving on roads without artificial lighting",
+        "correct": true
+      },
+      {
+        "text": "Driving on any road, regardless of lighting conditions"
+      },
+      {
+        "text": "Driving on two-way roads with artificial lighting"
+      }
+    ]
+  },
+  {
+    "id": 588,
+    "question": "In conditions of limited visibility, the driver should:",
+    "answers": [
+      {
+        "text": "Turn on the hazard lights and reduce the distance to the vehicle in front"
+      },
+      {
+        "text": "Reduce speed and increase the distance to the vehicle in front",
+        "correct": true
+      },
+      {
+        "text": "Turn on the hazard lights and move to the far left of the roadway"
+      }
+    ]
+  },
+  {
+    "id": 589,
+    "question": "Roads are most often covered with ice:",
+    "answers": [
+      {
+        "text": "In tunnels without artificial lighting"
+      },
+      {
+        "text": "On bridges, overpasses, and passable roads",
+        "correct": true
+      },
+      {
+        "text": "On central streets in populated areas"
+      }
+    ]
+  },
+  {
+    "id": 590,
+    "question": "When transitioning from a well-lit road section to a dark one, the driver should anticipate that:",
+    "answers": [
+      {
+        "text": "Fog lights must be turned on"
+      },
+      {
+        "text": "Braking time and distance increase"
+      },
+      {
+        "text": "The eyes adjust slowly to darkness, making obstacles harder to see",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 591,
+    "question": "At night, when driving on a poorly or unevenly lit section of the road, the driver should anticipate that:",
+    "answers": [
+      {
+        "text": "It is more difficult for road users to see each other",
+        "correct": true
+      },
+      {
+        "text": "Braking time and distance increase"
+      },
+      {
+        "text": "Turning on hazard lights is mandatory"
+      }
+    ]
+  },
+  {
+    "id": 592,
+    "question": "On an icy section of the road, the driver:",
+    "answers": [
+      {
+        "text": "Should avoid braking, changing speed, and making sharp directional changes whenever possible",
+        "correct": true
+      },
+      {
+        "text": "Should additionally use the handbrake for braking"
+      },
+      {
+        "text": "Should change direction with a sharp steering wheel turn and increased speed"
+      }
+    ]
+  },
+  {
+    "id": 593,
+    "question": "While driving in rain or snow, the driver should:",
+    "answers": [
+      {
+        "text": "Reduce the distance to the vehicle in front"
+      },
+      {
+        "text": "Reduce speed and increase the distance to the vehicle in front",
+        "correct": true
+      },
+      {
+        "text": "Turn on the hazard lights"
+      }
+    ]
+  },
+  {
+    "id": 594,
+    "question": "During rain or snow, the driver should consider that:",
+    "answers": [
+      {
+        "text": "Reversing is prohibited"
+      },
+      {
+        "text": "Reducing the distance to the vehicle in front is advisable"
+      },
+      {
+        "text": "Braking time and distance increase, and precipitation worsens visibility",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 595,
+    "question": "Before rain begins, the road surface becomes dirty and slippery, so the driver should:",
+    "answers": [
+      {
+        "text": "Reduce speed gradually by decelerating",
+        "correct": true
+      },
+      {
+        "text": "Reduce speed abruptly by braking"
+      },
+      {
+        "text": "Increase speed"
+      }
+    ]
+  },
+  {
+    "id": 596,
+    "question": "The driver should anticipate that:",
+    "answers": [
+      {
+        "text": "Sudden braking or entering a turn at high speed may cause loss of vehicle control",
+        "correct": true
+      },
+      {
+        "text": "Reducing speed for entering a turn should be done with sudden braking"
+      },
+      {
+        "text": "Turns should be taken at high speed"
+      }
+    ]
+  },
+  {
+    "id": 597,
+    "question": "On roads with puddles, the driver should consider that:",
+    "answers": [
+      {
+        "text": "It is advisable to increase speed while in the puddle"
+      },
+      {
+        "text": "Vehicle handling and braking become more difficult, and the risk of skidding increases",
+        "correct": true
+      },
+      {
+        "text": "Reducing the distance to the vehicle in front is advisable"
+      }
+    ]
+  },
+  {
+    "id": 598,
+    "question": "If the driver feels tired while driving, it is advisable to:",
+    "answers": [
+      {
+        "text": "Increase the vehicle's speed"
+      },
+      {
+        "text": "Consume a caffeine-containing beverage"
+      },
+      {
+        "text": "Stop the vehicle and rest, or have another driver take over if possible",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 599,
+    "question": "If a driver notices another driver behaving aggressively or provocatively on the road, they should:",
+    "answers": [
+      {
+        "text": "Remain calm and maintain control of their vehicle",
+        "correct": true
+      },
+      {
+        "text": "Give two long and one short horn signals to call for calmness"
+      },
+      {
+        "text": "Also express aggression"
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "question": "Driving at high speed for a prolonged period causes:",
+    "answers": [
+      {
+        "text": "Failure of the vehicle's braking system"
+      },
+      {
+        "text": "Reduced driver perception and awareness of high speed",
+        "correct": true
+      },
+      {
+        "text": "All circumstances mentioned in this ticket"
+      }
+    ]
   }
 ]

@@ -14,8 +14,10 @@ import * as packageCfg from "../package.json";
 import "./App.css";
 
 const appName = packageCfg.name;
+const lastId = data[data.length - 1].id;
 
 const theme = extendTheme({
+  // static light for now
   styles: {
     global: {
       html: {
@@ -35,15 +37,12 @@ const theme = extendTheme({
  * finish translations, i18n: UI, language switcher
  * images to static storage in another repo
  * move project to new domain
- * explain button, parse teoria for expaining text
  * context, back/next buttons, categories, original ids
- * import/export
+ * google auth
  * load q separately and save them to db with versioning to reuse later
  * table of all q with pagination and filters
  * dark mode, font consistency for i18n
  * 30 question training: start, finish view, 3 mistakes to fail
- * back/next/reset controls
- * backend via firebase
  * offline mode, pwa
  */
 
@@ -69,7 +68,7 @@ function App() {
     const randomQuestionNumber = getRandomQuestionNumber(storedExcludedIds);
 
     setIsNumberCorrect(
-      !isNaN(numericParam) && numericParam > 0 && numericParam < 1084,
+      !isNaN(numericParam) && numericParam > 0 && numericParam <= lastId,
     );
     setExcludedIds(storedExcludedIds);
     setCurrentQuestionNumber(
@@ -91,14 +90,23 @@ function App() {
     initQuestion();
   };
 
-  const handleRandomize = () => {
+  const goToQuestion = (questionNumber) => {
     const queryParams = new URLSearchParams(location.search);
-    const questionNumber = getRandomQuestionNumber(excludedIds);
     queryParams.set("q", questionNumber);
     const newUrl = `${window.location.pathname}?${queryParams.toString()}`;
     window.history.pushState({}, "", newUrl);
     setCurrentQuestionNumber(questionNumber);
     setIsNumberCorrect(true);
+  };
+
+  const handleRandomize = () => {
+    goToQuestion(getRandomQuestionNumber(excludedIds));
+  };
+
+  const handleNext = () => {
+    const questionNumber =
+      currentQuestionNumber < lastId ? currentQuestionNumber + 1 : 1;
+    goToQuestion(questionNumber);
   };
 
   const updateExcluded = (newIds) => {
@@ -120,6 +128,7 @@ function App() {
                   updateExcluded={updateExcluded} // yes, still refusing to use context api :>
                   currentQuestionNumber={currentQuestionNumber}
                   handleRandomize={handleRandomize}
+                  handleNext={handleNext}
                   data={data}
                 />
               }

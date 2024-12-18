@@ -14,6 +14,7 @@ export function Home({
   data,
   currentQuestionNumber,
   handleRandomize,
+  handleNext,
   updateExcluded,
   navigateHandler,
 }) {
@@ -53,7 +54,7 @@ export function Home({
         )}
         {question === null && "Error! There is no such question"}
       </div>
-      <div className="mb-6 flex flex-row md:hidden md:items-start">
+      <div className="mb-6 flex flex-row gap-4 md:hidden md:items-start">
         <Tooltip
           maxWidth={200}
           label="Pick a new random question from the active ones"
@@ -62,6 +63,9 @@ export function Home({
             Randomize
           </Button>
         </Tooltip>
+        <Button colorScheme="teal" onClick={handleNext}>
+          Next
+        </Button>
       </div>
       <div className="flex flex-row justify-center gap-4 text-sm text-neutral-400">
         <span>Questions: {data.length}</span>
