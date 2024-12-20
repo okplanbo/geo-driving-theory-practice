@@ -10117,5 +10117,325 @@
         "text": "All circumstances mentioned in this ticket"
       }
     ]
+  },
+  {
+    "id": 601,
+    "question": "The driver must operate the vehicle:",
+    "answers": [
+      {
+        "text": "Aggressively, asserting dominance on the road"
+      },
+      {
+        "text": "Calmly, but should try to show themselves as having priority on the road"
+      },
+      {
+        "text": "Calmly and should not show aggression or try to assert priority on the road",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 602,
+    "question": "If an animal is killed or injured in a traffic accident while unattended or improperly herded on the road:",
+    "answers": [
+      {
+        "text": "The driver is exempt from liability for damage caused by the death or injury of the animal",
+        "correct": true
+      },
+      {
+        "text": "The driver is liable for damages caused by the death or injury of the animal"
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "question": "Is it permissible for pedestrians to walk on the roadside when there is a suitable sidewalk available?",
+    "answers": [
+      {
+        "text": "Not permissible"
+      },
+      {
+        "text": "Permissible if carrying a large load that obstructs movement on the sidewalk for other pedestrians",
+        "correct": true
+      },
+      {
+        "text": "Permissible in all cases"
+      }
+    ]
+  },
+  {
+    "id": 604,
+    "question": "Is it permissible for a person with disabilities in a wheelchair to use the roadside when a suitable pedestrian path exists?",
+    "answers": [
+      {
+        "text": "Not permissible"
+      },
+      {
+        "text": "Permissible in all cases",
+        "correct": true
+      },
+      {
+        "text": "Permissible only if there is heavy traffic on the pedestrian path"
+      }
+    ]
+  },
+  {
+    "id": 605,
+    "question": "Is it permissible for a pedestrian to walk on the dividing line of a two-way road if there is no sidewalk?",
+    "answers": [
+      {
+        "text": "Permissible if the road speed limit is no more than 60 km/h"
+      },
+      {
+        "text": "Permissible only on motorways"
+      },
+      {
+        "text": "Not permissible",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 606,
+    "question": "Is it permissible to drive a vehicle under the influence of drugs prescribed for medical purposes?",
+    "answers": [
+      {
+        "text": "Permissible"
+      },
+      {
+        "text": "Not permissible",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 607,
+    "question": "Is it permissible to drive a vehicle under the influence of psychotropic substances prescribed for medical purposes?",
+    "answers": [
+      {
+        "text": "Permissible"
+      },
+      {
+        "text": "Not permissible",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 608,
+    "question": "Is it prohibited to hand over vehicle control to a person under the influence of drugs prescribed for medical purposes?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 609,
+    "question": "Is it prohibited to hand over vehicle control to a person under the influence of psychotropic substances prescribed for medical purposes?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 610,
+    "question": "Is it prohibited to drive a vehicle under the influence of medical substances that impair reaction and attention?",
+    "answers": [
+      {
+        "text": "Not prohibited if the medication was taken for medical purposes as prescribed"
+      },
+      {
+        "text": "Not prohibited if the driver takes necessary precautions"
+      },
+      {
+        "text": "Prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 611,
+    "question": "Is it prohibited to hand over vehicle control to a person under the influence of medication that impairs reaction and attention?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited if the medication was taken for medical purposes as prescribed"
+      },
+      {
+        "text": "Not prohibited if the person takes special precautions"
+      }
+    ]
+  },
+  {
+    "id": 612,
+    "question": "Is it prohibited to drive a vehicle under the influence of drugs?",
+    "answers": [
+      {
+        "text": "Not prohibited if the drugs were taken for medical purposes as prescribed"
+      },
+      {
+        "text": "Not prohibited if the driver informs the police in advance"
+      },
+      {
+        "text": "Prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 613,
+    "question": "Is it prohibited to drive a vehicle under the influence of psychotropic substances?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited if the substance was taken for medical purposes as prescribed"
+      },
+      {
+        "text": "Not prohibited if the person takes special precautions"
+      }
+    ]
+  },
+  {
+    "id": 614,
+    "question": "Is it prohibited to drive a vehicle under the influence of alcohol?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited if the driver is in international traffic within Georgia"
+      },
+      {
+        "text": "Not prohibited if the driver takes special precautions"
+      }
+    ]
+  },
+  {
+    "id": 615,
+    "question": "While driving a vehicle, wearing a seatbelt is mandatory:",
+    "answers": [
+      {
+        "text": "On a gravel road"
+      },
+      {
+        "text": "On a road with crushed stone surface"
+      },
+      {
+        "text": "On a road with cement concrete surface"
+      },
+      {
+        "text": "On any road",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 616,
+    "question": "In urban areas under normal traffic conditions, the time interval between consecutive vehicles to maintain a safe distance should be:",
+    "answers": [
+      {
+        "text": "No more than 2 seconds"
+      },
+      {
+        "text": "At least 2 seconds",
+        "correct": true
+      },
+      {
+        "text": "No more than 5 seconds"
+      },
+      {
+        "text": "At least 7 seconds"
+      }
+    ]
+  },
+  {
+    "id": 617,
+    "question": "In non-urban areas under normal traffic conditions, the time interval between consecutive vehicles to maintain a safe distance should be:",
+    "answers": [
+      {
+        "text": "No more than 4 seconds"
+      },
+      {
+        "text": "At least 3 seconds",
+        "correct": true
+      },
+      {
+        "text": "At least 6 seconds"
+      },
+      {
+        "text": "No more than 9 seconds"
+      }
+    ]
+  },
+  {
+    "id": 618,
+    "question": "In urban areas on an icy road, the time interval between consecutive vehicles to maintain a safe distance should be:",
+    "answers": [
+      {
+        "text": "No more than 2 seconds"
+      },
+      {
+        "text": "At least 4 seconds"
+      },
+      {
+        "text": "At least 6 seconds",
+        "correct": true
+      },
+      {
+        "text": "At least 9 seconds"
+      }
+    ]
+  },
+  {
+    "id": 619,
+    "question": "In non-urban areas on an icy road, the time interval between consecutive vehicles to maintain a safe distance should be:",
+    "answers": [
+      {
+        "text": "No more than 4 seconds"
+      },
+      {
+        "text": "At least 6 seconds"
+      },
+      {
+        "text": "At least 9 seconds",
+        "correct": true
+      },
+      {
+        "text": "Less than 12 seconds"
+      }
+    ]
+  },
+  {
+    "id": 620,
+    "question": "When driving on a wet road surface, the driver should consider that:",
+    "answers": [
+      {
+        "text": "Sudden braking or entering a turn at high speed may result in loss of vehicle control",
+        "correct": true
+      },
+      {
+        "text": "Sudden braking reduces the likelihood of vehicle skidding"
+      },
+      {
+        "text": "To avoid skidding when entering a turn, it is advisable to reduce speed with sudden braking"
+      }
+    ]
   }
 ]

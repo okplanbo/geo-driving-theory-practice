@@ -7,4 +7,14 @@ export default defineConfig({
   base: `/${name}/`,
   plugins: [react()],
   server: { port: 5174 },
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          staticDataRu: ["./src/static_data_ru.json"],
+          staticDataEn: ["./src/static_data_en.json"],
+        },
+      },
+    },
+  },
 });
