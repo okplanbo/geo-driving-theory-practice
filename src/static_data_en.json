@@ -10437,5 +10437,962 @@
         "text": "To avoid skidding when entering a turn, it is advisable to reduce speed with sudden braking"
       }
     ]
+  },
+  {
+    "id": 621,
+    "question": "The likelihood of a vehicle skidding is higher:",
+    "answers": [
+      {
+        "text": "At the beginning of rain",
+        "correct": true
+      },
+      {
+        "text": "During rain, 30 minutes after it starts"
+      },
+      {
+        "text": "After the rain ends"
+      }
+    ]
+  },
+  {
+    "id": 622,
+    "question": "During rainy weather, the driver should pay special attention to:",
+    "answers": [
+      {
+        "text": "Vehicles carrying cargo, as there is a high probability of cargo falling onto the road"
+      },
+      {
+        "text": "Pedestrians, as their movements could create hazardous situations",
+        "correct": true
+      },
+      {
+        "text": "Slow-moving vehicles"
+      }
+    ]
+  },
+  {
+    "id": 623,
+    "question": "Up to what age is it prohibited to leave a child unattended in a stationary vehicle?",
+    "answers": [
+      {
+        "text": "Under 6 years old",
+        "correct": true
+      },
+      {
+        "text": "Under 7 years old"
+      },
+      {
+        "text": "Under 9 years old"
+      },
+      {
+        "text": "Under 12 years old"
+      }
+    ]
+  },
+  {
+    "id": 624,
+    "question": "Transporting a child under 12 years old is allowed:",
+    "answers": [
+      {
+        "text": "In the front seat of a passenger car"
+      },
+      {
+        "text": "On a moped"
+      },
+      {
+        "text": "On a motorcycle"
+      },
+      {
+        "text": "None of the listed answers is correct",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 625,
+    "question": "What should the design speed of a small quad bike be when transporting a child under 12 years old if the design does not allow for a special seat or support equipment?",
+    "answers": [
+      {
+        "text": "No more than 25 km/h",
+        "correct": true
+      },
+      {
+        "text": "More than 25 km/h but less than 45 km/h"
+      },
+      {
+        "text": "More than 25 km/h, provided the driver has at least 3 years of experience operating small quad bikes"
+      }
+    ]
+  },
+  {
+    "id": 626,
+    "question": "Is it allowed to transport a child under 12 years old on a motorized tricycle or quad bike that cannot accommodate a special seat or support equipment?",
+    "answers": [
+      {
+        "text": "Allowed if the driver has at least 3 years of experience operating the vehicle"
+      },
+      {
+        "text": "Allowed in any case"
+      },
+      {
+        "text": "Not allowed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 627,
+    "question": "In the event of a traffic accident, to stop arterial bleeding from a limb injury, a tourniquet should be applied:",
+    "answers": [
+      {
+        "text": "Above the wound",
+        "correct": true
+      },
+      {
+        "text": "Below the wound"
+      },
+      {
+        "text": "On the wound"
+      }
+    ]
+  },
+  {
+    "id": 628,
+    "question": "If no materials are available to create a splint for a leg fracture caused by a traffic accident, the injured person should:",
+    "answers": [
+      {
+        "text": "Apply a bandage along the entire length of the injured leg"
+      },
+      {
+        "text": "Bind the injured leg to the healthy one using a bandage, and place soft material between the legs",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "question": "When a vehicle with a flashing blue light and siren approaches, a pedestrian on the roadway must:",
+    "answers": [
+      {
+        "text": "Yield to the vehicle or immediately leave the roadway",
+        "correct": true
+      },
+      {
+        "text": "Continue walking, asserting their priority"
+      },
+      {
+        "text": "Continue walking, asserting their priority if on a regulated pedestrian crossing"
+      }
+    ]
+  },
+  {
+    "id": 630,
+    "question": "When turning onto another road with a pedestrian crossing at the entrance, the driver must:",
+    "answers": [
+      {
+        "text": "Drive at low speed, and if necessary, stop and yield to pedestrians on or entering the crossing",
+        "correct": true
+      },
+      {
+        "text": "Drive at any speed, as the driver has priority over pedestrians on or entering the crossing"
+      },
+      {
+        "text": "Drive at high speed to pass the crossing quickly"
+      }
+    ]
+  },
+  {
+    "id": 631,
+    "question": "When vehicle movement is regulated by a traffic controller at a pedestrian crossing and a stop signal is given, drivers must stop:",
+    "answers": [
+      {
+        "text": "In front of the traffic controller"
+      },
+      {
+        "text": "In front of the pedestrian crossing or the marked line in front of it",
+        "correct": true
+      },
+      {
+        "text": "In the opposite lane"
+      }
+    ]
+  },
+  {
+    "id": 632,
+    "question": "If vehicle movement is not regulated by signs or a traffic controller, the driver approaching a pedestrian crossing:",
+    "answers": [
+      {
+        "text": "Must sound the horn and pass the pedestrian crossing without stopping"
+      },
+      {
+        "text": "Has the right to pass the crossing at any speed, asserting priority over pedestrians"
+      },
+      {
+        "text": "Must appropriately reduce speed to avoid endangering pedestrians entering or on the crossing, and stop if necessary to yield to them",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 633,
+    "question": "Drivers planning to pass a public transport vehicle stopped at a marked stop from the appropriate side of the traffic direction must:",
+    "answers": [
+      {
+        "text": "Reduce speed and stop if necessary to ensure safe boarding or alighting of public transport passengers",
+        "correct": true
+      },
+      {
+        "text": "Increase speed to quickly pass and avoid delaying passenger boarding or alighting"
+      },
+      {
+        "text": "Pull over and wait until the public transport vehicle resumes movement"
+      }
+    ]
+  },
+  {
+    "id": 634,
+    "question": "Before entering a pedestrian crossing, the driver must ensure that:",
+    "answers": [
+      {
+        "text": "The crossing surface is not icy"
+      },
+      {
+        "text": "There is no vehicle approaching from the opposite direction on the crossing"
+      },
+      {
+        "text": "They will not be forced to stop on the crossing",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 635,
+    "question": "Priority means:",
+    "answers": [
+      {
+        "text": "The obligation of a road user not to maneuver if it would force another road user to suddenly change speed or direction"
+      },
+      {
+        "text": "The right of a road user to move first in the intended direction compared to other road users",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 636,
+    "question": "Insufficient visibility is considered to be reduced visibility of the road during tunnel passage, nighttime, fog, rain, snow, or other natural phenomena:",
+    "answers": [
+      {
+        "text": "At a distance of less than 300 meters",
+        "correct": true
+      },
+      {
+        "text": "At a distance of less than 500 meters"
+      },
+      {
+        "text": "At a distance of less than 600 meters"
+      }
+    ]
+  },
+  {
+    "id": 637,
+    "question": "A dividing strip is:",
+    "answers": [
+      {
+        "text": "A part of the road typically used for the movement of non-rail vehicles"
+      },
+      {
+        "text": "Any marked or unmarked longitudinal section dividing the road's lanes"
+      },
+      {
+        "text": "A structurally designated part of the road that separates adjacent carriageways and is not intended for non-rail vehicle movement",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 638,
+    "question": "Overtaking means:",
+    "answers": [
+      {
+        "text": "Leaving the current lane to overtake one or more vehicles moving ahead in the same direction",
+        "correct": true
+      },
+      {
+        "text": "Moving faster in the same direction as vehicles in a lane closer to the edge of the roadway"
+      },
+      {
+        "text": "Passing one or more vehicles moving in the opposite direction in an adjacent lane"
+      }
+    ]
+  },
+  {
+    "id": 639,
+    "question": "Stopping means:",
+    "answers": [
+      {
+        "text": "Intentional cessation of vehicle movement in traffic"
+      },
+      {
+        "text": "Intentional cessation of vehicle movement due to traffic regulation devices or a controller"
+      },
+      {
+        "text": "Intentional cessation of vehicle movement for up to 5 minutes, or longer if necessary for passenger boarding or alighting, or vehicle loading or unloading",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 640,
+    "question": "Besides carriageways, which of the following elements can a road consist of?",
+    "answers": [
+      {
+        "text": "Only tram tracks and sidewalks"
+      },
+      {
+        "text": "Only shoulders and dividing strips"
+      },
+      {
+        "text": "Only bike paths"
+      },
+      {
+        "text": "Tram tracks, sidewalks, shoulders, dividing strips, and bike paths",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 641,
+    "question": "An intersection is:",
+    "answers": [
+      {
+        "text": "A place where roads intersect, connect, or branch at the same level, including areas formed by such intersections, connections, or branchings",
+        "correct": true
+      },
+      {
+        "text": "Intersections of exits and roads from adjacent territories"
+      },
+      {
+        "text": "Intersections of carriageways at different levels"
+      }
+    ]
+  },
+  {
+    "id": 642,
+    "question": "Yielding the right of way (not creating an obstacle) means:",
+    "answers": [
+      {
+        "text": "The right of a road user to move first in the intended direction compared to other road users"
+      },
+      {
+        "text": "The obligation of a road user not to continue or resume movement, or not to perform a maneuver, if it would force another road user with priority to suddenly change direction or speed",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 643,
+    "question": "In the event of a pelvic or femur bone fracture due to a traffic accident, before the arrival of emergency medical services, the injured person should be:",
+    "answers": [
+      {
+        "text": "Laid on their back with a tightly rolled bandage or clothing under the knees, and given a pain reliever",
+        "correct": true
+      },
+      {
+        "text": "Placed on their side on the uninjured side, with a cold cloth applied to the injured area and given a pain reliever"
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "question": "A populated area is:",
+    "answers": [
+      {
+        "text": "Any area where people reside"
+      },
+      {
+        "text": "Any road intended for intensive pedestrian traffic"
+      },
+      {
+        "text": "A developed area where entry and exit are marked with appropriate road signs",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 645,
+    "question": "Loaded mass is:",
+    "answers": [
+      {
+        "text": "The mass of the vehicle without the driver, passengers, or cargo, but with a full fuel supply and all necessary equipment"
+      },
+      {
+        "text": "The mass of the vehicle without the driver and passengers as specified by the manufacturer"
+      },
+      {
+        "text": "The actual mass of the vehicle, including the driver and passengers, at a given time",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 646,
+    "question": "Unloaded mass is:",
+    "answers": [
+      {
+        "text": "The mass of the vehicle without the driver and passengers as specified by the manufacturer, but including a full fuel supply and all necessary equipment",
+        "correct": true
+      },
+      {
+        "text": "The actual mass of the vehicle, including the driver and passengers, at a given time"
+      },
+      {
+        "text": "The mass of the vehicle without the driver and passengers as specified by the registration authority"
+      }
+    ]
+  },
+  {
+    "id": 647,
+    "question": "Parking is:",
+    "answers": [
+      {
+        "text": "Intentional cessation of vehicle movement for up to 5 minutes or longer if necessary for passenger boarding or alighting, or vehicle loading or unloading"
+      },
+      {
+        "text": "Intentional cessation of vehicle movement for more than 5 minutes if not related to passenger boarding or alighting, or vehicle loading or unloading",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 648,
+    "question": "Darkness means:",
+    "answers": [
+      {
+        "text": "The time period from 6 PM to midnight"
+      },
+      {
+        "text": "The time period from dawn to dusk"
+      },
+      {
+        "text": "The time period from dusk to dawn",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 649,
+    "question": "A bike lane is:",
+    "answers": [
+      {
+        "text": "A road or part of a road designated for bicycle movement, marked with an appropriate road sign, and structurally separated from other roads or road elements",
+        "correct": true
+      },
+      {
+        "text": "A traffic lane designated for bicycles, separated from other lanes by a longitudinal road marking"
+      }
+    ]
+  },
+  {
+    "id": 650,
+    "question": "A forced stop means:",
+    "answers": [
+      {
+        "text": "Intentional cessation of vehicle movement in traffic due to traffic regulation devices or a controller"
+      },
+      {
+        "text": "Stopping due to vehicle technical failure, danger created by the transported cargo, driver (passenger) condition, or road obstacles",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 651,
+    "question": "Constructive speed is:",
+    "answers": [
+      {
+        "text": "The maximum speed of the vehicle as specified by the manufacturer",
+        "correct": true
+      },
+      {
+        "text": "The maximum speed limit set for a particular road section"
+      },
+      {
+        "text": "The speed indicated on the 'Speed Limit' sign attached to the vehicle"
+      }
+    ]
+  },
+  {
+    "id": 652,
+    "question": "What can cause a rear-end collision?",
+    "answers": [
+      {
+        "text": "Only sudden and sharp braking by the vehicle ahead"
+      },
+      {
+        "text": "Only an insufficiently maintained distance from the vehicle ahead"
+      },
+      {
+        "text": "Only driver inattention"
+      },
+      {
+        "text": "Any of the listed circumstances in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 653,
+    "question": "An adjacent territory is:",
+    "answers": [
+      {
+        "text": "An area directly adjacent to the road and not intended for through traffic (yards, residential areas, parking lots, gas stations, enterprises, etc.)",
+        "correct": true
+      },
+      {
+        "text": "A road element intended for non-rail vehicle movement (excluding sidewalks, shoulders, bicycle paths, and transition paths)"
+      },
+      {
+        "text": "An intersection, connection, or branching of roads at the same level, including areas formed by such intersections, connections, or branchings"
+      }
+    ]
+  },
+  {
+    "id": 654,
+    "question": "A traffic controller has the right to:",
+    "answers": [
+      {
+        "text": "Restrict the rights of a road user, change the direction, or suspend their movement",
+        "correct": true
+      },
+      {
+        "text": "Impose an administrative fine only on an offending driver"
+      }
+    ]
+  },
+  {
+    "id": 655,
+    "question": "A traffic lane is:",
+    "answers": [
+      {
+        "text": "A structurally designated road element that separates adjacent carriageways"
+      },
+      {
+        "text": "The entire surface of the road or street open for traffic"
+      },
+      {
+        "text": "Any marked or unmarked lane dividing the roadway into longitudinal sections wide enough for a single line of vehicles other than motorcycles",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 656,
+    "question": "During a driving lesson, the instructor-driver is considered:",
+    "answers": [
+      {
+        "text": "A passenger"
+      },
+      {
+        "text": "A driver",
+        "correct": true
+      },
+      {
+        "text": "None of the listed options"
+      }
+    ]
+  },
+  {
+    "id": 657,
+    "question": "Permitted maximum mass is:",
+    "answers": [
+      {
+        "text": "The actual mass of a loaded vehicle at a given time, including the driver and passengers"
+      },
+      {
+        "text": "The mass of a fully equipped vehicle, including the driver and passengers, as specified by the manufacturer"
+      },
+      {
+        "text": "The maximum allowable loaded vehicle mass declared permissible by the competent authority of the state where the vehicle is registered",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 658,
+    "question": "A slow-moving vehicle is:",
+    "answers": [
+      {
+        "text": "A motor or non-motor vehicle with a constructive speed not exceeding 45 km/h"
+      },
+      {
+        "text": "A motor vehicle with a constructive speed not exceeding 40 km/h, or which cannot exceed this speed for reasons unrelated to traffic flow",
+        "correct": true
+      },
+      {
+        "text": "Any vehicle traveling at no more than 50 km/h"
+      }
+    ]
+  },
+  {
+    "id": 659,
+    "question": "A railway crossing is:",
+    "answers": [
+      {
+        "text": "Any section of railway tracks"
+      },
+      {
+        "text": "The intersection of roads and railway or tram tracks at the same level",
+        "correct": true
+      },
+      {
+        "text": "The intersection of roads and railway or tram tracks at different levels"
+      }
+    ]
+  },
+  {
+    "id": 660,
+    "question": "Under what circumstances is it appropriate to move an accident victim from a vehicle?",
+    "answers": [
+      {
+        "text": "Always if the victim has lost consciousness"
+      },
+      {
+        "text": "When the victim has a lower limb fracture"
+      },
+      {
+        "text": "When the victim has lost consciousness and shows no signs of breathing or carotid pulse",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 661,
+    "question": "A route transport vehicle is:",
+    "answers": [
+      {
+        "text": "Any bus with more than 16 seats, excluding the driver's seat"
+      },
+      {
+        "text": "A vehicle designed to transport passengers on a specified route",
+        "correct": true
+      },
+      {
+        "text": "Any vehicle designed to transport cargo or people"
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "question": "Braking distance is:",
+    "answers": [
+      {
+        "text": "The length of the deceleration lane on the road"
+      },
+      {
+        "text": "The maximum distance established by law within which the vehicle must stop"
+      },
+      {
+        "text": "The distance a vehicle travels from the moment the brakes are applied to a complete stop",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "question": "A residential area is:",
+    "answers": [
+      {
+        "text": "Any area where people reside"
+      },
+      {
+        "text": "A developed area where special traffic rules apply, with entry and exit marked by appropriate road signs",
+        "correct": true
+      },
+      {
+        "text": "Any road intended for intensive pedestrian traffic"
+      }
+    ]
+  },
+  {
+    "id": 664,
+    "question": "Symptoms of cervical spine injuries without spinal cord damage in a traffic accident victim include:",
+    "answers": [
+      {
+        "text": "The victim cannot move their upper limbs, and breathing is difficult"
+      },
+      {
+        "text": "The victim experiences neck and back pain, which intensifies when touched",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 665,
+    "question": "A sidewalk is:",
+    "answers": [
+      {
+        "text": "A road element designated for pedestrian traffic, connected to the carriageway or separated by a structural element or grass",
+        "correct": true
+      },
+      {
+        "text": "A path separated from the road, designated for pedestrian movement"
+      },
+      {
+        "text": "Any road intended for pedestrian movement"
+      }
+    ]
+  },
+  {
+    "id": 666,
+    "question": "If a traffic accident victim has a neck or spine injury or there is a suspicion of such injuries, it is prohibited to:",
+    "answers": [
+      {
+        "text": "Only allow the victim to move their neck and head"
+      },
+      {
+        "text": "Only touch the victim's wound"
+      },
+      {
+        "text": "Only straighten bone fragments and remove foreign objects"
+      },
+      {
+        "text": "Move the victim's neck and head, touch the wound, or move bone fragments or foreign objects",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 667,
+    "question": "A pedestrian path is:",
+    "answers": [
+      {
+        "text": "A road element connected to the carriageway, designated for pedestrian movement"
+      },
+      {
+        "text": "A path separated from the road, designated for pedestrian movement, which may be marked by appropriate road signs",
+        "correct": true
+      },
+      {
+        "text": "Any road segment designated for pedestrian movement"
+      }
+    ]
+  },
+  {
+    "id": 668,
+    "question": "Limited visibility is:",
+    "answers": [
+      {
+        "text": "Reduced visibility on the road to less than 300 meters in tunnels, at night, during fog, rain, snow, or other natural phenomena"
+      },
+      {
+        "text": "A situation where a sharp turn, hilltop, greenery, building near the road, or obstacle on the road reduces visibility so much that driving at the permitted speed on this section may cause danger",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 669,
+    "question": "A passenger is:",
+    "answers": [
+      {
+        "text": "A person directly operating a vehicle"
+      },
+      {
+        "text": "A person using roller skates for movement"
+      },
+      {
+        "text": "A person, other than the driver, inside a vehicle or entering or exiting a vehicle",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 670,
+    "question": "Which of the following vehicles is considered a motor vehicle?",
+    "answers": [
+      {
+        "text": "A two-wheeled electric scooter"
+      },
+      {
+        "text": "A bicycle"
+      },
+      {
+        "text": "A tram"
+      },
+      {
+        "text": "A moped",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 671,
+    "question": "A passenger car is:",
+    "answers": [
+      {
+        "text": "A car with a maximum total mass of up to 4,500 kg and seating for more than 8 but not more than 12 passengers, excluding the driver"
+      },
+      {
+        "text": "A motorcycle with a maximum total mass of up to 2,500 kg"
+      },
+      {
+        "text": "A car with a permitted maximum mass of no more than 3,500 kg (excluding motorcycles and mopeds) and seating for no more than 8 passengers, excluding the driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 672,
+    "question": "A lightweight trailer is:",
+    "answers": [
+      {
+        "text": "A trailer with a permitted maximum mass not exceeding 750 kg",
+        "correct": true
+      },
+      {
+        "text": "A trailer with an unloaded weight not exceeding 850 kg"
+      },
+      {
+        "text": "A trailer with a total mass not exceeding 950 kg"
+      }
+    ]
+  },
+  {
+    "id": 673,
+    "question": "Under which of the following conditions is a vehicle considered to be in international traffic within a country?",
+    "answers": [
+      {
+        "text": "Only if it belongs to an individual or entity whose usual residence is outside the country"
+      },
+      {
+        "text": "Only if it is not registered in the country"
+      },
+      {
+        "text": "Only if it is temporarily imported into the country for no more than the period allowed by the country's legislation"
+      },
+      {
+        "text": "In all the cases listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 674,
+    "question": "A vehicle is:",
+    "answers": [
+      {
+        "text": "A device used on roads for transporting people or cargo"
+      },
+      {
+        "text": "A device moving on roads or intended for road movement, powered by an engine or other force",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 675,
+    "question": "The total mass of a vehicle is:",
+    "answers": [
+      {
+        "text": "The mass of a vehicle without the crew, passengers, or cargo"
+      },
+      {
+        "text": "The mass of a loaded vehicle at a given time, including the crew and passengers"
+      },
+      {
+        "text": "The mass of a fully equipped vehicle with cargo, crew, and passengers, as specified by the manufacturer",
+        "correct": true
+      },
+      {
+        "text": "The portion of the vehicle's mass that exerts pressure on the road through the axle"
+      }
+    ]
+  },
+  {
+    "id": 676,
+    "question": "A driver may use the horn:",
+    "answers": [
+      {
+        "text": "In any situation, at their discretion"
+      },
+      {
+        "text": "Only as a timely warning to avoid a traffic accident",
+        "correct": true
+      },
+      {
+        "text": "To claim priority at an intersection"
+      }
+    ]
+  },
+  {
+    "id": 677,
+    "question": "Activating the turn signal before making a maneuver:",
+    "answers": [
+      {
+        "text": "Grants priority"
+      },
+      {
+        "text": "Does not grant priority, except concerning emergency service vehicles"
+      },
+      {
+        "text": "Does not grant priority and does not absolve the driver from taking necessary precautions",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 678,
+    "question": "The duration of a horn signal given by the driver:",
+    "answers": [
+      {
+        "text": "Should be no more than 3 seconds"
+      },
+      {
+        "text": "Should be no more than 5 seconds"
+      },
+      {
+        "text": "Should not be longer than necessary",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 679,
+    "question": "During daylight in urban areas, to signal the intention to overtake another driver, it is permissible to use:",
+    "answers": [
+      {
+        "text": "The horn"
+      },
+      {
+        "text": "Periodic short flashing of headlights",
+        "correct": true
+      },
+      {
+        "text": "Hazard warning lights"
+      },
+      {
+        "text": "Repeated switching of headlights from low to high beam"
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "question": "At night in urban areas, to signal the intention to overtake another driver, it is permissible to use:",
+    "answers": [
+      {
+        "text": "The horn"
+      },
+      {
+        "text": "Periodic short flashing of headlights"
+      },
+      {
+        "text": "Hazard warning lights"
+      },
+      {
+        "text": "Repeated switching of headlights from low to high beam",
+        "correct": true
+      }
+    ]
   }
 ]
