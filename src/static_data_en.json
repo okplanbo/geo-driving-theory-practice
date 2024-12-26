@@ -11394,5 +11394,321 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 681,
+    "question": "Is it permissible to use the horn to signal the intent to overtake another driver?",
+    "answers": [
+      {
+        "text": "Permissible only in non-urban areas",
+        "correct": true
+      },
+      {
+        "text": "Permissible only in urban areas"
+      },
+      {
+        "text": "Permissible in both urban and non-urban areas"
+      },
+      {
+        "text": "Not permissible"
+      }
+    ]
+  },
+  {
+    "id": 682,
+    "question": "In which of the following places is a driver not required to activate the turn signal before starting a maneuver?",
+    "answers": [
+      {
+        "text": "In a residential area"
+      },
+      {
+        "text": "In an adjacent territory"
+      },
+      {
+        "text": "In a yard"
+      },
+      {
+        "text": "Required in all the listed places",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 683,
+    "question": "From dusk to dawn, and in any other conditions of reduced visibility, stationary or parked motor vehicles and their trailers must be marked with:",
+    "answers": [
+      {
+        "text": "High beam headlights"
+      },
+      {
+        "text": "Front and rear position lights",
+        "correct": true
+      },
+      {
+        "text": "Low beam headlights"
+      },
+      {
+        "text": "Front fog lights"
+      }
+    ]
+  },
+  {
+    "id": 684,
+    "question": "On a moving motor vehicle at night or under conditions of reduced visibility, the following must be switched on:",
+    "answers": [
+      {
+        "text": "Only high beam or low beam headlights"
+      },
+      {
+        "text": "Only fog lights"
+      },
+      {
+        "text": "Low beam or high beam headlights and rear position lights",
+        "correct": true
+      },
+      {
+        "text": "Only front and rear position lights"
+      }
+    ]
+  },
+  {
+    "id": 685,
+    "question": "On a two-way road in non-urban areas without a median and sidewalk, a person manually pushing a bicycle or moped should use:",
+    "answers": [
+      {
+        "text": "The left side of the road"
+      },
+      {
+        "text": "The right side of the road",
+        "correct": true
+      },
+      {
+        "text": "Any traffic lane"
+      }
+    ]
+  },
+  {
+    "id": 686,
+    "question": "On a two-way road in non-urban areas without a median and sidewalk, a person with disabilities moving in a wheelchair should use:",
+    "answers": [
+      {
+        "text": "Any traffic lane"
+      },
+      {
+        "text": "The left side of the road"
+      },
+      {
+        "text": "The right side of the road",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 687,
+    "question": "A vehicle is considered oversized if its load protrudes beyond the rear end by:",
+    "answers": [
+      {
+        "text": "1 meter"
+      },
+      {
+        "text": "1.70 meters"
+      },
+      {
+        "text": "2 meters"
+      },
+      {
+        "text": "More than 2 meters",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 688,
+    "question": "In all roads in Georgia, the traffic direction is:",
+    "answers": [
+      {
+        "text": "On the left side"
+      },
+      {
+        "text": "On the right side",
+        "correct": true
+      },
+      {
+        "text": "On both the left and right sides"
+      }
+    ]
+  },
+  {
+    "id": 689,
+    "question": "In the absence of appropriate road markings and signs, the number of lanes for non-rail vehicles is determined:",
+    "answers": [
+      {
+        "text": "By the driver, considering the width of the road, the dimensions of the vehicles, and the necessary intervals between them",
+        "correct": true
+      },
+      {
+        "text": "By local government authorities"
+      },
+      {
+        "text": "By law, designating such roads as one-way"
+      }
+    ]
+  },
+  {
+    "id": 690,
+    "question": "On a two-way road with a median, the opposing direction is considered to be:",
+    "answers": [
+      {
+        "text": "The carriageway to the left of the median",
+        "correct": true
+      },
+      {
+        "text": "The carriageway to the right of the median"
+      },
+      {
+        "text": "None of the listed options"
+      }
+    ]
+  },
+  {
+    "id": 691,
+    "question": "If nothing else is provided by traffic management on a road with two or three carriageways, the driver is prohibited from:",
+    "answers": [
+      {
+        "text": "Changing lanes on the carriageway for the same-direction movement"
+      },
+      {
+        "text": "Entering the carriageway for opposite-direction movement",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 692,
+    "question": "A driver intending to perform any maneuver must begin it only after ensuring that:",
+    "answers": [
+      {
+        "text": "They will not endanger road users behind, ahead, or nearby, whether in the same or opposite direction, considering their position, direction, and speed",
+        "correct": true
+      },
+      {
+        "text": "They will not endanger only vehicles behind or nearby, considering their position, direction, and speed"
+      }
+    ]
+  },
+  {
+    "id": 693,
+    "question": "A driver must pass a safety island or bollard located on the axis of a two-way road:",
+    "answers": [
+      {
+        "text": "Only on the left side"
+      },
+      {
+        "text": "Only on the right side",
+        "correct": true
+      },
+      {
+        "text": "On either the left or right side"
+      }
+    ]
+  },
+  {
+    "id": 694,
+    "question": "Does a driver have the right to impede the movement of other vehicles by driving at the minimum speed without a valid reason?",
+    "answers": [
+      {
+        "text": "They have the right, as traffic rules prohibit only exceeding the maximum allowed speed"
+      },
+      {
+        "text": "They have the right if they are driving in the far-right lane"
+      },
+      {
+        "text": "They do not have the right",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 695,
+    "question": "If during an overtaking maneuver an obstacle or danger is discovered that the driver could not foresee before starting, the driver must:",
+    "answers": [
+      {
+        "text": "Increase speed to complete the overtaking maneuver in time"
+      },
+      {
+        "text": "Sound the horn and continue the overtaking maneuver"
+      },
+      {
+        "text": "Abort the overtaking maneuver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 696,
+    "question": "If the traffic controller's signal allows simultaneous movement of non-rail vehicles on intersecting trajectories, drivers must follow:",
+    "answers": [
+      {
+        "text": "Only road markings indicating priority"
+      },
+      {
+        "text": "The rules for unregulated intersections and priority signs at the intersection",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 697,
+    "question": "If traffic rules require a driver to yield to another road user, they must indicate their intention by:",
+    "answers": [
+      {
+        "text": "Reducing speed or stopping",
+        "correct": true
+      },
+      {
+        "text": "Using sound or light signals"
+      },
+      {
+        "text": "Any of the actions listed in this ticket"
+      }
+    ]
+  },
+  {
+    "id": 698,
+    "question": "Is parking on the left side of the carriageway allowed?",
+    "answers": [
+      {
+        "text": "Allowed only in non-urban areas"
+      },
+      {
+        "text": "Allowed only in urban areas on roads with one lane in each direction and no tram tracks in the middle",
+        "correct": true
+      },
+      {
+        "text": "Allowed on any road without tram tracks in the middle"
+      },
+      {
+        "text": "Not allowed"
+      }
+    ]
+  },
+  {
+    "id": 699,
+    "question": "Parking a motor vehicle is not prohibited:",
+    "answers": [
+      {
+        "text": "In the zone of a no-parking sign"
+      },
+      {
+        "text": "On the road closer than 50 meters from a railway crossing"
+      },
+      {
+        "text": "At the driveway exit from a yard"
+      },
+      {
+        "text": "Prohibited in all the places listed in this ticket",
+        "correct": true
+      }
+    ]
   }
 ]

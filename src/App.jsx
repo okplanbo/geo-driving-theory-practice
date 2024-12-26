@@ -37,13 +37,13 @@ const theme = extendTheme({
  * finish translations, i18n: UI, language switcher
  * images to static storage in another repo
  * move project to new domain
- * context, back/next buttons, categories, original ids
  * google auth
+ * context, back/next buttons, categories, original ids
  * load q separately and save them to db with versioning to reuse later
  * table of all q with pagination and filters
  * dark mode, font consistency for i18n
  * 30 question training: start, finish view, 3 mistakes to fail
- * offline mode, pwa
+ * offline mode
  */
 
 const getRandomQuestionNumber = (excludedIds) => {
@@ -57,20 +57,24 @@ const getRandomQuestionNumber = (excludedIds) => {
 function App() {
   const [excludedIds, setExcludedIds] = useState();
   const [currentQuestionNumber, setCurrentQuestionNumber] = useState();
-  const [isNumberCorrect, setIsNumberCorrect] = useState();
+  const [isNumberInURLGood, setIsNumberInURLGood] = useState();
+
+  const queryParams = new URLSearchParams(location.search);
+  const questionParam = queryParams.get("q");
+  const numericParam = Number(questionParam);
 
   const initQuestion = async () => {
-    const queryParams = new URLSearchParams(location.search);
-    const questionParam = queryParams.get("q");
-    const numericParam = Number(questionParam);
-
     const storedExcludedIds = await getExcludedFromDB();
+    setExcludedIds(storedExcludedIds);
+
     const randomQuestionNumber = getRandomQuestionNumber(storedExcludedIds);
 
-    setIsNumberCorrect(
-      !isNaN(numericParam) && numericParam > 0 && numericParam <= lastId,
+    setIsNumberInURLGood(
+      !isNaN(numericParam) && // if it's a number
+        numericParam > 0 && // if it's positive
+        numericParam <= lastId, // if it's not bigger than last id
     );
-    setExcludedIds(storedExcludedIds);
+
     setCurrentQuestionNumber(
       questionParam ? Number(questionParam) : randomQuestionNumber,
     );
@@ -79,6 +83,7 @@ function App() {
       queryParams.set("q", randomQuestionNumber);
       const newUrl = `${window.location.pathname}?${queryParams.toString()}`;
       window.history.replaceState({}, "", newUrl);
+      setIsNumberInURLGood(true);
     }
   };
 
@@ -96,7 +101,7 @@ function App() {
     const newUrl = `${window.location.pathname}?${queryParams.toString()}`;
     window.history.pushState({}, "", newUrl);
     setCurrentQuestionNumber(questionNumber);
-    setIsNumberCorrect(true);
+    setIsNumberInURLGood(true);
   };
 
   const handleRandomize = () => {
@@ -116,7 +121,7 @@ function App() {
 
   return (
     <ChakraProvider theme={theme}>
-      {isNumberCorrect !== undefined && isNumberCorrect && (
+      {isNumberInURLGood !== undefined && isNumberInURLGood && (
         <Router>
           <Routes>
             <Route
@@ -147,14 +152,16 @@ function App() {
           </Routes>
         </Router>
       )}
-      {isNumberCorrect !== undefined && !isNumberCorrect && (
-        <>
-          Error! Bad question Id. Please check URL or..
-          <Button className="mt-4" onClick={handleRandomize}>
-            Randomize!
-          </Button>
-        </>
-      )}
+      {questionParam &&
+        isNumberInURLGood !== undefined &&
+        !isNumberInURLGood && (
+          <>
+            Error! Bad question Id. Please check URL or..
+            <Button className="mt-4" onClick={handleRandomize}>
+              Randomize!
+            </Button>
+          </>
+        )}
     </ChakraProvider>
   );
 }
