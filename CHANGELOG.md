@@ -1,3 +1,9 @@
+## [1.6.1](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.6.0...v1.6.1) (2024-12-26)
+
+### Bug Fixes
+
+- terribly fixed this sorry little thingy. super bad routing here ([4bae7f4](https://github.com/okplanbo/geo-driving-theory-practice/commit/4bae7f4c16c7bf27f9674db92e0263eae7f673d7))
+
 # [1.6.0](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.5.0...v1.6.0) (2024-12-18)
 
 ### Features
