@@ -1,3 +1,9 @@
+## [1.6.2](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.6.1...v1.6.2) (2025-01-03)
+
+### Bug Fixes
+
+- numeric param back to init function, more translations and text corrections ([a40a68d](https://github.com/okplanbo/geo-driving-theory-practice/commit/a40a68d1c27c4368888062ce46df60d42e054a2f))
+
 ## [1.6.1](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.6.0...v1.6.1) (2024-12-26)
 
 ### Bug Fixes
