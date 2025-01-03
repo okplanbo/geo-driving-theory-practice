@@ -58,12 +58,14 @@ function App() {
   const [excludedIds, setExcludedIds] = useState();
   const [currentQuestionNumber, setCurrentQuestionNumber] = useState();
   const [isNumberInURLGood, setIsNumberInURLGood] = useState();
-
   const queryParams = new URLSearchParams(location.search);
-  const questionParam = queryParams.get("q");
-  const numericParam = Number(questionParam);
+  let questionParam = queryParams.get("q");
 
   const initQuestion = async () => {
+    const queryParams = new URLSearchParams(location.search);
+    questionParam = queryParams.get("q");
+    const numericParam = Number(questionParam);
+
     const storedExcludedIds = await getExcludedFromDB();
     setExcludedIds(storedExcludedIds);
 

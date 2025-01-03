@@ -11710,5 +11710,646 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 700,
+    "question": "If a driver cannot determine the existence of road markings (due to darkness, snow, dirt, or other reasons) and there are no priority signs, it is assumed they are:",
+    "answers": [
+      {
+        "text": "On a secondary road",
+        "correct": true
+      },
+      {
+        "text": "On a main road"
+      },
+      {
+        "text": "On a road equivalent to a highway"
+      }
+    ]
+  },
+  {
+    "id": 701,
+    "question": "If a temporary road sign installed on a road work vehicle contradicts stationary road signs on the same section, the driver must follow:",
+    "answers": [
+      {
+        "text": "The requirements of the stationary road signs"
+      },
+      {
+        "text": "The requirements of the temporary road sign installed on the road work vehicle",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 702,
+    "question": "Does a driver have the right to enter an intersection where an obstacle might force them to stop and create a hindrance for cross-traffic?",
+    "answers": [
+      {
+        "text": "Yes, if the traffic light allows movement"
+      },
+      {
+        "text": "No",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 703,
+    "question": "If the headlights of an oncoming vehicle are blinding, the driver must:",
+    "answers": [
+      {
+        "text": "Reduce speed, move as far right as possible, and stop if necessary"
+      },
+      {
+        "text": "Flash the headlights to signal the oncoming driver about the issue"
+      },
+      {
+        "text": "Reduce speed without changing lanes, stop, and turn on the hazard lights. Movement is allowed only after vision is fully restored",
+        "correct": true
+      },
+      {
+        "text": "Turn on the high beams"
+      }
+    ]
+  },
+  {
+    "id": 704,
+    "question": "The front fog lights on a motor vehicle should be installed:",
+    "answers": [
+      {
+        "text": "At the driver's eye level"
+      },
+      {
+        "text": "So that no point on their illuminated surface is higher than the highest point of the low beam headlight's illuminated surface",
+        "correct": true
+      },
+      {
+        "text": "So that no point on their illuminated surface is lower than the lowest point of the position light's illuminated surface"
+      }
+    ]
+  },
+  {
+    "id": 705,
+    "question": "If a traffic accident victim has a spinal injury, they should be:",
+    "answers": [
+      {
+        "text": "Placed on their side on a flat and hard surface with a pillow under their head"
+      },
+      {
+        "text": "Placed on their back on a flat and hard surface with a pillow under their neck and lower back",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "question": "In conditions of reduced visibility or on roads with narrow turns, fog lights should be used:",
+    "answers": [
+      {
+        "text": "Together with the hazard lights"
+      },
+      {
+        "text": "Together with low or high beam headlights",
+        "correct": true
+      },
+      {
+        "text": "Only together with front and rear position lights"
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "question": "On a motor vehicle equipped with front position lights, these lights must be turned on:",
+    "answers": [
+      {
+        "text": "Only together with high beam headlights"
+      },
+      {
+        "text": "Only together with low beam headlights"
+      },
+      {
+        "text": "Only together with front fog lights"
+      },
+      {
+        "text": "Together with high and low beam headlights or front fog lights",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 708,
+    "question": "If a traffic accident victim has a spinal injury, they should be transported:",
+    "answers": [
+      {
+        "text": "Lying on their side on a flat and hard surface"
+      },
+      {
+        "text": "Lying on their back on a flat and hard surface",
+        "correct": true
+      },
+      {
+        "text": "Sitting on a flat and hard surface"
+      }
+    ]
+  },
+  {
+    "id": 709,
+    "question": "On a trailer of a motor vehicle moving at night or in conditions of reduced visibility:",
+    "answers": [
+      {
+        "text": "Only special reflective equipment should be attached"
+      },
+      {
+        "text": "Front position lights (if required by Georgian law) and at least two rear position lights must be turned on",
+        "correct": true
+      },
+      {
+        "text": "Only one rear position light must be turned on"
+      }
+    ]
+  },
+  {
+    "id": 710,
+    "question": "If a vehicle is equipped with front fog lights, they must be:",
+    "answers": [
+      {
+        "text": "In the form of two lights emitting white or yellow light",
+        "correct": true
+      },
+      {
+        "text": "In the form of four lights emitting red or yellow light"
+      },
+      {
+        "text": "In the form of one light source emitting red light"
+      }
+    ]
+  },
+  {
+    "id": 711,
+    "question": "If a motor vehicle or trailer is equipped with rear fog lights, they must be:",
+    "answers": [
+      {
+        "text": "Red",
+        "correct": true
+      },
+      {
+        "text": "White"
+      },
+      {
+        "text": "Yellow"
+      }
+    ]
+  },
+  {
+    "id": 712,
+    "question": "During daylight hours, to improve vehicle visibility on the road, it is mandatory to turn on low beam headlights and rear position lights:",
+    "answers": [
+      {
+        "text": "Only when transporting a group of children on a bus or appropriately equipped truck body"
+      },
+      {
+        "text": "Only when towing a motor vehicle, on the towing vehicle"
+      },
+      {
+        "text": "Only on special route vehicles on dedicated lanes moving against the main traffic flow"
+      },
+      {
+        "text": "In all the cases listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "question": "When approaching an oncoming vehicle at night, high beam headlights must be temporarily switched off and replaced with low beams at a distance of at least:",
+    "answers": [
+      {
+        "text": "150 meters",
+        "correct": true
+      },
+      {
+        "text": "200 meters"
+      },
+      {
+        "text": "300 meters"
+      }
+    ]
+  },
+  {
+    "id": 714,
+    "question": "How does alcohol affect a driver's reaction?",
+    "answers": [
+      {
+        "text": "It does not affect reaction time"
+      },
+      {
+        "text": "It decreases reaction time"
+      },
+      {
+        "text": "It increases reaction time",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "question": "High beam headlights must be switched off and replaced with low beams:",
+    "answers": [
+      {
+        "text": "When it is necessary to avoid blinding other road users or people moving along roads, waterways, or railways",
+        "correct": true
+      },
+      {
+        "text": "When driving in a residential area"
+      },
+      {
+        "text": "When visibility is less than 300 meters"
+      }
+    ]
+  },
+  {
+    "id": 716,
+    "question": "At night in an urban area, if the road is sufficiently lit, the following must be turned on:",
+    "answers": [
+      {
+        "text": "Position lights"
+      },
+      {
+        "text": "Low beam headlights",
+        "correct": true
+      },
+      {
+        "text": "High beam headlights"
+      }
+    ]
+  },
+  {
+    "id": 717,
+    "question": "Reversing lights may be turned on:",
+    "answers": [
+      {
+        "text": "Only when the vehicle is reversing or about to reverse",
+        "correct": true
+      },
+      {
+        "text": "Only when the vehicle is braking"
+      },
+      {
+        "text": "In all the cases listed above"
+      }
+    ]
+  },
+  {
+    "id": 718,
+    "question": "Is it permissible to equip vehicles with red lights at the front and white lights at the rear?",
+    "answers": [
+      {
+        "text": "Permissible"
+      },
+      {
+        "text": "Not permissible",
+        "correct": true
+      },
+      {
+        "text": "Permissible only on special service route vehicles"
+      }
+    ]
+  },
+  {
+    "id": 719,
+    "question": "Is it permissible to modify the design of a vehicle or equip it with additional lights?",
+    "answers": [
+      {
+        "text": "Not permissible"
+      },
+      {
+        "text": "Permissible only if the requirements established by legislation are met",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 720,
+    "question": "Is it permissible to install lights of different colors and the same purpose, directed in the same direction, on the same vehicle?",
+    "answers": [
+      {
+        "text": "Permissible"
+      },
+      {
+        "text": "Not permissible",
+        "correct": true
+      },
+      {
+        "text": "Permissible only on emergency service vehicles"
+      }
+    ]
+  },
+  {
+    "id": 721,
+    "question": "In an urban area, who is allowed to use spotlights and searchlights?",
+    "answers": [
+      {
+        "text": "Drivers of vehicles transporting dangerous goods"
+      },
+      {
+        "text": "Any driver at their discretion"
+      },
+      {
+        "text": "Only drivers of operational or special service vehicles performing official duties",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 722,
+    "question": "The use of spotlights and searchlights is allowed:",
+    "answers": [
+      {
+        "text": "In urban areas on one-way roads"
+      },
+      {
+        "text": "Only in non-urban areas if there is no oncoming traffic",
+        "correct": true
+      },
+      {
+        "text": "In urban areas on roads with one lane per direction, without tram tracks in the middle"
+      }
+    ]
+  },
+  {
+    "id": 723,
+    "question": "Vehicles can stop or park without any external lighting devices turned on:",
+    "answers": [
+      {
+        "text": "Only on a well-lit road where the vehicle can be clearly seen from a significant distance"
+      },
+      {
+        "text": "Only off the road and on a hard-surfaced shoulder"
+      },
+      {
+        "text": "In all the cases listed in this ticket",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 724,
+    "question": "In urban areas, instead of front and rear position lights, parking lights may be used under the condition that:",
+    "answers": [
+      {
+        "text": "The vehicle length does not exceed 6 meters and the width does not exceed 2 meters"
+      },
+      {
+        "text": "The vehicle has no trailer"
+      },
+      {
+        "text": "All conditions listed in this ticket are met",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 725,
+    "question": "Hand carts with a length not exceeding one meter must have at least:",
+    "answers": [
+      {
+        "text": "One front white or yellow light and one rear red light",
+        "correct": true
+      },
+      {
+        "text": "One front yellow or white light"
+      },
+      {
+        "text": "One rear red light"
+      }
+    ]
+  },
+  {
+    "id": 726,
+    "question": "On horse-drawn vehicles wider than one meter, there must be one light on the front and rear:",
+    "answers": [
+      {
+        "text": "On the right side"
+      },
+      {
+        "text": "In the center"
+      },
+      {
+        "text": "On the left side",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 727,
+    "question": "On a steep mountain road, when passing another vehicle of the same category, which driver has the obligation to reverse?",
+    "answers": [
+      {
+        "text": "The driver of the vehicle going uphill"
+      },
+      {
+        "text": "The driver of the vehicle going downhill, unless it is clear that the uphill driver can more easily reverse, especially if they are closer to the passing area",
+        "correct": true
+      },
+      {
+        "text": "The downhill driver, regardless of who is closer to the passing area or can reverse more easily"
+      }
+    ]
+  },
+  {
+    "id": 728,
+    "question": "On a steep mountain road, if one of the two vehicles must reverse to pass, vehicle compositions have priority:",
+    "answers": [
+      {
+        "text": "Only for drivers of passenger cars"
+      },
+      {
+        "text": "Only for drivers of buses and trucks"
+      },
+      {
+        "text": "For drivers of all vehicle categories",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 729,
+    "question": "At night on the carriageway, pack animals, draft animals, or livestock herders must have:",
+    "answers": [
+      {
+        "text": "At least one white or yellow light in the front"
+      },
+      {
+        "text": "At least one red light in the rear"
+      },
+      {
+        "text": "At least one white or yellow light in the front and one red light in the rear",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 730,
+    "img": "img730",
+    "question": "Does a driver of a car parked on a hard-surfaced shoulder violate traffic rules by not turning on position lights in conditions of reduced visibility?",
+    "answers": [
+      {
+        "text": "Yes",
+        "correct": true
+      },
+      {
+        "text": "No"
+      }
+    ]
+  },
+  {
+    "id": 731,
+    "img": "img731",
+    "question": "Is a driver allowed to proceed in the direction of the arrow at night if the rear position lights are not working?",
+    "answers": [
+      {
+        "text": "Yes"
+      },
+      {
+        "text": "No",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 732,
+    "img": "img732",
+    "question": "Does a driver violate traffic rules if a car is parked in the indicated location without external lights turned on in conditions of reduced visibility?",
+    "answers": [
+      {
+        "text": "Yes"
+      },
+      {
+        "text": "No",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 733,
+    "question": "A driver of an emergency vehicle disregards traffic signs and markings if they are operating:",
+    "answers": [
+      {
+        "text": "A special blue flashing signal"
+      },
+      {
+        "text": "Special blue and red flashing signals"
+      },
+      {
+        "text": "Special blue flashing and sound signals",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "question": "Does a driver of a special service vehicle with a blue flashing light and sound signals have priority?",
+    "answers": [
+      {
+        "text": "In none of the cases listed in this ticket"
+      },
+      {
+        "text": "In any case, regardless of whether other road users yield"
+      },
+      {
+        "text": "Only after ensuring that others yield",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 735,
+    "question": "Are road users obligated to yield to a vehicle escorting an emergency vehicle with blue flashing and sound signals while its low beam headlights are on?",
+    "answers": [
+      {
+        "text": "Yes",
+        "correct": true
+      },
+      {
+        "text": "No"
+      }
+    ]
+  },
+  {
+    "id": 736,
+    "question": "When an emergency or special service vehicle with a blue flashing and sound signal or loudspeaker warning approaches, road users must:",
+    "answers": [
+      {
+        "text": "Immediately stop where they are"
+      },
+      {
+        "text": "Vacate the roadway and stop if necessary",
+        "correct": true
+      },
+      {
+        "text": "Move to the far left lane in the same direction of traffic"
+      }
+    ]
+  },
+  {
+    "id": 737,
+    "question": "When approaching a stationary special service vehicle with a blue flashing light, the driver must:",
+    "answers": [
+      {
+        "text": "Continue without reducing speed"
+      },
+      {
+        "text": "Reduce speed to allow for an emergency stop if necessary",
+        "correct": true
+      },
+      {
+        "text": "Increase speed to quickly pass the area"
+      }
+    ]
+  },
+  {
+    "id": 738,
+    "question": "A driver of a special service vehicle with an orange flashing light can disregard traffic signs and markings if:",
+    "answers": [
+      {
+        "text": "Low beam headlights are on"
+      },
+      {
+        "text": "Traffic safety is ensured",
+        "correct": true
+      },
+      {
+        "text": "Temporary road signs on the vehicle mandate it"
+      }
+    ]
+  },
+  {
+    "id": 739,
+    "question": "The yellow flashing light on a special service vehicle is used to:",
+    "answers": [
+      {
+        "text": "Gain priority over other road users"
+      },
+      {
+        "text": "Draw attention to avoid potential danger",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 740,
+    "question": "Installing special flashing and sound signals, as well as special vehicle paint, is regulated by:",
+    "answers": [
+      {
+        "text": "The rules set by the Minister of Finance of Georgia"
+      },
+      {
+        "text": "The rules set by the Minister of Internal Affairs of Georgia",
+        "correct": true
+      },
+      {
+        "text": "The rules set by the Minister of Justice of Georgia"
+      }
+    ]
   }
 ]
