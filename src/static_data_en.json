@@ -12351,5 +12351,319 @@
         "text": "The rules set by the Minister of Justice of Georgia"
       }
     ]
+  },
+  {
+    "id": 741,
+    "question": "Along with the flashing special signal installed on a cash-in-transit service vehicle, a special sound signal is activated:",
+    "answers": [
+      {
+        "text": "Only in case of an attack or the threat of an attack.",
+        "correct": true
+      },
+      {
+        "text": "In any situation."
+      },
+      {
+        "text": "When driving in low visibility conditions."
+      }
+    ]
+  },
+  {
+    "id": 742,
+    "question": "During arterial bleeding, a life-threatening amount of blood loss can occur within:",
+    "answers": [
+      {
+        "text": "Within 2-5 minutes"
+      },
+      {
+        "text": "Within 5-10 minutes"
+      },
+      {
+        "text": "After 10-15 minutes",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 743,
+    "img": "img743",
+    "question": "An emergency service vehicle with flashing blue lights and sound signals is escorting a truck with low beam headlights on. Which vehicle must the bus driver yield to when moving in the direction of the arrow at this traffic light?",
+    "answers": [
+      {
+        "text": "Neither vehicle"
+      },
+      {
+        "text": "Only the emergency service vehicle"
+      },
+      {
+        "text": "Both the emergency service vehicle and the truck",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 744,
+    "img": "img744",
+    "question": "In which direction can the emergency service vehicle continue at this traffic light if its blue flashing signal is on?",
+    "answers": [
+      {
+        "text": "Only straight and right"
+      },
+      {
+        "text": "Only right"
+      },
+      {
+        "text": "In all directions",
+        "correct": true
+      },
+      {
+        "text": "Only left and U-turn"
+      }
+    ]
+  },
+  {
+    "id": 745,
+    "img": "img745",
+    "question": "Is the driver of the red car required to yield to the emergency service vehicle if the emergency vehicle does not have flashing blue lights and sound signals activated?",
+    "answers": [
+      {
+        "text": "Yes."
+      },
+      {
+        "text": "No.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 746,
+    "img": "img746",
+    "question": "The emergency service vehicle has its flashing blue lights and sound signals on. The driver of the red car does not violate traffic rules if:",
+    "answers": [
+      {
+        "text": "They yield to the yellow car and move into the right lane.",
+        "correct": true
+      },
+      {
+        "text": "They do not yield to the yellow car and move into the right lane."
+      },
+      {
+        "text": "They continue driving in their current lane."
+      }
+    ]
+  },
+  {
+    "id": 747,
+    "img": "img747",
+    "question": "An emergency service vehicle is stationary with a flashing blue light on. At what speed should the driver of a passenger car proceed?",
+    "answers": [
+      {
+        "text": "90 km/h"
+      },
+      {
+        "text": "70 km/h"
+      },
+      {
+        "text": "At a speed that allows an immediate stop if necessary.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 748,
+    "img": "img748",
+    "question": "In what order should the vehicles proceed through the intersection when moving in the direction of the arrow, if the emergency vehicle's blue flashing and sound signals are on?",
+    "answers": [
+      {
+        "text": "First, the gray passenger car, then the motorcycle, and finally the emergency vehicle."
+      },
+      {
+        "text": "First, the motorcycle, then the emergency vehicle, and lastly, the gray passenger car."
+      },
+      {
+        "text": "First, the emergency vehicle, then the gray passenger car, and finally the motorcycle.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 749,
+    "img": "img749",
+    "question": "In which direction can the emergency service vehicle continue at this traffic light if its blue flashing signal is off?",
+    "answers": [
+      {
+        "text": "Only straight and right"
+      },
+      {
+        "text": "Only straight and left"
+      },
+      {
+        "text": "In all directions"
+      },
+      {
+        "text": "Only straight",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 750,
+    "img": "img750",
+    "question": "Which driver must yield when moving in the direction of the arrow if the emergency service vehicle does not have its blue flashing light on?",
+    "answers": [
+      {
+        "text": "The driver of the emergency service vehicle",
+        "correct": true
+      },
+      {
+        "text": "The bus driver"
+      }
+    ]
+  },
+  {
+    "id": 751,
+    "img": "img751",
+    "question": "A truck is performing cleaning work on the highway. Is the truck driver allowed to continue in the direction of the arrow if the vehicle's yellow flashing signal is on?",
+    "answers": [
+      {
+        "text": "Yes",
+        "correct": true
+      },
+      {
+        "text": "No"
+      }
+    ]
+  },
+  {
+    "id": 752,
+    "question": "In case of skin and muscle tissue damage due to a road accident, first aid should include:",
+    "answers": [
+      {
+        "text": "Pouring iodine solution on the wound"
+      },
+      {
+        "text": "Treating the wound's edges with iodine solution and applying a bactericidal plaster (or a clean dressing if unavailable).",
+        "correct": true
+      },
+      {
+        "text": "Removing foreign objects from the muscle tissue and applying a bactericidal plaster."
+      }
+    ]
+  },
+  {
+    "id": 753,
+    "img": "img753",
+    "question": "Which driver is allowed to proceed in the direction of the arrow at this traffic controller signal if the emergency vehicle has a flashing blue light and sound signal on?",
+    "answers": [
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "Only the driver of the blue passenger car"
+      },
+      {
+        "text": "Only the driver of the emergency service vehicle"
+      },
+      {
+        "text": "Neither driver",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 754,
+    "img": "img754",
+    "question": "In what order should the vehicles pass through the intersection when moving in the direction of the arrow, if the emergency vehicle does not have its blue flashing light on?",
+    "answers": [
+      {
+        "text": "First the motorcycle, then the passenger car, and lastly the emergency vehicle.",
+        "correct": true
+      },
+      {
+        "text": "First the passenger car, then the motorcycle, and lastly the emergency vehicle."
+      },
+      {
+        "text": "First the emergency vehicle, then the passenger car, and lastly the motorcycle."
+      }
+    ]
+  },
+  {
+    "id": 755,
+    "img": "img755",
+    "question": "In what order should the vehicles proceed through the intersection when moving in the direction of the arrow, if the emergency vehicle has its blue flashing light and sound signals on?",
+    "answers": [
+      {
+        "text": "First the passenger car, then the motorcycle, and lastly the emergency vehicle."
+      },
+      {
+        "text": "First the emergency vehicle, then the passenger car, and lastly the motorcycle.",
+        "correct": true
+      },
+      {
+        "text": "First the motorcycle, then the emergency vehicle, and lastly the passenger car."
+      }
+    ]
+  },
+  {
+    "id": 756,
+    "question": "What type of bandage is used for an ankle joint injury in a road accident?",
+    "answers": [
+      {
+        "text": "Spiral bandage"
+      },
+      {
+        "text": "Figure-eight bandage",
+        "correct": true
+      },
+      {
+        "text": "Crossover bandage"
+      }
+    ]
+  },
+  {
+    "id": 757,
+    "img": "img757",
+    "question": "Which driver must yield when moving in the direction of the arrow if the ambulance has its blue flashing light and sound signals on?",
+    "answers": [
+      {
+        "text": "The driver of the passenger car",
+        "correct": true
+      },
+      {
+        "text": "The driver of the emergency service vehicle"
+      }
+    ]
+  },
+  {
+    "id": 758,
+    "question": "When must an emergency service driver activate the hazard lights (if available)?",
+    "answers": [
+      {
+        "text": "When exiting a private area onto a public road."
+      },
+      {
+        "text": "If it is impossible to immediately remove a broken-down vehicle from the roadway.",
+        "correct": true
+      },
+      {
+        "text": "When reversing."
+      }
+    ]
+  },
+  {
+    "id": 759,
+    "question": "When must a driver activate the hazard lights (if available)?",
+    "answers": [
+      {
+        "text": "When driving in an organized convoy."
+      },
+      {
+        "text": "When making a U-turn outside of an intersection."
+      },
+      {
+        "text": "If the headlights of an oncoming vehicle cause temporary blindness, requiring the driver to stop.",
+        "correct": true
+      }
+    ]
   }
 ]
