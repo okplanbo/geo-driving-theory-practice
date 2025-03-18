@@ -12665,5 +12665,343 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 760,
+    "question": "On mountain roads and roads with a steep incline, if two vehicles cannot pass and one must reverse, does the bus have priority?",
+    "answers": [
+      {
+        "text": "Only over drivers of vehicle combinations"
+      },
+      {
+        "text": "Only over drivers of trucks and passenger cars",
+        "correct": true
+      },
+      {
+        "text": "Over all vehicles"
+      }
+    ]
+  },
+  {
+    "id": 761,
+    "question": "In conditions of poor visibility, during a forced stop in places where it is prohibited, the driver must immediately place a red flashing light (or similar effective equipment):",
+    "answers": [
+      {
+        "text": "Only after turning on the hazard warning lights"
+      },
+      {
+        "text": "Only if the hazard warning lights are absent or malfunctioning"
+      },
+      {
+        "text": "Both after turning on the hazard warning lights and if they are absent or malfunctioning",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 762,
+    "question": "During a forced stop in places where it is prohibited and where other drivers may not notice the vehicle in time, the driver must immediately place a red flashing light (or similar effective equipment):",
+    "answers": [
+      {
+        "text": "Only after turning on the hazard warning lights"
+      },
+      {
+        "text": "Only if the hazard warning lights are absent or malfunctioning"
+      },
+      {
+        "text": "Both after turning on the hazard warning lights and if they are absent or malfunctioning",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 763,
+    "question": "In urban areas, during a forced stop in prohibited places, the driver must place a warning triangle (or similar effective equipment) at a distance of at least:",
+    "answers": [
+      {
+        "text": "5 meters"
+      },
+      {
+        "text": "10 meters"
+      },
+      {
+        "text": "15 meters",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 764,
+    "question": "In non-urban areas, during a forced stop in prohibited places, the driver must place a warning triangle (or similar effective equipment) at a distance of at least:",
+    "answers": [
+      {
+        "text": "15 meters"
+      },
+      {
+        "text": "20 meters"
+      },
+      {
+        "text": "30 meters",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 765,
+    "question": "In case of a forced stop at a location where parking is prohibited and there is no warning triangle or red flashing light:",
+    "answers": [
+      {
+        "text": "Timely warning of approaching drivers is not necessary."
+      },
+      {
+        "text": "The driver must provide other similar effective means to timely warn approaching drivers.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 766,
+    "question": "If an accident participant or a broken-down vehicle cannot be removed from the roadway and is obstructing traffic, after turning on the light signals, or if they are absent or malfunctioning, the driver must:",
+    "answers": [
+      {
+        "text": "Immediately place a 'Warning Triangle,' and in conditions of poor visibility – a red flashing light",
+        "correct": true
+      },
+      {
+        "text": "Turn on the parking lights"
+      },
+      {
+        "text": "Turn on the high beam headlights"
+      }
+    ]
+  },
+  {
+    "id": 767,
+    "img": "img767",
+    "question": "Is the driver of a passenger car required to turn on hazard lights and place a warning triangle in the event of a forced stop at the location shown in the image?",
+    "answers": [
+      {
+        "text": "Only required to turn on the hazard warning lights"
+      },
+      {
+        "text": "Only required to place a warning triangle behind the car at a distance of 15 meters"
+      },
+      {
+        "text": "Not required",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 768,
+    "question": "If a road accident victim has a broken collarbone, how should they be transported?",
+    "answers": [
+      {
+        "text": "In a sitting position",
+        "correct": true
+      },
+      {
+        "text": "Lying on their side."
+      },
+      {
+        "text": "Lying on their back"
+      },
+      {
+        "text": "Lying on their stomach"
+      }
+    ]
+  },
+  {
+    "id": 769,
+    "img": "img769",
+    "question": "In this situation, does the driver violate the requirements for a forced stop if the immediate removal of the broken-down vehicle is impossible?",
+    "answers": [
+      {
+        "text": "Violates",
+        "correct": true
+      },
+      {
+        "text": "Does not violate"
+      }
+    ]
+  },
+  {
+    "id": 770,
+    "question": "At which of the listed locations is a U-turn not prohibited?",
+    "answers": [
+      {
+        "text": "At an intersection",
+        "correct": true
+      },
+      {
+        "text": "On a bridge, overpasses, or under them"
+      },
+      {
+        "text": "At a railway crossing"
+      },
+      {
+        "text": "In a tunnel"
+      }
+    ]
+  },
+  {
+    "id": 771,
+    "question": "A driver of a vehicle that is forced to stop on a highway due to a technical malfunction is required to:",
+    "answers": [
+      {
+        "text": "Take all measures to remove the vehicle from the roadway, and if this is not possible immediately, turn on the hazard warning lights (if available) and place a warning sign at a sufficient distance to timely warn approaching drivers",
+        "correct": true
+      },
+      {
+        "text": "Immediately contact a technical service, and until their arrival, move the vehicle to the far right lane of the roadway, turn on the hazard lights and low beam headlights"
+      }
+    ]
+  },
+  {
+    "id": 772,
+    "question": "If there is no designated waiting platform, where is it permitted to wait for public transport and taxis?",
+    "answers": [
+      {
+        "text": "Only on the far right side of the roadway"
+      },
+      {
+        "text": "Only on a 'safety island' located in the middle of the roadway"
+      },
+      {
+        "text": "Only on the sidewalk or roadside",
+        "correct": true
+      },
+      {
+        "text": "At any of the locations mentioned in this question"
+      }
+    ]
+  },
+  {
+    "id": 773,
+    "question": "If a victim of a road traffic accident loses consciousness due to a skull or brain injury, they should be:",
+    "answers": [
+      {
+        "text": "Seated"
+      },
+      {
+        "text": "Laid on their side",
+        "correct": true
+      },
+      {
+        "text": "Laid on their back"
+      }
+    ]
+  },
+  {
+    "id": 774,
+    "question": "Who issues a certificate confirming that a vehicle has passed roadworthiness testing?",
+    "answers": [
+      {
+        "text": "Ministry of Internal Affairs of Georgia"
+      },
+      {
+        "text": "Testing center",
+        "correct": true
+      },
+      {
+        "text": "LEPL – Land Transport Agency"
+      }
+    ]
+  },
+  {
+    "id": 775,
+    "question": "Where should the certificate confirming a vehicle has passed roadworthiness testing be placed on the windshield?",
+    "answers": [
+      {
+        "text": "In the lower left corner",
+        "correct": true
+      },
+      {
+        "text": "In the lower right corner"
+      },
+      {
+        "text": "In the upper left corner"
+      },
+      {
+        "text": "In the upper right corner"
+      }
+    ]
+  },
+  {
+    "id": 776,
+    "question": "How should areas of skin damaged by sulfuric acid in a road accident be treated?",
+    "answers": [
+      {
+        "text": "Clean with alcohol"
+      },
+      {
+        "text": "Treat with an iodine solution"
+      },
+      {
+        "text": "Wash with plenty of water",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 777,
+    "question": "Does a driver's emotional state affect road safety?",
+    "answers": [
+      {
+        "text": "Yes, it does",
+        "correct": true
+      },
+      {
+        "text": "No, it does not"
+      }
+    ]
+  },
+  {
+    "id": 778,
+    "question": "If the registration document does not specify the permitted maximum weight, what is considered the permitted maximum weight of a vehicle?",
+    "answers": [
+      {
+        "text": "The maximum gross weight established by the manufacturer for the specified vehicle",
+        "correct": true
+      },
+      {
+        "text": "The weight specified in the transporter's or forwarder's consignment note"
+      },
+      {
+        "text": "The actual weight of the vehicle"
+      }
+    ]
+  },
+  {
+    "id": 779,
+    "question": "Is it prohibited for a vehicle to operate on the road if its actual weight exceeds the permitted maximum weight?",
+    "answers": [
+      {
+        "text": "Not prohibited if it is a motor vehicle with a single drive axle and the maximum load on the drive axle does not exceed 11.5 tons"
+      },
+      {
+        "text": "Not prohibited if it is an oversized (overweight) vehicle that is operating on the road in accordance with the legally established procedure and with approval from the competent authorities, following the conditions of that approval"
+      },
+      {
+        "text": "Prohibited in all cases",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 780,
+    "question": "How does driver fatigue affect attention and reaction time while driving?",
+    "answers": [
+      {
+        "text": "Attention decreases, reaction time increases",
+        "correct": true
+      },
+      {
+        "text": "Attention decreases, reaction time decreases"
+      },
+      {
+        "text": "Neither attention nor reaction time is affected"
+      }
+    ]
   }
 ]
