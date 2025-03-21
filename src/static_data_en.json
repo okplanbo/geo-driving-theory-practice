@@ -13003,5 +13003,321 @@
         "text": "Neither attention nor reaction time is affected"
       }
     ]
+  },
+  {
+    "id": 781,
+    "question": "In case of a lower leg fracture caused by a road accident, a splint must be applied to the injured leg:",
+    "answers": [
+      {
+        "text": "On both sides, from the foot to the middle of the thigh",
+        "correct": true
+      },
+      {
+        "text": "On the outer side, from the foot to the pelvis"
+      }
+    ]
+  },
+  {
+    "id": 782,
+    "question": "Is it mandatory to record the exact time when a tourniquet is applied to stop bleeding from limbs injured in a road accident?",
+    "answers": [
+      {
+        "text": "Yes, it is mandatory",
+        "correct": true
+      },
+      {
+        "text": "Not mandatory"
+      }
+    ]
+  },
+  {
+    "id": 783,
+    "question": "In case of a lower leg bone injury caused by a road accident, the tourniquet to stop the bleeding should be applied:",
+    "answers": [
+      {
+        "text": "On the lower leg, above the wound"
+      },
+      {
+        "text": "On the thigh",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 784,
+    "question": "Which of the following requirements are not mandatory when placing or securing cargo on a vehicle?",
+    "answers": [
+      {
+        "text": "There must be no danger to other road users, no damage to state, private or public property, the cargo must not drag or spill on the road."
+      },
+      {
+        "text": "Visibility and field of view must not be limited, vehicle stability must not be compromised, and handling must not be impaired."
+      },
+      {
+        "text": "Lights, brake lights, turn signals, reflectors, license plates, country identification signs, or hand signals must not be obstructed."
+      },
+      {
+        "text": "All requirements listed in this question must be met",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 785,
+    "question": "Further movement of the vehicle is prohibited:",
+    "answers": [
+      {
+        "text": "If the service brake system is malfunctioning.",
+        "correct": true
+      },
+      {
+        "text": "If the fuel system is leaking."
+      },
+      {
+        "text": "If the muffler is malfunctioning."
+      },
+      {
+        "text": "If any of the conditions listed in this question are present"
+      }
+    ]
+  },
+  {
+    "id": 786,
+    "question": "The driver is obligated to check and ensure the vehicle’s technical condition:",
+    "answers": [
+      {
+        "text": "Only before the trip"
+      },
+      {
+        "text": "Before and during the trip",
+        "correct": true
+      },
+      {
+        "text": "Only during the trip"
+      }
+    ]
+  },
+  {
+    "id": 787,
+    "question": "Further movement of the vehicle is prohibited if:",
+    "answers": [
+      {
+        "text": "The anti-theft system is not working."
+      },
+      {
+        "text": "The trailer hitch system in the vehicle combination is faulty.",
+        "correct": true
+      },
+      {
+        "text": "The speedometer is not working."
+      },
+      {
+        "text": "Any of the situations listed in this question apply"
+      }
+    ]
+  },
+  {
+    "id": 788,
+    "question": "The driver is prohibited from continuing to drive the vehicle if:",
+    "answers": [
+      {
+        "text": "The horn is not working"
+      },
+      {
+        "text": "At night, both high and low beam headlights (or all) are off, or the rear lights are off on roads without street lighting or in poor visibility conditions",
+        "correct": true
+      },
+      {
+        "text": "The windshield wipers are not working as intended"
+      },
+      {
+        "text": "There is a fuel system leak"
+      }
+    ]
+  },
+  {
+    "id": 789,
+    "question": "The driver is prohibited from continuing to drive the vehicle if:",
+    "answers": [
+      {
+        "text": "The exhaust gas system is faulty"
+      },
+      {
+        "text": "There is no rear-view mirror as required by the vehicle's design"
+      },
+      {
+        "text": "The windshield wiper on the driver’s side does not work during fog, rain, or snow",
+        "correct": true
+      },
+      {
+        "text": "The seat belts are not operational"
+      }
+    ]
+  },
+  {
+    "id": 790,
+    "question": "If a person injured in an accident is not breathing but has a pulse in the carotid artery, how often should the pulse be checked?",
+    "answers": [
+      {
+        "text": "Every 2 minutes",
+        "correct": true
+      },
+      {
+        "text": "Every 5 minutes"
+      },
+      {
+        "text": "Every 6 minutes"
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "question": "During operational-investigative or procedural actions, upon request by an authorized Ministry of Internal Affairs representative, the driver must present:",
+    "answers": [
+      {
+        "text": "A medical certificate confirming their health condition"
+      },
+      {
+        "text": "Only a personal identification document",
+        "correct": true
+      },
+      {
+        "text": "Vehicle registration certificate"
+      }
+    ]
+  },
+  {
+    "id": 792,
+    "question": "Is a driver involved in a traffic accident required to make sure there are no injured or deceased persons as a result of the accident?",
+    "answers": [
+      {
+        "text": "Yes, required",
+        "correct": true
+      },
+      {
+        "text": "Only if the driver is a doctor"
+      },
+      {
+        "text": "Not required if an ambulance has been called"
+      },
+      {
+        "text": "Not required if the accident was not the driver’s fault"
+      }
+    ]
+  },
+  {
+    "id": 793,
+    "question": "If there is no urgent need to go to a medical facility or transport the injured, a driver involved in a traffic accident must:",
+    "answers": [
+      {
+        "text": "Take their vehicle to the nearest patrol police department and report the incident"
+      },
+      {
+        "text": "Draw a diagram of the incident, collect witness statements, and present the documents at the nearest police department"
+      },
+      {
+        "text": "Remain at the scene and wait for an authorized person to arrive",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 794,
+    "question": "A driver involved in a traffic accident must immediately report the incident to:",
+    "answers": [
+      {
+        "text": "The relevant service within the Ministry of Internal Affairs",
+        "correct": true
+      },
+      {
+        "text": "Local self-government bodies"
+      },
+      {
+        "text": "Ministry of Health, Labour, and Social Affairs (Georgia)"
+      }
+    ]
+  },
+  {
+    "id": 795,
+    "question": "Under which circumstances may a driver involved in a traffic accident leave the scene without waiting for an authorized official?",
+    "answers": [
+      {
+        "text": "If it is clearly not the driver’s fault"
+      },
+      {
+        "text": "If there is an urgent need to bring the driver or injured person to a medical facility using the vehicle",
+        "correct": true
+      },
+      {
+        "text": "If the other party involved in the accident fled the scene"
+      },
+      {
+        "text": "In any of the situations listed in this question"
+      }
+    ]
+  },
+  {
+    "id": 796,
+    "question": "Is a driver involved in a traffic accident required to provide first aid to an injured person?",
+    "answers": [
+      {
+        "text": "Yes, required",
+        "correct": true
+      },
+      {
+        "text": "Not required if an ambulance has been called"
+      },
+      {
+        "text": "Required only if the driver is a doctor"
+      },
+      {
+        "text": "Not required"
+      }
+    ]
+  },
+  {
+    "id": 797,
+    "question": "If there is an urgent and necessary need to transport the injured to a medical facility, the driver involved in a traffic accident must:",
+    "answers": [
+      {
+        "text": "Wait at the scene for a police officer and only transport the injured person with their permission"
+      },
+      {
+        "text": "Send the injured person with another passing vehicle to the nearest medical facility, or if that’s not possible, do it themselves",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 798,
+    "question": "In which case is a driver involved in a traffic accident not obligated to transport the injured to a medical facility?",
+    "answers": [
+      {
+        "text": "If it is clear the driver was not at fault"
+      },
+      {
+        "text": "If moving the vehicle would destroy evidence important for determining responsibility"
+      },
+      {
+        "text": "If there is reasonable suspicion that transport may cause harm to the injured person",
+        "correct": true
+      },
+      {
+        "text": "In any of the situations listed in this question"
+      }
+    ]
+  },
+  {
+    "id": 799,
+    "question": "Can drivers involved in a traffic accident mutually assess the situation, independently draw a diagram of the incident, sign it, and report to the nearest patrol police station?",
+    "answers": [
+      {
+        "text": "No, because they are obligated to remain at the scene until an authorized person arrives"
+      },
+      {
+        "text": "Yes, but only if no one was injured as a result of the traffic accident",
+        "correct": true
+      }
+    ]
   }
 ]
