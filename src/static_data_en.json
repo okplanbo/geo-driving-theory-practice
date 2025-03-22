@@ -13650,5 +13650,350 @@
         "text": "On the outskirts of a non-urban area"
       }
     ]
+  },
+  {
+    "id": 821,
+    "question": "Driving lessons on public roads are allowed:",
+    "answers": [
+      {
+        "text": "Only in a training vehicle with an instructor",
+        "correct": true
+      },
+      {
+        "text": "In any vehicle with its owner"
+      },
+      {
+        "text": "In both a training vehicle with an instructor and any vehicle with its owner"
+      }
+    ]
+  },
+  {
+    "id": 822,
+    "img": "img822",
+    "question": "In which direction is a learner allowed to drive a training vehicle?",
+    "answers": [
+      {
+        "text": "Direction A"
+      },
+      {
+        "text": "Direction B"
+      },
+      {
+        "text": "Both direction A and direction B",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 823,
+    "img": "img823",
+    "question": "Is it prohibited for a training vehicle to move in the direction of the arrow if a learner is driving?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 824,
+    "img": "img824",
+    "question": "Is it prohibited for a training vehicle to move in the direction of the arrow if a learner is driving?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 825,
+    "img": "img825",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Allows movement only straight ahead",
+        "correct": true
+      },
+      {
+        "text": "Indicates a one-way road or lane where vehicles move in one direction across the full width"
+      },
+      {
+        "text": "Prohibits stopping and parking"
+      }
+    ]
+  },
+  {
+    "id": 826,
+    "img": "img826",
+    "question": "This road sign:",
+    "answers": [
+      {
+        "text": "Indicates a road or lane with one-way traffic"
+      },
+      {
+        "text": "Prohibits stopping and parking"
+      },
+      {
+        "text": "Allows movement only to the right",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 827,
+    "img": "img827",
+    "question": "Which of the signs indicates passing a median, island, or other safety obstacle only on the right?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 828,
+    "img": "img828",
+    "question": "Which of the signs indicates passing a median, island, or other safety obstacle either on the left or right?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 829,
+    "img": "img829",
+    "question": "Which of the signs indicates a bicycle path that is structurally separated from the road or other road elements?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II",
+        "correct": true
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 830,
+    "img": "img830",
+    "question": "Which of the signs sets a minimum speed limit on the road?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III"
+      },
+      {
+        "text": "IV",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 831,
+    "img": "img831",
+    "question": "Which of the signs indicates a road section where vehicles with no more than two driven wheels must have snow chains installed?",
+    "answers": [
+      {
+        "text": "I"
+      },
+      {
+        "text": "II"
+      },
+      {
+        "text": "III",
+        "correct": true
+      },
+      {
+        "text": "IV"
+      }
+    ]
+  },
+  {
+    "id": 832,
+    "img": "img832",
+    "question": "Which driver is violating traffic rules by entering the yard in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "The white car driver"
+      },
+      {
+        "text": "The yellow car driver",
+        "correct": true
+      },
+      {
+        "text": "Both drivers"
+      },
+      {
+        "text": "Neither driver"
+      }
+    ]
+  },
+  {
+    "id": 833,
+    "img": "img833",
+    "question": "The driver of the passenger car is allowed to continue driving:",
+    "answers": [
+      {
+        "text": "Only straight and right"
+      },
+      {
+        "text": "Only straight and left"
+      },
+      {
+        "text": "Only straight"
+      },
+      {
+        "text": "In all directions",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 834,
+    "img": "img834",
+    "question": "The driver of the passenger car is allowed to continue driving:",
+    "answers": [
+      {
+        "text": "Only straight",
+        "correct": true
+      },
+      {
+        "text": "Only to the right"
+      },
+      {
+        "text": "Straight and to the right"
+      }
+    ]
+  },
+  {
+    "id": 835,
+    "img": "img835",
+    "question": "The driver of the passenger car is allowed to continue driving:",
+    "answers": [
+      {
+        "text": "Only to the left"
+      },
+      {
+        "text": "Only to make a U-turn"
+      },
+      {
+        "text": "To the left and for a U-turn",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 836,
+    "img": "img836",
+    "question": "Will the driver of the passenger car violate traffic rules by moving in the direction of the arrow at 90 km/h?",
+    "answers": [
+      {
+        "text": "Yes",
+        "correct": true
+      },
+      {
+        "text": "No"
+      }
+    ]
+  },
+  {
+    "id": 837,
+    "img": "img837",
+    "question": "Which driver is violating traffic rules if the green car enters the yard and the yellow car is stopped?",
+    "answers": [
+      {
+        "text": "Only the green car driver"
+      },
+      {
+        "text": "Only the yellow car driver",
+        "correct": true
+      },
+      {
+        "text": "Both drivers"
+      }
+    ]
+  },
+  {
+    "id": 838,
+    "img": "img838",
+    "question": "Is it prohibited for the driver of the passenger car to make a U-turn in the direction of the arrow in this situation?",
+    "answers": [
+      {
+        "text": "Prohibited"
+      },
+      {
+        "text": "Not prohibited",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 839,
+    "img": "img839",
+    "question": "Is it prohibited for the driver of the passenger car to drive in the direction of the arrow in this situation?",
+    "answers": [
+      {
+        "text": "Prohibited",
+        "correct": true
+      },
+      {
+        "text": "Not prohibited"
+      }
+    ]
+  },
+  {
+    "id": 840,
+    "img": "img840",
+    "question": "Which vehicle driver is not violating traffic rules by driving in the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Only the passenger car driver",
+        "correct": true
+      },
+      {
+        "text": "Only the motorcycle driver"
+      },
+      {
+        "text": "Both drivers"
+      }
+    ]
   }
 ]
