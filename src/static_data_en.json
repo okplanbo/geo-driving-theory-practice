@@ -13319,5 +13319,336 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 800,
+    "question": "If no one was injured in the accident, based on an agreement between the parties and after drawing up the accident diagram, the drivers involved in the accident must:",
+    "answers": [
+      {
+        "text": "Go to the nearest patrol police station to register the incident",
+        "correct": true
+      },
+      {
+        "text": "Agree on compensation terms without the need to report to the patrol police or officially register the incident"
+      }
+    ]
+  },
+  {
+    "id": 801,
+    "question": "If a driver involved in an accident is forced to leave the scene due to the need to go to a medical facility, they must at the facility:",
+    "answers": [
+      {
+        "text": "Identify themselves (provide ID and vehicle registration number) and, if possible, return to the accident scene",
+        "correct": true
+      },
+      {
+        "text": "Identify themselves, the victim, and witnesses of the accident and provide an approximate accident diagram"
+      }
+    ]
+  },
+  {
+    "id": 802,
+    "question": "Do participants in a traffic accident have the right to receive first aid, rescue assistance, or other help from authorized state or local government officials or other authorized persons?",
+    "answers": [
+      {
+        "text": "Yes, they do",
+        "correct": true
+      },
+      {
+        "text": "No, they do not"
+      }
+    ]
+  },
+  {
+    "id": 803,
+    "question": "If a victim of a traffic accident has broken ribs and sternum, how should they be transported?",
+    "answers": [
+      {
+        "text": "Lying on their side"
+      },
+      {
+        "text": "In a sitting or semi-sitting position",
+        "correct": true
+      },
+      {
+        "text": "Lying on their back"
+      }
+    ]
+  },
+  {
+    "id": 804,
+    "question": "Braking sharply to stop a vehicle is allowed:",
+    "answers": [
+      {
+        "text": "Only if a traffic controller demands the vehicle to stop"
+      },
+      {
+        "text": "Only when red and yellow traffic lights are on simultaneously"
+      },
+      {
+        "text": "Only to avoid a traffic accident",
+        "correct": true
+      },
+      {
+        "text": "In any of the cases listed in this question"
+      }
+    ]
+  },
+  {
+    "id": 805,
+    "question": "If it is not possible to immediately remove or tow a vehicle involved in a traffic accident and it obstructs other road users, the driver of that vehicle must turn on:",
+    "answers": [
+      {
+        "text": "Low or high beam headlights and rear position lights"
+      },
+      {
+        "text": "Hazard warning lights",
+        "correct": true
+      },
+      {
+        "text": "Sound signal"
+      }
+    ]
+  },
+  {
+    "id": 806,
+    "question": "After turning on the hazard lights on a vehicle involved in an accident, or if such lights are absent or faulty, the driver must immediately:",
+    "answers": [
+      {
+        "text": "Turn on high beam headlights"
+      },
+      {
+        "text": "Turn on the sound signal"
+      },
+      {
+        "text": "Place a warning triangle, and in low visibility – a red flashing light",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 807,
+    "question": "In conditions of poor visibility, after turning on the hazard lights on a vehicle involved in an accident, or if such lights are absent or faulty, the driver must immediately:",
+    "answers": [
+      {
+        "text": "Place a red flashing light, and if unavailable, provide timely warning to approaching drivers using another similar effective means",
+        "correct": true
+      },
+      {
+        "text": "Turn on rear position lights"
+      },
+      {
+        "text": "Turn on front and rear fog lights"
+      }
+    ]
+  },
+  {
+    "id": 808,
+    "question": "The right to drive a motorcycle, bus, passenger or cargo car is granted only to a person:",
+    "answers": [
+      {
+        "text": "Whose health condition meets the requirements defined by Georgian law for operating a vehicle"
+      },
+      {
+        "text": "Who has been granted the right to drive a vehicle of the corresponding category/subcategory under Georgian law, and this right has not been suspended or revoked"
+      },
+      {
+        "text": "Who meets all the conditions listed in this question",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 809,
+    "question": "A person with a category B driver's license also has the right to drive a vehicle with no more than 8 passenger seats (excluding the driver’s seat) and a maximum permitted mass that:",
+    "answers": [
+      {
+        "text": "Exceeds 4500 kg"
+      },
+      {
+        "text": "Exceeds 3500 kg but does not exceed 4500 kg"
+      },
+      {
+        "text": "Does not exceed 3500 kg",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 810,
+    "question": "A person with a category B driver’s license also has the right to drive a passenger vehicle with a maximum permitted mass not exceeding 3500 kg and passenger seats (excluding the driver’s seat):",
+    "answers": [
+      {
+        "text": "No more than 8",
+        "correct": true
+      },
+      {
+        "text": "More than 16"
+      },
+      {
+        "text": "More than 8 but no more than 16"
+      }
+    ]
+  },
+  {
+    "id": 811,
+    "question": "Can a driver with a category B license drive a category B vehicle with a trailer, where the trailer’s maximum permitted mass does not exceed 750 kg and does not exceed the vehicle's unladen weight, and the total combination does not exceed 3500 kg?",
+    "answers": [
+      {
+        "text": "No"
+      },
+      {
+        "text": "Yes",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 812,
+    "question": "Can a driver with a BE license drive a category BE vehicle with a trailer if the trailer’s maximum permitted mass exceeds 750 kg and the total exceeds 3500 kg?",
+    "answers": [
+      {
+        "text": "Yes",
+        "correct": true
+      },
+      {
+        "text": "No"
+      }
+    ]
+  },
+  {
+    "id": 813,
+    "img": "img813",
+    "question": "Will the driver of the black car violate traffic rules by following the direction of the arrow?",
+    "answers": [
+      {
+        "text": "Yes"
+      },
+      {
+        "text": "No",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 814,
+    "question": "A person with a B1 subcategory license is allowed to drive:",
+    "answers": [
+      {
+        "text": "Only a quad bike"
+      },
+      {
+        "text": "Only a motorized tricycle"
+      },
+      {
+        "text": "A motorized tricycle, a quad bike, and a moped",
+        "correct": true
+      },
+      {
+        "text": "Only a moped"
+      }
+    ]
+  },
+  {
+    "id": 815,
+    "question": "A person with a category B license also has the right to drive a vehicle of subcategory:",
+    "answers": [
+      {
+        "text": "A1"
+      },
+      {
+        "text": "C1"
+      },
+      {
+        "text": "B1",
+        "correct": true
+      },
+      {
+        "text": "A1 and B1"
+      }
+    ]
+  },
+  {
+    "id": 816,
+    "question": "A person with a category B license is allowed to drive a wheeled agricultural tractor with a maximum permitted mass that:",
+    "answers": [
+      {
+        "text": "Exceeds 4250 kg but not more than 8250 kg"
+      },
+      {
+        "text": "Exceeds 4250 kg but not more than 12000 kg"
+      },
+      {
+        "text": "Does not exceed 4250 kg",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 817,
+    "question": "A person with a category B license is allowed to drive a wheeled agricultural tractor with a trailer if the total maximum permitted mass:",
+    "answers": [
+      {
+        "text": "Does not exceed 4250 kg",
+        "correct": true
+      },
+      {
+        "text": "Exceeds 4250 kg but not more than 5500 kg"
+      },
+      {
+        "text": "Exceeds 4250 kg but not more than 75000 kg"
+      }
+    ]
+  },
+  {
+    "id": 818,
+    "question": "Practical driving lessons (driving school) are allowed on roads approved by:",
+    "answers": [
+      {
+        "text": "Local self-government authorities",
+        "correct": true
+      },
+      {
+        "text": "The head of the driver training institution"
+      },
+      {
+        "text": "The decision of the instructor"
+      }
+    ]
+  },
+  {
+    "id": 819,
+    "question": "A training vehicle used for practical driving lessons must be equipped with:",
+    "answers": [
+      {
+        "text": "Only clutch and additional brake pedals for the instructor"
+      },
+      {
+        "text": "Only a rearview mirror for the instructor"
+      },
+      {
+        "text": "Only an identification sign for the instructor"
+      },
+      {
+        "text": "All devices listed in this question",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 820,
+    "question": "Initial practical driving training is permitted:",
+    "answers": [
+      {
+        "text": "On any road with low traffic"
+      },
+      {
+        "text": "Only on a closed area or autodrome",
+        "correct": true
+      },
+      {
+        "text": "On the outskirts of a non-urban area"
+      }
+    ]
   }
 ]
