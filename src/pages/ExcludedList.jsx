@@ -1,9 +1,5 @@
 import { Link, Button } from "@chakra-ui/react";
 
-import * as packageCfg from "../../package.json";
-
-const appName = packageCfg.name;
-
 export function ExcludedList({ excludedIds, currentQuestionNumber, data }) {
   const urlEnd = currentQuestionNumber ? `/?q=${currentQuestionNumber}` : "/";
 
@@ -21,7 +17,7 @@ export function ExcludedList({ excludedIds, currentQuestionNumber, data }) {
                 mx={2}
                 fontWeight="normal"
                 color="teal.500"
-                href={`/${appName}/?q=${id}`}
+                href={`/?q=${id}`}
               >
                 #{id} - {data[id - 1].question}
               </Link>
@@ -32,12 +28,7 @@ export function ExcludedList({ excludedIds, currentQuestionNumber, data }) {
       {excludedIds.length === 0 && (
         <p className="mt-5">No excluded questions yet.</p>
       )}
-      <Link
-        my={6}
-        fontWeight="normal"
-        color="teal.500"
-        href={`/${appName}${urlEnd}`}
-      >
+      <Link my={6} fontWeight="normal" color="teal.500" href={`${urlEnd}`}>
         <Button>Back</Button>
       </Link>
     </div>

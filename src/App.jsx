@@ -9,11 +9,8 @@ import { Home } from "./pages/Home";
 import { ExcludedList } from "./pages/ExcludedList";
 import { About } from "./pages/About";
 
-import * as packageCfg from "../package.json";
-
 import "./App.css";
 
-const appName = packageCfg.name;
 const lastId = data[data.length - 1].id;
 
 const theme = extendTheme({
@@ -127,12 +124,12 @@ function App() {
         <Router>
           <Routes>
             <Route
-              path={`${appName}/`}
+              path="/"
               element={
                 <Home
                   excludedIds={excludedIds}
                   navigateHandler={navigateHandler}
-                  updateExcluded={updateExcluded} // yes, still refusing to use context api :>
+                  updateExcluded={updateExcluded}
                   currentQuestionNumber={currentQuestionNumber}
                   handleRandomize={handleRandomize}
                   handleNext={handleNext}
@@ -141,7 +138,7 @@ function App() {
               }
             />
             <Route
-              path={`${appName}/excluded`}
+              path="/excluded"
               element={
                 <ExcludedList
                   excludedIds={excludedIds}
@@ -150,7 +147,7 @@ function App() {
                 />
               }
             />
-            <Route path={`${appName}/about`} element={<About />} />
+            <Route path="/about" element={<About />} />
           </Routes>
         </Router>
       )}
