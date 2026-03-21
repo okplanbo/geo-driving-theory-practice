@@ -3,6 +3,11 @@ import { Link, Button } from "@chakra-ui/react";
 export function ExcludedList({ excludedIds, currentQuestionNumber, data }) {
   const urlEnd = currentQuestionNumber ? `/?q=${currentQuestionNumber}` : "/";
 
+  const questionText = (id) => {
+    const question = data.find((question) => question.id === id);
+    return question ? question.question : "Question text not found";
+  };
+
   return (
     <div className="flex w-full flex-col items-center px-6">
       <h1 className="text-xl font-bold md:text-3xl">Excluded Questions</h1>
@@ -19,7 +24,7 @@ export function ExcludedList({ excludedIds, currentQuestionNumber, data }) {
                 color="teal.500"
                 href={`/?q=${id}`}
               >
-                #{id} - {data[id - 1].question}
+                #{id} - {questionText(id)}
               </Link>
             </li>
           ))}

@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { ChakraProvider, Button, extendTheme } from "@chakra-ui/react";
 
 import { getExcludedFromDB, updateExcludedToDB } from "./db";
-import data from "./static_data_ru.json";
+import data from "./static_data.json";
 
 import { Home } from "./pages/Home";
 import { ExcludedList } from "./pages/ExcludedList";
@@ -11,10 +11,7 @@ import { About } from "./pages/About";
 
 import "./App.css";
 
-const lastId = data[data.length - 1].id;
-
 const theme = extendTheme({
-  // static light for now
   styles: {
     global: {
       html: {
@@ -30,25 +27,12 @@ const theme = extendTheme({
   },
 });
 
-/* TBD:
- * finish translations, i18n: UI, language switcher
- * images to static storage in another repo
- * move project to new domain
- * google auth
- * context, back/next buttons, categories, original ids
- * load q separately and save them to db with versioning to reuse later
- * table of all q with pagination and filters
- * dark mode, font consistency for i18n
- * 30 question training: start, finish view, 3 mistakes to fail
- * offline mode
- */
-
 const getRandomQuestionNumber = (excludedIds) => {
   const activeQuestions = data.filter((question) => {
     return !excludedIds.includes(question.id);
   });
-  const randomArrayId = Math.floor(Math.random() * activeQuestions.length);
-  return activeQuestions[randomArrayId].id;
+  const randomId = Math.floor(Math.random() * activeQuestions.length);
+  return activeQuestions[randomId].id;
 };
 
 function App() {
@@ -68,14 +52,12 @@ function App() {
 
     const randomQuestionNumber = getRandomQuestionNumber(storedExcludedIds);
 
-    setIsNumberInURLGood(
-      !isNaN(numericParam) && // if it's a number
-        numericParam > 0 && // if it's positive
-        numericParam <= lastId, // if it's not bigger than last id
-    );
+    const existingIds = data.map((question) => question.id);
+
+    setIsNumberInURLGood(existingIds.includes(numericParam));
 
     setCurrentQuestionNumber(
-      questionParam ? Number(questionParam) : randomQuestionNumber,
+      questionParam ? numericParam : randomQuestionNumber,
     );
 
     if (!questionParam) {
@@ -108,9 +90,11 @@ function App() {
   };
 
   const handleNext = () => {
-    const questionNumber =
-      currentQuestionNumber < lastId ? currentQuestionNumber + 1 : 1;
-    goToQuestion(questionNumber);
+    const currentIndex = data.findIndex(
+      (question) => question.id === currentQuestionNumber,
+    );
+    const nextQuestionNumber = data[(currentIndex + 1) % data.length].id;
+    goToQuestion(nextQuestionNumber);
   };
 
   const updateExcluded = (newIds) => {

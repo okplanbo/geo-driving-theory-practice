@@ -18,7 +18,8 @@ export function Home({
   updateExcluded,
   navigateHandler,
 }) {
-  const question = data[currentQuestionNumber - 1] || null;
+  const question =
+    data.find((question) => question.id === currentQuestionNumber) || null;
 
   useEffect(() => {
     history.listen((update) => {
@@ -46,7 +47,6 @@ export function Home({
           <QuestionCard
             key={question.id}
             testSize={30}
-            // number={index + 1}
             question={question}
             excludedIds={excludedIds}
             updateExcluded={updateExcluded}
@@ -75,7 +75,7 @@ export function Home({
             Excluded: {excludedIds.length}
           </Link>
         ) : (
-          <>Excluded: {excludedIds.length}</>
+          <>Excluded: 0</>
         )}
       </div>
     </>
