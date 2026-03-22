@@ -67,16 +67,21 @@ export function Home({
           Next
         </Button>
       </div>
-      <div className="flex flex-row justify-center gap-4 text-sm text-neutral-400">
-        <span>Questions: {data.length}</span>
-        <span>Active: {data.length - excludedIds.length}</span>
-        {excludedIds.length ? (
-          <Link className="cursor-pointer font-normal" to="excluded">
-            Excluded: {excludedIds.length}
-          </Link>
-        ) : (
-          <>Excluded: 0</>
-        )}
+      <div className="flex flex-col items-center gap-4 text-neutral-500">
+        <div>Questions in total: {data.length}</div>
+        <div className="flex flex-row justify-center gap-4">
+          <span>Active: {data.length - excludedIds.length}</span>
+          {excludedIds.length ? (
+            <Link className="font-normal underline" to="excluded">
+              Excluded: {excludedIds.length}
+            </Link>
+          ) : (
+            <>Excluded: 0</>
+          )}
+        </div>
+        <Link className="font-normal underline" to="about">
+          About
+        </Link>
       </div>
     </>
   );

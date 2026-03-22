@@ -59,7 +59,7 @@ const QuestionCard = ({ question, excludedIds, updateExcluded }) => {
           src={`${img}.avif`}
           alt="Question Image"
           mb="5"
-          className="rounded-lg"
+          className="self-center rounded-lg"
         />
       ) : (
         <Divider className="mb-5" />
