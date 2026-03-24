@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 import { createBrowserHistory } from "history";
 
-import { Button, Tooltip } from "@chakra-ui/react";
+import { Button, Tooltip, Select } from "@chakra-ui/react";
 
 import QuestionCard from "./../components/QuestionCard";
 import { useEffect } from "react";
@@ -17,6 +17,8 @@ export function Home({
   handleNext,
   updateExcluded,
   navigateHandler,
+  setLanguage,
+  language,
 }) {
   const question =
     data.find((question) => question.id === currentQuestionNumber) || null;
@@ -29,24 +31,38 @@ export function Home({
     });
   }, []);
 
+  const handleLanguageChange = (e) => {
+    const lang = e.target.value;
+    setLanguage(lang);
+    localStorage.setItem("language", lang);
+  };
+
   return (
     <>
-      <div className="flex flex-row items-baseline md:items-start">
+      <div className="flex flex-row items-baseline justify-between md:items-start">
         <h1 className="mr-4 text-xl font-bold md:text-3xl">B,B1 theory test</h1>
-        <Tooltip
-          maxWidth={200}
-          label="Pick a new random question from the active ones"
-        >
-          <Button colorScheme="teal" onClick={handleRandomize}>
-            Randomize
-          </Button>
-        </Tooltip>
+        <div className="flex flex-row gap-2">
+          <Select value={language} onChange={handleLanguageChange} width="80px">
+            <option value="en">En</option>
+            <option value="ru">Ru</option>
+          </Select>
+
+          <Tooltip
+            maxWidth={200}
+            label="Pick a new random question from the active ones"
+          >
+            <Button colorScheme="teal" onClick={handleRandomize}>
+              Randomize
+            </Button>
+          </Tooltip>
+        </div>
       </div>
       <div className="max-w-3xl p-6">
-        {question && (
+        {question && language && (
           <QuestionCard
             key={question.id}
             testSize={30}
+            language={language}
             question={question}
             excludedIds={excludedIds}
             updateExcluded={updateExcluded}

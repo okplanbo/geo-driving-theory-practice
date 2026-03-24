@@ -3,7 +3,12 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { ChakraProvider, Button, extendTheme } from "@chakra-ui/react";
 
 import { getExcludedFromDB, updateExcludedToDB } from "./db";
-import data from "./static_data.json";
+
+const getDataByLanguage = async () => {
+  const language = localStorage.getItem("language") || "en";
+  const data = await import(`./static_data_${language}.json`);
+  return data.default;
+};
 
 import { Home } from "./pages/Home";
 import { ExcludedList } from "./pages/ExcludedList";
@@ -27,22 +32,29 @@ const theme = extendTheme({
   },
 });
 
-const getRandomQuestionNumber = (excludedIds) => {
-  const activeQuestions = data.filter((question) => {
-    return !excludedIds.includes(question.id);
-  });
-  const randomId = Math.floor(Math.random() * activeQuestions.length);
-  return activeQuestions[randomId].id;
-};
-
 function App() {
   const [excludedIds, setExcludedIds] = useState();
   const [currentQuestionNumber, setCurrentQuestionNumber] = useState();
   const [isNumberInURLGood, setIsNumberInURLGood] = useState();
+  const [data, setData] = useState([]);
+  const [language, setLanguage] = useState(() => {
+    return localStorage.getItem("language") || "en";
+  });
+
   const queryParams = new URLSearchParams(location.search);
   let questionParam = queryParams.get("q");
 
+  const getRandomQuestionNumber = (excludedIds) => {
+    const activeQuestions = data.filter((question) => {
+      return !excludedIds.includes(question.id);
+    });
+    const randomId = Math.floor(Math.random() * activeQuestions.length);
+    return activeQuestions[randomId].id;
+  };
+
   const initQuestion = async () => {
+    if (data.length === 0) return;
+
     const queryParams = new URLSearchParams(location.search);
     questionParam = queryParams.get("q");
     const numericParam = Number(questionParam);
@@ -69,8 +81,12 @@ function App() {
   };
 
   useEffect(() => {
+    getDataByLanguage().then((data) => {
+      setData(data);
+    });
+
     initQuestion();
-  }, []);
+  }, [data, language]);
 
   const navigateHandler = () => {
     initQuestion();
@@ -117,6 +133,8 @@ function App() {
                   currentQuestionNumber={currentQuestionNumber}
                   handleRandomize={handleRandomize}
                   handleNext={handleNext}
+                  setLanguage={setLanguage}
+                  language={language}
                   data={data}
                 />
               }

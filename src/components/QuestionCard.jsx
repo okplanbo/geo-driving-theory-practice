@@ -13,7 +13,7 @@ import {
   Divider,
 } from "@chakra-ui/react";
 
-const QuestionCard = ({ question, excludedIds, updateExcluded }) => {
+const QuestionCard = ({ question, excludedIds, updateExcluded, language }) => {
   const [isExcluded, setIsExcluded] = useState(
     excludedIds.includes(question.id),
   );
@@ -30,8 +30,9 @@ const QuestionCard = ({ question, excludedIds, updateExcluded }) => {
     updateExcluded(newExcludedIds);
   };
 
-  const correctAnswerText = answers.filter((answer) => answer.correct)[0].text
-    .ru;
+  const correctAnswerText = answers.filter((answer) => answer.correct)[0].text[
+    language
+  ];
   const isCorrect = selectedAnswer === correctAnswerText;
 
   return (
@@ -75,8 +76,8 @@ const QuestionCard = ({ question, excludedIds, updateExcluded }) => {
       >
         <Stack spacing={5}>
           {answers.map((answer, index) => (
-            <Radio key={index} value={answer.text.ru}>
-              <span className="select-text">{answer.text.ru}</span>
+            <Radio key={index} value={answer.text[language]}>
+              <span className="select-text">{answer.text[language]}</span>
               {answer.correct && selectedAnswer !== null ? (
                 <CheckCircleIcon
                   marginBottom={1}

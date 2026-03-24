@@ -10,7 +10,8 @@ export default defineConfig({
     rollupOptions: {
       output: {
         manualChunks: {
-          staticDataRu: ["./src/static_data.json"],
+          staticDataRu: ["./src/static_data_ru.json"],
+          staticDataEn: ["./src/static_data_en.json"],
         },
       },
     },
