@@ -7,9 +7,9 @@ export function About() {
         <p>
           This app may help you practice for the B/B1 theory driving exam in
           Georgia. The main idea is to provide a simple interface to practice
-          questions from the official question bank and in process exclude
-          questions you have are confident about, so you can focus on the ones
-          you find difficult.
+          questions from the official question bank, be able to manually exclude
+          a part of them you are confident about and focus on the ones you find
+          difficult.
         </p>
       </section>
 
