@@ -1,3 +1,9 @@
+## [1.6.3](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.6.2...v1.6.3) (2026-03-25)
+
+### Bug Fixes
+
+- spelling ([c28522e](https://github.com/okplanbo/geo-driving-theory-practice/commit/c28522e3637053078432be400f9d8d9abcf7712e))
+
 ## [1.6.2](https://github.com/okplanbo/geo-driving-theory-practice/compare/v1.6.1...v1.6.2) (2025-01-03)
 
 ### Bug Fixes
